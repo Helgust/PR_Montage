@@ -1,0 +1,3042 @@
+﻿<?xml version="1.0"?>
+<xmeml version="5">
+	<project>
+		<name>Untitled Project 1</name>
+		<children>
+			<bin>
+				<updatebehavior>add</updatebehavior>
+				<name>Custom Bins</name>
+				<children>
+					<bin>
+						<updatebehavior>add</updatebehavior>
+						<name>PR_SCENE24</name>
+						<children>
+							<clip id="ArmA 3 2020.11.28 - 18.56.42.67.mp4">
+								<updatebehavior>add</updatebehavior>
+								<name>ArmA 3 2020.11.28 - 18.56.42.67.mp4</name>
+								<duration>578</duration>
+								<rate>
+									<ntsc>FALSE</ntsc>
+									<timebase>60</timebase>
+								</rate>
+								<in>-1</in>
+								<out>-1</out>
+								<masterclipid>ArmA 3 2020.11.28 - 18.56.42.67.mp4</masterclipid>
+								<ismasterclip>TRUE</ismasterclip>
+								<logginginfo>
+									<scene />
+									<shottake />
+									<lognote />
+									<good>FALSE</good>
+								</logginginfo>
+								<labels>
+									<label2 />
+								</labels>
+								<comments>
+									<mastercomment1 />
+									<mastercomment2 />
+									<mastercomment3 />
+									<mastercomment4 />
+								</comments>
+								<media>
+									<video>
+										<track>
+											<clipitem id="ArmA 3 2020.11.28 - 18.56.42.67.mp41">
+												<name>ArmA 3 2020.11.28 - 18.56.42.67.mp4</name>
+												<duration>578</duration>
+												<rate>
+													<ntsc>FALSE</ntsc>
+													<timebase>60</timebase>
+												</rate>
+												<in>0</in>
+												<out>578</out>
+												<start>0</start>
+												<end>578</end>
+												<pixelaspectratio>Square</pixelaspectratio>
+												<anamorphic>FALSE</anamorphic>
+												<alphatype>none</alphatype>
+												<masterclipid>ArmA 3 2020.11.28 - 18.56.42.67.mp4</masterclipid>
+												<logginginfo>
+													<scene />
+													<shottake />
+													<lognote />
+													<good>FALSE</good>
+												</logginginfo>
+												<labels>
+													<label2 />
+												</labels>
+												<comments>
+													<mastercomment1 />
+													<mastercomment2 />
+													<mastercomment3 />
+													<mastercomment4 />
+												</comments>
+												<file id="ArmA 3 2020.11.28 - 18.56.42.67">
+													<name>ArmA 3 2020.11.28 - 18.56.42.67.mp4</name>
+													<pathurl>file://localhost/F:/AMVS Russia/NaturaDestruction/PRPACK6/ArmA 3 2020.11.28 - 18.56.42.67.mp4</pathurl>
+													<rate>
+														<timebase>60</timebase>
+														<ntsc>FALSE</ntsc>
+													</rate>
+													<duration>578</duration>
+													<timecode>
+														<rate>
+															<timebase>60</timebase>
+															<ntsc>FALSE</ntsc>
+														</rate>
+														<frame>0</frame>
+														<displayformat>NDF</displayformat>
+														<source>source</source>
+													</timecode>
+													<media>
+														<video>
+															<duration>578</duration>
+															<samplecharacteristics>
+																<width>1920</width>
+																<height>1080</height>
+															</samplecharacteristics>
+														</video>
+														<audio>
+															<samplecharacteristics>
+																<samplerate>48000</samplerate>
+																<depth>32</depth>
+															</samplecharacteristics>
+															<channelcount>1</channelcount>
+														</audio>
+														<audio>
+															<samplecharacteristics>
+																<samplerate>48000</samplerate>
+																<depth>32</depth>
+															</samplecharacteristics>
+															<channelcount>1</channelcount>
+														</audio>
+													</media>
+												</file>
+												<sourcetrack>
+													<mediatype>video</mediatype>
+												</sourcetrack>
+												<fielddominance>none</fielddominance>
+											</clipitem>
+											<enabled>TRUE</enabled>
+											<locked>FALSE</locked>
+										</track>
+									</video>
+									<audio>
+										<track>
+											<clipitem id="ArmA 3 2020.11.28 - 18.56.42.67.mp42">
+												<name>ArmA 3 2020.11.28 - 18.56.42.67.mp4</name>
+												<duration>578</duration>
+												<rate>
+													<ntsc>TRUE</ntsc>
+													<timebase>24</timebase>
+												</rate>
+												<in>0</in>
+												<out>578</out>
+												<start>0</start>
+												<end>578</end>
+												<masterclipid>ArmA 3 2020.11.28 - 18.56.42.67.mp4</masterclipid>
+												<logginginfo>
+													<scene />
+													<shottake />
+													<lognote />
+													<good>FALSE</good>
+												</logginginfo>
+												<labels>
+													<label2 />
+												</labels>
+												<comments>
+													<mastercomment1 />
+													<mastercomment2 />
+													<mastercomment3 />
+													<mastercomment4 />
+												</comments>
+												<file id="ArmA 3 2020.11.28 - 18.56.42.67" />
+												<sourcetrack>
+													<mediatype>audio</mediatype>
+												</sourcetrack>
+											</clipitem>
+											<enabled>TRUE</enabled>
+											<locked>FALSE</locked>
+										</track>
+										<track>
+											<clipitem id="ArmA 3 2020.11.28 - 18.56.42.67.mp43">
+												<name>ArmA 3 2020.11.28 - 18.56.42.67.mp4</name>
+												<duration>578</duration>
+												<rate>
+													<ntsc>TRUE</ntsc>
+													<timebase>24</timebase>
+												</rate>
+												<in>0</in>
+												<out>578</out>
+												<start>0</start>
+												<end>578</end>
+												<masterclipid>ArmA 3 2020.11.28 - 18.56.42.67.mp4</masterclipid>
+												<logginginfo>
+													<scene />
+													<shottake />
+													<lognote />
+													<good>FALSE</good>
+												</logginginfo>
+												<labels>
+													<label2 />
+												</labels>
+												<comments>
+													<mastercomment1 />
+													<mastercomment2 />
+													<mastercomment3 />
+													<mastercomment4 />
+												</comments>
+												<file id="ArmA 3 2020.11.28 - 18.56.42.67" />
+												<sourcetrack>
+													<mediatype>audio</mediatype>
+												</sourcetrack>
+											</clipitem>
+											<enabled>TRUE</enabled>
+											<locked>FALSE</locked>
+										</track>
+									</audio>
+								</media>
+							</clip>
+							<clip id="ArmA 3 2020.11.28 - 18.58.15.68.mp4">
+								<updatebehavior>add</updatebehavior>
+								<name>ArmA 3 2020.11.28 - 18.58.15.68.mp4</name>
+								<duration>697</duration>
+								<rate>
+									<ntsc>FALSE</ntsc>
+									<timebase>60</timebase>
+								</rate>
+								<in>-1</in>
+								<out>-1</out>
+								<masterclipid>ArmA 3 2020.11.28 - 18.58.15.68.mp4</masterclipid>
+								<ismasterclip>TRUE</ismasterclip>
+								<logginginfo>
+									<scene />
+									<shottake />
+									<lognote />
+									<good>FALSE</good>
+								</logginginfo>
+								<labels>
+									<label2 />
+								</labels>
+								<comments>
+									<mastercomment1 />
+									<mastercomment2 />
+									<mastercomment3 />
+									<mastercomment4 />
+								</comments>
+								<media>
+									<video>
+										<track>
+											<clipitem id="ArmA 3 2020.11.28 - 18.58.15.68.mp41">
+												<name>ArmA 3 2020.11.28 - 18.58.15.68.mp4</name>
+												<duration>697</duration>
+												<rate>
+													<ntsc>FALSE</ntsc>
+													<timebase>60</timebase>
+												</rate>
+												<in>0</in>
+												<out>697</out>
+												<start>0</start>
+												<end>697</end>
+												<pixelaspectratio>Square</pixelaspectratio>
+												<anamorphic>FALSE</anamorphic>
+												<alphatype>none</alphatype>
+												<masterclipid>ArmA 3 2020.11.28 - 18.58.15.68.mp4</masterclipid>
+												<logginginfo>
+													<scene />
+													<shottake />
+													<lognote />
+													<good>FALSE</good>
+												</logginginfo>
+												<labels>
+													<label2 />
+												</labels>
+												<comments>
+													<mastercomment1 />
+													<mastercomment2 />
+													<mastercomment3 />
+													<mastercomment4 />
+												</comments>
+												<file id="ArmA 3 2020.11.28 - 18.58.15.68">
+													<name>ArmA 3 2020.11.28 - 18.58.15.68.mp4</name>
+													<pathurl>file://localhost/F:/AMVS Russia/NaturaDestruction/PRPACK5/ArmA 3 2020.11.28 - 18.58.15.68.mp4</pathurl>
+													<rate>
+														<timebase>60</timebase>
+														<ntsc>FALSE</ntsc>
+													</rate>
+													<duration>697</duration>
+													<timecode>
+														<rate>
+															<timebase>60</timebase>
+															<ntsc>FALSE</ntsc>
+														</rate>
+														<frame>0</frame>
+														<displayformat>NDF</displayformat>
+														<source>source</source>
+													</timecode>
+													<media>
+														<video>
+															<duration>697</duration>
+															<samplecharacteristics>
+																<width>1920</width>
+																<height>1080</height>
+															</samplecharacteristics>
+														</video>
+														<audio>
+															<samplecharacteristics>
+																<samplerate>48000</samplerate>
+																<depth>32</depth>
+															</samplecharacteristics>
+															<channelcount>1</channelcount>
+														</audio>
+														<audio>
+															<samplecharacteristics>
+																<samplerate>48000</samplerate>
+																<depth>32</depth>
+															</samplecharacteristics>
+															<channelcount>1</channelcount>
+														</audio>
+													</media>
+												</file>
+												<sourcetrack>
+													<mediatype>video</mediatype>
+												</sourcetrack>
+												<fielddominance>none</fielddominance>
+											</clipitem>
+											<enabled>TRUE</enabled>
+											<locked>FALSE</locked>
+										</track>
+									</video>
+									<audio>
+										<track>
+											<clipitem id="ArmA 3 2020.11.28 - 18.58.15.68.mp42">
+												<name>ArmA 3 2020.11.28 - 18.58.15.68.mp4</name>
+												<duration>693</duration>
+												<rate>
+													<ntsc>TRUE</ntsc>
+													<timebase>24</timebase>
+												</rate>
+												<in>0</in>
+												<out>693</out>
+												<start>0</start>
+												<end>693</end>
+												<masterclipid>ArmA 3 2020.11.28 - 18.58.15.68.mp4</masterclipid>
+												<logginginfo>
+													<scene />
+													<shottake />
+													<lognote />
+													<good>FALSE</good>
+												</logginginfo>
+												<labels>
+													<label2 />
+												</labels>
+												<comments>
+													<mastercomment1 />
+													<mastercomment2 />
+													<mastercomment3 />
+													<mastercomment4 />
+												</comments>
+												<file id="ArmA 3 2020.11.28 - 18.58.15.68" />
+												<sourcetrack>
+													<mediatype>audio</mediatype>
+												</sourcetrack>
+											</clipitem>
+											<enabled>TRUE</enabled>
+											<locked>FALSE</locked>
+										</track>
+										<track>
+											<clipitem id="ArmA 3 2020.11.28 - 18.58.15.68.mp43">
+												<name>ArmA 3 2020.11.28 - 18.58.15.68.mp4</name>
+												<duration>693</duration>
+												<rate>
+													<ntsc>TRUE</ntsc>
+													<timebase>24</timebase>
+												</rate>
+												<in>0</in>
+												<out>693</out>
+												<start>0</start>
+												<end>693</end>
+												<masterclipid>ArmA 3 2020.11.28 - 18.58.15.68.mp4</masterclipid>
+												<logginginfo>
+													<scene />
+													<shottake />
+													<lognote />
+													<good>FALSE</good>
+												</logginginfo>
+												<labels>
+													<label2 />
+												</labels>
+												<comments>
+													<mastercomment1 />
+													<mastercomment2 />
+													<mastercomment3 />
+													<mastercomment4 />
+												</comments>
+												<file id="ArmA 3 2020.11.28 - 18.58.15.68" />
+												<sourcetrack>
+													<mediatype>audio</mediatype>
+												</sourcetrack>
+											</clipitem>
+											<enabled>TRUE</enabled>
+											<locked>FALSE</locked>
+										</track>
+									</audio>
+								</media>
+							</clip>
+							<clip id="ArmA 3 2020.11.28 - 18.58.57.69.mp4">
+								<updatebehavior>add</updatebehavior>
+								<name>ArmA 3 2020.11.28 - 18.58.57.69.mp4</name>
+								<duration>544</duration>
+								<rate>
+									<ntsc>FALSE</ntsc>
+									<timebase>60</timebase>
+								</rate>
+								<in>-1</in>
+								<out>-1</out>
+								<masterclipid>ArmA 3 2020.11.28 - 18.58.57.69.mp4</masterclipid>
+								<ismasterclip>TRUE</ismasterclip>
+								<logginginfo>
+									<scene />
+									<shottake />
+									<lognote />
+									<good>FALSE</good>
+								</logginginfo>
+								<labels>
+									<label2 />
+								</labels>
+								<comments>
+									<mastercomment1 />
+									<mastercomment2 />
+									<mastercomment3 />
+									<mastercomment4 />
+								</comments>
+								<media>
+									<video>
+										<track>
+											<clipitem id="ArmA 3 2020.11.28 - 18.58.57.69.mp41">
+												<name>ArmA 3 2020.11.28 - 18.58.57.69.mp4</name>
+												<duration>544</duration>
+												<rate>
+													<ntsc>FALSE</ntsc>
+													<timebase>60</timebase>
+												</rate>
+												<in>0</in>
+												<out>544</out>
+												<start>0</start>
+												<end>544</end>
+												<pixelaspectratio>Square</pixelaspectratio>
+												<anamorphic>FALSE</anamorphic>
+												<alphatype>none</alphatype>
+												<masterclipid>ArmA 3 2020.11.28 - 18.58.57.69.mp4</masterclipid>
+												<logginginfo>
+													<scene />
+													<shottake />
+													<lognote />
+													<good>FALSE</good>
+												</logginginfo>
+												<labels>
+													<label2 />
+												</labels>
+												<comments>
+													<mastercomment1 />
+													<mastercomment2 />
+													<mastercomment3 />
+													<mastercomment4 />
+												</comments>
+												<file id="ArmA 3 2020.11.28 - 18.58.57.69">
+													<name>ArmA 3 2020.11.28 - 18.58.57.69.mp4</name>
+													<pathurl>file://localhost/F:/AMVS Russia/NaturaDestruction/PRPACK6/ArmA 3 2020.11.28 - 18.58.57.69.mp4</pathurl>
+													<rate>
+														<timebase>60</timebase>
+														<ntsc>FALSE</ntsc>
+													</rate>
+													<duration>544</duration>
+													<timecode>
+														<rate>
+															<timebase>60</timebase>
+															<ntsc>FALSE</ntsc>
+														</rate>
+														<frame>0</frame>
+														<displayformat>NDF</displayformat>
+														<source>source</source>
+													</timecode>
+													<media>
+														<video>
+															<duration>544</duration>
+															<samplecharacteristics>
+																<width>1920</width>
+																<height>1080</height>
+															</samplecharacteristics>
+														</video>
+														<audio>
+															<samplecharacteristics>
+																<samplerate>48000</samplerate>
+																<depth>32</depth>
+															</samplecharacteristics>
+															<channelcount>1</channelcount>
+														</audio>
+														<audio>
+															<samplecharacteristics>
+																<samplerate>48000</samplerate>
+																<depth>32</depth>
+															</samplecharacteristics>
+															<channelcount>1</channelcount>
+														</audio>
+													</media>
+												</file>
+												<sourcetrack>
+													<mediatype>video</mediatype>
+												</sourcetrack>
+												<fielddominance>none</fielddominance>
+											</clipitem>
+											<enabled>TRUE</enabled>
+											<locked>FALSE</locked>
+										</track>
+									</video>
+									<audio>
+										<track>
+											<clipitem id="ArmA 3 2020.11.28 - 18.58.57.69.mp42">
+												<name>ArmA 3 2020.11.28 - 18.58.57.69.mp4</name>
+												<duration>540</duration>
+												<rate>
+													<ntsc>TRUE</ntsc>
+													<timebase>24</timebase>
+												</rate>
+												<in>0</in>
+												<out>540</out>
+												<start>0</start>
+												<end>540</end>
+												<masterclipid>ArmA 3 2020.11.28 - 18.58.57.69.mp4</masterclipid>
+												<logginginfo>
+													<scene />
+													<shottake />
+													<lognote />
+													<good>FALSE</good>
+												</logginginfo>
+												<labels>
+													<label2 />
+												</labels>
+												<comments>
+													<mastercomment1 />
+													<mastercomment2 />
+													<mastercomment3 />
+													<mastercomment4 />
+												</comments>
+												<file id="ArmA 3 2020.11.28 - 18.58.57.69" />
+												<sourcetrack>
+													<mediatype>audio</mediatype>
+												</sourcetrack>
+											</clipitem>
+											<enabled>TRUE</enabled>
+											<locked>FALSE</locked>
+										</track>
+										<track>
+											<clipitem id="ArmA 3 2020.11.28 - 18.58.57.69.mp43">
+												<name>ArmA 3 2020.11.28 - 18.58.57.69.mp4</name>
+												<duration>540</duration>
+												<rate>
+													<ntsc>TRUE</ntsc>
+													<timebase>24</timebase>
+												</rate>
+												<in>0</in>
+												<out>540</out>
+												<start>0</start>
+												<end>540</end>
+												<masterclipid>ArmA 3 2020.11.28 - 18.58.57.69.mp4</masterclipid>
+												<logginginfo>
+													<scene />
+													<shottake />
+													<lognote />
+													<good>FALSE</good>
+												</logginginfo>
+												<labels>
+													<label2 />
+												</labels>
+												<comments>
+													<mastercomment1 />
+													<mastercomment2 />
+													<mastercomment3 />
+													<mastercomment4 />
+												</comments>
+												<file id="ArmA 3 2020.11.28 - 18.58.57.69" />
+												<sourcetrack>
+													<mediatype>audio</mediatype>
+												</sourcetrack>
+											</clipitem>
+											<enabled>TRUE</enabled>
+											<locked>FALSE</locked>
+										</track>
+									</audio>
+								</media>
+							</clip>
+							<clip id="ArmA 3 2020.11.28 - 18.59.21.70.mp4">
+								<updatebehavior>add</updatebehavior>
+								<name>ArmA 3 2020.11.28 - 18.59.21.70.mp4</name>
+								<duration>642</duration>
+								<rate>
+									<ntsc>FALSE</ntsc>
+									<timebase>60</timebase>
+								</rate>
+								<in>-1</in>
+								<out>-1</out>
+								<masterclipid>ArmA 3 2020.11.28 - 18.59.21.70.mp4</masterclipid>
+								<ismasterclip>TRUE</ismasterclip>
+								<logginginfo>
+									<scene />
+									<shottake />
+									<lognote />
+									<good>FALSE</good>
+								</logginginfo>
+								<labels>
+									<label2 />
+								</labels>
+								<comments>
+									<mastercomment1 />
+									<mastercomment2 />
+									<mastercomment3 />
+									<mastercomment4 />
+								</comments>
+								<media>
+									<video>
+										<track>
+											<clipitem id="ArmA 3 2020.11.28 - 18.59.21.70.mp41">
+												<name>ArmA 3 2020.11.28 - 18.59.21.70.mp4</name>
+												<duration>642</duration>
+												<rate>
+													<ntsc>FALSE</ntsc>
+													<timebase>60</timebase>
+												</rate>
+												<in>0</in>
+												<out>642</out>
+												<start>0</start>
+												<end>642</end>
+												<pixelaspectratio>Square</pixelaspectratio>
+												<anamorphic>FALSE</anamorphic>
+												<alphatype>none</alphatype>
+												<masterclipid>ArmA 3 2020.11.28 - 18.59.21.70.mp4</masterclipid>
+												<logginginfo>
+													<scene />
+													<shottake />
+													<lognote />
+													<good>FALSE</good>
+												</logginginfo>
+												<labels>
+													<label2 />
+												</labels>
+												<comments>
+													<mastercomment1 />
+													<mastercomment2 />
+													<mastercomment3 />
+													<mastercomment4 />
+												</comments>
+												<file id="ArmA 3 2020.11.28 - 18.59.21.70">
+													<name>ArmA 3 2020.11.28 - 18.59.21.70.mp4</name>
+													<pathurl>file://localhost/F:/AMVS Russia/NaturaDestruction/PRPACK6/ArmA 3 2020.11.28 - 18.59.21.70.mp4</pathurl>
+													<rate>
+														<timebase>60</timebase>
+														<ntsc>FALSE</ntsc>
+													</rate>
+													<duration>642</duration>
+													<timecode>
+														<rate>
+															<timebase>60</timebase>
+															<ntsc>FALSE</ntsc>
+														</rate>
+														<frame>0</frame>
+														<displayformat>NDF</displayformat>
+														<source>source</source>
+													</timecode>
+													<media>
+														<video>
+															<duration>642</duration>
+															<samplecharacteristics>
+																<width>1920</width>
+																<height>1080</height>
+															</samplecharacteristics>
+														</video>
+														<audio>
+															<samplecharacteristics>
+																<samplerate>48000</samplerate>
+																<depth>32</depth>
+															</samplecharacteristics>
+															<channelcount>1</channelcount>
+														</audio>
+														<audio>
+															<samplecharacteristics>
+																<samplerate>48000</samplerate>
+																<depth>32</depth>
+															</samplecharacteristics>
+															<channelcount>1</channelcount>
+														</audio>
+													</media>
+												</file>
+												<sourcetrack>
+													<mediatype>video</mediatype>
+												</sourcetrack>
+												<fielddominance>none</fielddominance>
+											</clipitem>
+											<enabled>TRUE</enabled>
+											<locked>FALSE</locked>
+										</track>
+									</video>
+									<audio>
+										<track>
+											<clipitem id="ArmA 3 2020.11.28 - 18.59.21.70.mp42">
+												<name>ArmA 3 2020.11.28 - 18.59.21.70.mp4</name>
+												<duration>642</duration>
+												<rate>
+													<ntsc>TRUE</ntsc>
+													<timebase>24</timebase>
+												</rate>
+												<in>0</in>
+												<out>642</out>
+												<start>0</start>
+												<end>642</end>
+												<masterclipid>ArmA 3 2020.11.28 - 18.59.21.70.mp4</masterclipid>
+												<logginginfo>
+													<scene />
+													<shottake />
+													<lognote />
+													<good>FALSE</good>
+												</logginginfo>
+												<labels>
+													<label2 />
+												</labels>
+												<comments>
+													<mastercomment1 />
+													<mastercomment2 />
+													<mastercomment3 />
+													<mastercomment4 />
+												</comments>
+												<file id="ArmA 3 2020.11.28 - 18.59.21.70" />
+												<sourcetrack>
+													<mediatype>audio</mediatype>
+												</sourcetrack>
+											</clipitem>
+											<enabled>TRUE</enabled>
+											<locked>FALSE</locked>
+										</track>
+										<track>
+											<clipitem id="ArmA 3 2020.11.28 - 18.59.21.70.mp43">
+												<name>ArmA 3 2020.11.28 - 18.59.21.70.mp4</name>
+												<duration>642</duration>
+												<rate>
+													<ntsc>TRUE</ntsc>
+													<timebase>24</timebase>
+												</rate>
+												<in>0</in>
+												<out>642</out>
+												<start>0</start>
+												<end>642</end>
+												<masterclipid>ArmA 3 2020.11.28 - 18.59.21.70.mp4</masterclipid>
+												<logginginfo>
+													<scene />
+													<shottake />
+													<lognote />
+													<good>FALSE</good>
+												</logginginfo>
+												<labels>
+													<label2 />
+												</labels>
+												<comments>
+													<mastercomment1 />
+													<mastercomment2 />
+													<mastercomment3 />
+													<mastercomment4 />
+												</comments>
+												<file id="ArmA 3 2020.11.28 - 18.59.21.70" />
+												<sourcetrack>
+													<mediatype>audio</mediatype>
+												</sourcetrack>
+											</clipitem>
+											<enabled>TRUE</enabled>
+											<locked>FALSE</locked>
+										</track>
+									</audio>
+								</media>
+							</clip>
+							<clip id="ArmA 3 2020.11.28 - 18.59.56.71.mp4">
+								<updatebehavior>add</updatebehavior>
+								<name>ArmA 3 2020.11.28 - 18.59.56.71.mp4</name>
+								<duration>684</duration>
+								<rate>
+									<ntsc>FALSE</ntsc>
+									<timebase>60</timebase>
+								</rate>
+								<in>-1</in>
+								<out>-1</out>
+								<masterclipid>ArmA 3 2020.11.28 - 18.59.56.71.mp4</masterclipid>
+								<ismasterclip>TRUE</ismasterclip>
+								<logginginfo>
+									<scene />
+									<shottake />
+									<lognote />
+									<good>FALSE</good>
+								</logginginfo>
+								<labels>
+									<label2 />
+								</labels>
+								<comments>
+									<mastercomment1 />
+									<mastercomment2 />
+									<mastercomment3 />
+									<mastercomment4 />
+								</comments>
+								<media>
+									<video>
+										<track>
+											<clipitem id="ArmA 3 2020.11.28 - 18.59.56.71.mp41">
+												<name>ArmA 3 2020.11.28 - 18.59.56.71.mp4</name>
+												<duration>684</duration>
+												<rate>
+													<ntsc>FALSE</ntsc>
+													<timebase>60</timebase>
+												</rate>
+												<in>0</in>
+												<out>684</out>
+												<start>0</start>
+												<end>684</end>
+												<pixelaspectratio>Square</pixelaspectratio>
+												<anamorphic>FALSE</anamorphic>
+												<alphatype>none</alphatype>
+												<masterclipid>ArmA 3 2020.11.28 - 18.59.56.71.mp4</masterclipid>
+												<logginginfo>
+													<scene />
+													<shottake />
+													<lognote />
+													<good>FALSE</good>
+												</logginginfo>
+												<labels>
+													<label2 />
+												</labels>
+												<comments>
+													<mastercomment1 />
+													<mastercomment2 />
+													<mastercomment3 />
+													<mastercomment4 />
+												</comments>
+												<file id="ArmA 3 2020.11.28 - 18.59.56.71">
+													<name>ArmA 3 2020.11.28 - 18.59.56.71.mp4</name>
+													<pathurl>file://localhost/F:/AMVS Russia/NaturaDestruction/PRPACK5/ArmA 3 2020.11.28 - 18.59.56.71.mp4</pathurl>
+													<rate>
+														<timebase>60</timebase>
+														<ntsc>FALSE</ntsc>
+													</rate>
+													<duration>684</duration>
+													<timecode>
+														<rate>
+															<timebase>60</timebase>
+															<ntsc>FALSE</ntsc>
+														</rate>
+														<frame>0</frame>
+														<displayformat>NDF</displayformat>
+														<source>source</source>
+													</timecode>
+													<media>
+														<video>
+															<duration>684</duration>
+															<samplecharacteristics>
+																<width>1920</width>
+																<height>1080</height>
+															</samplecharacteristics>
+														</video>
+														<audio>
+															<samplecharacteristics>
+																<samplerate>48000</samplerate>
+																<depth>32</depth>
+															</samplecharacteristics>
+															<channelcount>1</channelcount>
+														</audio>
+														<audio>
+															<samplecharacteristics>
+																<samplerate>48000</samplerate>
+																<depth>32</depth>
+															</samplecharacteristics>
+															<channelcount>1</channelcount>
+														</audio>
+													</media>
+												</file>
+												<sourcetrack>
+													<mediatype>video</mediatype>
+												</sourcetrack>
+												<fielddominance>none</fielddominance>
+											</clipitem>
+											<enabled>TRUE</enabled>
+											<locked>FALSE</locked>
+										</track>
+									</video>
+									<audio>
+										<track>
+											<clipitem id="ArmA 3 2020.11.28 - 18.59.56.71.mp42">
+												<name>ArmA 3 2020.11.28 - 18.59.56.71.mp4</name>
+												<duration>684</duration>
+												<rate>
+													<ntsc>TRUE</ntsc>
+													<timebase>24</timebase>
+												</rate>
+												<in>0</in>
+												<out>684</out>
+												<start>0</start>
+												<end>684</end>
+												<masterclipid>ArmA 3 2020.11.28 - 18.59.56.71.mp4</masterclipid>
+												<logginginfo>
+													<scene />
+													<shottake />
+													<lognote />
+													<good>FALSE</good>
+												</logginginfo>
+												<labels>
+													<label2 />
+												</labels>
+												<comments>
+													<mastercomment1 />
+													<mastercomment2 />
+													<mastercomment3 />
+													<mastercomment4 />
+												</comments>
+												<file id="ArmA 3 2020.11.28 - 18.59.56.71" />
+												<sourcetrack>
+													<mediatype>audio</mediatype>
+												</sourcetrack>
+											</clipitem>
+											<enabled>TRUE</enabled>
+											<locked>FALSE</locked>
+										</track>
+										<track>
+											<clipitem id="ArmA 3 2020.11.28 - 18.59.56.71.mp43">
+												<name>ArmA 3 2020.11.28 - 18.59.56.71.mp4</name>
+												<duration>684</duration>
+												<rate>
+													<ntsc>TRUE</ntsc>
+													<timebase>24</timebase>
+												</rate>
+												<in>0</in>
+												<out>684</out>
+												<start>0</start>
+												<end>684</end>
+												<masterclipid>ArmA 3 2020.11.28 - 18.59.56.71.mp4</masterclipid>
+												<logginginfo>
+													<scene />
+													<shottake />
+													<lognote />
+													<good>FALSE</good>
+												</logginginfo>
+												<labels>
+													<label2 />
+												</labels>
+												<comments>
+													<mastercomment1 />
+													<mastercomment2 />
+													<mastercomment3 />
+													<mastercomment4 />
+												</comments>
+												<file id="ArmA 3 2020.11.28 - 18.59.56.71" />
+												<sourcetrack>
+													<mediatype>audio</mediatype>
+												</sourcetrack>
+											</clipitem>
+											<enabled>TRUE</enabled>
+											<locked>FALSE</locked>
+										</track>
+									</audio>
+								</media>
+							</clip>
+						</children>
+					</bin>
+					<bin>
+						<updatebehavior>add</updatebehavior>
+						<name>voiceover</name>
+						<children>
+							<clip id="PR_Hadab_Sc24.ogg">
+								<updatebehavior>add</updatebehavior>
+								<name>PR_Hadab_Sc24.ogg</name>
+								<duration>0</duration>
+								<rate>
+									<ntsc>TRUE</ntsc>
+									<timebase>24</timebase>
+								</rate>
+								<in>-1</in>
+								<out>-1</out>
+								<masterclipid>PR_Hadab_Sc24.ogg</masterclipid>
+								<ismasterclip>TRUE</ismasterclip>
+								<logginginfo>
+									<scene />
+									<shottake />
+									<lognote />
+									<good>FALSE</good>
+								</logginginfo>
+								<labels>
+									<label2 />
+								</labels>
+								<comments>
+									<mastercomment1 />
+									<mastercomment2 />
+									<mastercomment3 />
+									<mastercomment4 />
+								</comments>
+								<media>
+									<video />
+									<audio />
+								</media>
+							</clip>
+							<clip id="PR_Jahid_Sc24.ogg">
+								<updatebehavior>add</updatebehavior>
+								<name>PR_Jahid_Sc24.ogg</name>
+								<duration>0</duration>
+								<rate>
+									<ntsc>TRUE</ntsc>
+									<timebase>24</timebase>
+								</rate>
+								<in>-1</in>
+								<out>-1</out>
+								<masterclipid>PR_Jahid_Sc24.ogg</masterclipid>
+								<ismasterclip>TRUE</ismasterclip>
+								<logginginfo>
+									<scene />
+									<shottake />
+									<lognote />
+									<good>FALSE</good>
+								</logginginfo>
+								<labels>
+									<label2 />
+								</labels>
+								<comments>
+									<mastercomment1 />
+									<mastercomment2 />
+									<mastercomment3 />
+									<mastercomment4 />
+								</comments>
+								<media>
+									<video />
+									<audio />
+								</media>
+							</clip>
+						</children>
+					</bin>
+					<bin>
+						<updatebehavior>add</updatebehavior>
+						<name>bgsfx</name>
+						<children />
+					</bin>
+				</children>
+			</bin>
+			<sequence id="Sequence 1">
+				<updatebehavior>add</updatebehavior>
+				<name>Sequence 1</name>
+				<duration>3149</duration>
+				<rate>
+					<ntsc>TRUE</ntsc>
+					<timebase>24</timebase>
+				</rate>
+				<timecode>
+					<rate>
+						<ntsc>TRUE</ntsc>
+						<timebase>24</timebase>
+					</rate>
+					<frame>86313</frame>
+					<source>source</source>
+					<displayformat>DF</displayformat>
+				</timecode>
+				<in>-1</in>
+				<out>-1</out>
+				<media>
+					<video>
+						<format>
+							<samplecharacteristics>
+								<width>1920</width>
+								<height>1080</height>
+								<pixelaspectratio>Square</pixelaspectratio>
+								<anamorphic>FALSE</anamorphic>
+								<fielddominance>none</fielddominance>
+								<rate>
+									<ntsc>TRUE</ntsc>
+									<timebase>24</timebase>
+								</rate>
+								<colordepth>24</colordepth>
+								<codec>
+									<appspecificdata>
+										<data>
+											<qtcodec>
+												<codectypecode>avc1</codectypecode>
+											</qtcodec>
+										</data>
+										<appname>Final Cut Pro</appname>
+										<appmanufacturer>Apple Inc.</appmanufacturer>
+										<appversion>7.0</appversion>
+									</appspecificdata>
+								</codec>
+							</samplecharacteristics>
+						</format>
+						<track>
+							<clipitem id="ArmA 3 2020.11.28 - 18.56.42.67.mp4805307592">
+								<name>ArmA 3 2020.11.28 - 18.56.42.67.mp4</name>
+								<duration>578</duration>
+								<rate>
+									<ntsc>FALSE</ntsc>
+									<timebase>60</timebase>
+								</rate>
+								<in>0</in>
+								<out>578</out>
+								<start>0</start>
+								<end>578</end>
+								<pixelaspectratio>Square</pixelaspectratio>
+								<anamorphic>FALSE</anamorphic>
+								<alphatype>none</alphatype>
+								<masterclipid>ArmA 3 2020.11.28 - 18.56.42.67.mp4</masterclipid>
+								<logginginfo>
+									<scene />
+									<shottake />
+									<lognote />
+									<good>FALSE</good>
+								</logginginfo>
+								<labels>
+									<label2 />
+								</labels>
+								<comments>
+									<mastercomment1 />
+									<mastercomment2 />
+									<mastercomment3 />
+									<mastercomment4 />
+								</comments>
+								<file id="ArmA 3 2020.11.28 - 18.56.42.67" />
+								<filter>
+									<effect>
+										<name>Opacity</name>
+										<effectid>opacity</effectid>
+										<effectcategory>motion</effectcategory>
+										<effecttype>motion</effecttype>
+										<mediatype>video</mediatype>
+										<parameter>
+											<name>opacity</name>
+											<parameterid>opacity</parameterid>
+											<valuemin>0</valuemin>
+											<valuemax>100</valuemax>
+											<value>100</value>
+										</parameter>
+									</effect>
+								</filter>
+								<sourcetrack>
+									<mediatype>video</mediatype>
+								</sourcetrack>
+								<link>
+									<linkclipref>ArmA 3 2020.11.28 - 18.56.42.67.mp4805307592</linkclipref>
+								</link>
+								<link>
+									<linkclipref>ArmA 3 2020.11.28 - 18.56.42.67.mp4536872137</linkclipref>
+								</link>
+								<link>
+									<linkclipref>ArmA 3 2020.11.28 - 18.56.42.67.mp45368721371</linkclipref>
+								</link>
+								<link>
+									<linkclipref>ArmA 3 2020.11.28 - 18.56.42.67.mp4536872138</linkclipref>
+								</link>
+								<link>
+									<linkclipref>ArmA 3 2020.11.28 - 18.56.42.67.mp45368721381</linkclipref>
+								</link>
+								<fielddominance>none</fielddominance>
+							</clipitem>
+							<clipitem id="ArmA 3 2020.11.28 - 18.58.15.68.mp4805307595">
+								<name>ArmA 3 2020.11.28 - 18.58.15.68.mp4</name>
+								<duration>697</duration>
+								<rate>
+									<ntsc>FALSE</ntsc>
+									<timebase>60</timebase>
+								</rate>
+								<in>0</in>
+								<out>697</out>
+								<start>579</start>
+								<end>1276</end>
+								<pixelaspectratio>Square</pixelaspectratio>
+								<anamorphic>FALSE</anamorphic>
+								<alphatype>none</alphatype>
+								<masterclipid>ArmA 3 2020.11.28 - 18.58.15.68.mp4</masterclipid>
+								<logginginfo>
+									<scene />
+									<shottake />
+									<lognote />
+									<good>FALSE</good>
+								</logginginfo>
+								<labels>
+									<label2 />
+								</labels>
+								<comments>
+									<mastercomment1 />
+									<mastercomment2 />
+									<mastercomment3 />
+									<mastercomment4 />
+								</comments>
+								<file id="ArmA 3 2020.11.28 - 18.58.15.68" />
+								<filter>
+									<effect>
+										<name>Opacity</name>
+										<effectid>opacity</effectid>
+										<effectcategory>motion</effectcategory>
+										<effecttype>motion</effecttype>
+										<mediatype>video</mediatype>
+										<parameter>
+											<name>opacity</name>
+											<parameterid>opacity</parameterid>
+											<valuemin>0</valuemin>
+											<valuemax>100</valuemax>
+											<value>100</value>
+										</parameter>
+									</effect>
+								</filter>
+								<sourcetrack>
+									<mediatype>video</mediatype>
+								</sourcetrack>
+								<link>
+									<linkclipref>ArmA 3 2020.11.28 - 18.58.15.68.mp4805307595</linkclipref>
+								</link>
+								<link>
+									<linkclipref>ArmA 3 2020.11.28 - 18.58.15.68.mp4536872140</linkclipref>
+								</link>
+								<link>
+									<linkclipref>ArmA 3 2020.11.28 - 18.58.15.68.mp45368721401</linkclipref>
+								</link>
+								<link>
+									<linkclipref>ArmA 3 2020.11.28 - 18.58.15.68.mp4536872141</linkclipref>
+								</link>
+								<link>
+									<linkclipref>ArmA 3 2020.11.28 - 18.58.15.68.mp45368721411</linkclipref>
+								</link>
+								<fielddominance>none</fielddominance>
+							</clipitem>
+							<clipitem id="ArmA 3 2020.11.28 - 18.58.57.69.mp4805307598">
+								<name>ArmA 3 2020.11.28 - 18.58.57.69.mp4</name>
+								<duration>544</duration>
+								<rate>
+									<ntsc>FALSE</ntsc>
+									<timebase>60</timebase>
+								</rate>
+								<in>0</in>
+								<out>544</out>
+								<start>1277</start>
+								<end>1821</end>
+								<pixelaspectratio>Square</pixelaspectratio>
+								<anamorphic>FALSE</anamorphic>
+								<alphatype>none</alphatype>
+								<masterclipid>ArmA 3 2020.11.28 - 18.58.57.69.mp4</masterclipid>
+								<logginginfo>
+									<scene />
+									<shottake />
+									<lognote />
+									<good>FALSE</good>
+								</logginginfo>
+								<labels>
+									<label2 />
+								</labels>
+								<comments>
+									<mastercomment1 />
+									<mastercomment2 />
+									<mastercomment3 />
+									<mastercomment4 />
+								</comments>
+								<file id="ArmA 3 2020.11.28 - 18.58.57.69" />
+								<filter>
+									<effect>
+										<name>Opacity</name>
+										<effectid>opacity</effectid>
+										<effectcategory>motion</effectcategory>
+										<effecttype>motion</effecttype>
+										<mediatype>video</mediatype>
+										<parameter>
+											<name>opacity</name>
+											<parameterid>opacity</parameterid>
+											<valuemin>0</valuemin>
+											<valuemax>100</valuemax>
+											<value>100</value>
+										</parameter>
+									</effect>
+								</filter>
+								<sourcetrack>
+									<mediatype>video</mediatype>
+								</sourcetrack>
+								<link>
+									<linkclipref>ArmA 3 2020.11.28 - 18.58.57.69.mp4805307598</linkclipref>
+								</link>
+								<link>
+									<linkclipref>ArmA 3 2020.11.28 - 18.58.57.69.mp4536872143</linkclipref>
+								</link>
+								<link>
+									<linkclipref>ArmA 3 2020.11.28 - 18.58.57.69.mp45368721431</linkclipref>
+								</link>
+								<link>
+									<linkclipref>ArmA 3 2020.11.28 - 18.58.57.69.mp4536872144</linkclipref>
+								</link>
+								<link>
+									<linkclipref>ArmA 3 2020.11.28 - 18.58.57.69.mp45368721441</linkclipref>
+								</link>
+								<fielddominance>none</fielddominance>
+							</clipitem>
+							<clipitem id="ArmA 3 2020.11.28 - 18.59.21.70.mp4805307601">
+								<name>ArmA 3 2020.11.28 - 18.59.21.70.mp4</name>
+								<duration>642</duration>
+								<rate>
+									<ntsc>FALSE</ntsc>
+									<timebase>60</timebase>
+								</rate>
+								<in>0</in>
+								<out>642</out>
+								<start>1822</start>
+								<end>2464</end>
+								<pixelaspectratio>Square</pixelaspectratio>
+								<anamorphic>FALSE</anamorphic>
+								<alphatype>none</alphatype>
+								<masterclipid>ArmA 3 2020.11.28 - 18.59.21.70.mp4</masterclipid>
+								<logginginfo>
+									<scene />
+									<shottake />
+									<lognote />
+									<good>FALSE</good>
+								</logginginfo>
+								<labels>
+									<label2 />
+								</labels>
+								<comments>
+									<mastercomment1 />
+									<mastercomment2 />
+									<mastercomment3 />
+									<mastercomment4 />
+								</comments>
+								<file id="ArmA 3 2020.11.28 - 18.59.21.70" />
+								<filter>
+									<effect>
+										<name>Opacity</name>
+										<effectid>opacity</effectid>
+										<effectcategory>motion</effectcategory>
+										<effecttype>motion</effecttype>
+										<mediatype>video</mediatype>
+										<parameter>
+											<name>opacity</name>
+											<parameterid>opacity</parameterid>
+											<valuemin>0</valuemin>
+											<valuemax>100</valuemax>
+											<value>100</value>
+										</parameter>
+									</effect>
+								</filter>
+								<sourcetrack>
+									<mediatype>video</mediatype>
+								</sourcetrack>
+								<link>
+									<linkclipref>ArmA 3 2020.11.28 - 18.59.21.70.mp4805307601</linkclipref>
+								</link>
+								<link>
+									<linkclipref>ArmA 3 2020.11.28 - 18.59.21.70.mp4536872146</linkclipref>
+								</link>
+								<link>
+									<linkclipref>ArmA 3 2020.11.28 - 18.59.21.70.mp45368721461</linkclipref>
+								</link>
+								<link>
+									<linkclipref>ArmA 3 2020.11.28 - 18.59.21.70.mp4536872147</linkclipref>
+								</link>
+								<link>
+									<linkclipref>ArmA 3 2020.11.28 - 18.59.21.70.mp45368721471</linkclipref>
+								</link>
+								<fielddominance>none</fielddominance>
+							</clipitem>
+							<clipitem id="ArmA 3 2020.11.28 - 18.59.56.71.mp4805307604">
+								<name>ArmA 3 2020.11.28 - 18.59.56.71.mp4</name>
+								<duration>684</duration>
+								<rate>
+									<ntsc>FALSE</ntsc>
+									<timebase>60</timebase>
+								</rate>
+								<in>0</in>
+								<out>684</out>
+								<start>2465</start>
+								<end>3149</end>
+								<pixelaspectratio>Square</pixelaspectratio>
+								<anamorphic>FALSE</anamorphic>
+								<alphatype>none</alphatype>
+								<masterclipid>ArmA 3 2020.11.28 - 18.59.56.71.mp4</masterclipid>
+								<logginginfo>
+									<scene />
+									<shottake />
+									<lognote />
+									<good>FALSE</good>
+								</logginginfo>
+								<labels>
+									<label2 />
+								</labels>
+								<comments>
+									<mastercomment1 />
+									<mastercomment2 />
+									<mastercomment3 />
+									<mastercomment4 />
+								</comments>
+								<file id="ArmA 3 2020.11.28 - 18.59.56.71" />
+								<filter>
+									<effect>
+										<name>Opacity</name>
+										<effectid>opacity</effectid>
+										<effectcategory>motion</effectcategory>
+										<effecttype>motion</effecttype>
+										<mediatype>video</mediatype>
+										<parameter>
+											<name>opacity</name>
+											<parameterid>opacity</parameterid>
+											<valuemin>0</valuemin>
+											<valuemax>100</valuemax>
+											<value>100</value>
+										</parameter>
+									</effect>
+								</filter>
+								<sourcetrack>
+									<mediatype>video</mediatype>
+								</sourcetrack>
+								<link>
+									<linkclipref>ArmA 3 2020.11.28 - 18.59.56.71.mp4805307604</linkclipref>
+								</link>
+								<link>
+									<linkclipref>ArmA 3 2020.11.28 - 18.59.56.71.mp4536872149</linkclipref>
+								</link>
+								<link>
+									<linkclipref>ArmA 3 2020.11.28 - 18.59.56.71.mp45368721491</linkclipref>
+								</link>
+								<link>
+									<linkclipref>ArmA 3 2020.11.28 - 18.59.56.71.mp4536872150</linkclipref>
+								</link>
+								<link>
+									<linkclipref>ArmA 3 2020.11.28 - 18.59.56.71.mp45368721501</linkclipref>
+								</link>
+								<fielddominance>none</fielddominance>
+							</clipitem>
+						</track>
+					</video>
+					<audio>
+						<track>
+							<clipitem id="ArmA 3 2020.11.28 - 18.56.42.67.mp4536872138">
+								<name>ArmA 3 2020.11.28 - 18.56.42.67.mp4</name>
+								<duration>578</duration>
+								<rate>
+									<ntsc>TRUE</ntsc>
+									<timebase>24</timebase>
+								</rate>
+								<in>0</in>
+								<out>578</out>
+								<start>0</start>
+								<end>578</end>
+								<enabled>FALSE</enabled>
+								<masterclipid>ArmA 3 2020.11.28 - 18.56.42.67.mp4</masterclipid>
+								<logginginfo>
+									<scene />
+									<shottake />
+									<lognote />
+									<good>FALSE</good>
+								</logginginfo>
+								<labels>
+									<label2 />
+								</labels>
+								<comments>
+									<mastercomment1 />
+									<mastercomment2 />
+									<mastercomment3 />
+									<mastercomment4 />
+								</comments>
+								<file id="ArmA 3 2020.11.28 - 18.56.42.67" />
+								<filter>
+									<effect>
+										<name>Audio Levels</name>
+										<effectid>audiolevels</effectid>
+										<effectcategory>audiolevels</effectcategory>
+										<effecttype>audiolevels</effecttype>
+										<mediatype>audio</mediatype>
+										<parameter>
+											<name>Level</name>
+											<parameterid>level</parameterid>
+											<valuemin>0</valuemin>
+											<valuemax>3,98109</valuemax>
+											<value>1</value>
+										</parameter>
+									</effect>
+								</filter>
+								<filter>
+									<effect>
+										<name>Audio Pan</name>
+										<effectid>audiopan</effectid>
+										<effectcategory>audiopan</effectcategory>
+										<effecttype>audiopan</effecttype>
+										<mediatype>audio</mediatype>
+										<parameter>
+											<name>Pan</name>
+											<parameterid>pan</parameterid>
+											<valuemin>-1</valuemin>
+											<valuemax>1</valuemax>
+											<value>-1</value>
+										</parameter>
+									</effect>
+								</filter>
+								<sourcetrack>
+									<mediatype>audio</mediatype>
+									<trackindex>1</trackindex>
+								</sourcetrack>
+								<link>
+									<linkclipref>ArmA 3 2020.11.28 - 18.56.42.67.mp4805307592</linkclipref>
+								</link>
+								<link>
+									<linkclipref>ArmA 3 2020.11.28 - 18.56.42.67.mp4536872137</linkclipref>
+								</link>
+								<link>
+									<linkclipref>ArmA 3 2020.11.28 - 18.56.42.67.mp45368721371</linkclipref>
+								</link>
+								<link>
+									<linkclipref>ArmA 3 2020.11.28 - 18.56.42.67.mp4536872138</linkclipref>
+								</link>
+								<link>
+									<linkclipref>ArmA 3 2020.11.28 - 18.56.42.67.mp45368721381</linkclipref>
+								</link>
+							</clipitem>
+							<clipitem id="ArmA 3 2020.11.28 - 18.58.15.68.mp4536872141">
+								<name>ArmA 3 2020.11.28 - 18.58.15.68.mp4</name>
+								<duration>697</duration>
+								<rate>
+									<ntsc>TRUE</ntsc>
+									<timebase>24</timebase>
+								</rate>
+								<in>0</in>
+								<out>697</out>
+								<start>579</start>
+								<end>1276</end>
+								<enabled>FALSE</enabled>
+								<masterclipid>ArmA 3 2020.11.28 - 18.58.15.68.mp4</masterclipid>
+								<logginginfo>
+									<scene />
+									<shottake />
+									<lognote />
+									<good>FALSE</good>
+								</logginginfo>
+								<labels>
+									<label2 />
+								</labels>
+								<comments>
+									<mastercomment1 />
+									<mastercomment2 />
+									<mastercomment3 />
+									<mastercomment4 />
+								</comments>
+								<file id="ArmA 3 2020.11.28 - 18.58.15.68" />
+								<filter>
+									<effect>
+										<name>Audio Levels</name>
+										<effectid>audiolevels</effectid>
+										<effectcategory>audiolevels</effectcategory>
+										<effecttype>audiolevels</effecttype>
+										<mediatype>audio</mediatype>
+										<parameter>
+											<name>Level</name>
+											<parameterid>level</parameterid>
+											<valuemin>0</valuemin>
+											<valuemax>3,98109</valuemax>
+											<value>1</value>
+										</parameter>
+									</effect>
+								</filter>
+								<filter>
+									<effect>
+										<name>Audio Pan</name>
+										<effectid>audiopan</effectid>
+										<effectcategory>audiopan</effectcategory>
+										<effecttype>audiopan</effecttype>
+										<mediatype>audio</mediatype>
+										<parameter>
+											<name>Pan</name>
+											<parameterid>pan</parameterid>
+											<valuemin>-1</valuemin>
+											<valuemax>1</valuemax>
+											<value>-1</value>
+										</parameter>
+									</effect>
+								</filter>
+								<sourcetrack>
+									<mediatype>audio</mediatype>
+									<trackindex>1</trackindex>
+								</sourcetrack>
+								<link>
+									<linkclipref>ArmA 3 2020.11.28 - 18.58.15.68.mp4805307595</linkclipref>
+								</link>
+								<link>
+									<linkclipref>ArmA 3 2020.11.28 - 18.58.15.68.mp4536872140</linkclipref>
+								</link>
+								<link>
+									<linkclipref>ArmA 3 2020.11.28 - 18.58.15.68.mp45368721401</linkclipref>
+								</link>
+								<link>
+									<linkclipref>ArmA 3 2020.11.28 - 18.58.15.68.mp4536872141</linkclipref>
+								</link>
+								<link>
+									<linkclipref>ArmA 3 2020.11.28 - 18.58.15.68.mp45368721411</linkclipref>
+								</link>
+							</clipitem>
+							<clipitem id="ArmA 3 2020.11.28 - 18.58.57.69.mp4536872144">
+								<name>ArmA 3 2020.11.28 - 18.58.57.69.mp4</name>
+								<duration>544</duration>
+								<rate>
+									<ntsc>TRUE</ntsc>
+									<timebase>24</timebase>
+								</rate>
+								<in>0</in>
+								<out>544</out>
+								<start>1277</start>
+								<end>1821</end>
+								<enabled>FALSE</enabled>
+								<masterclipid>ArmA 3 2020.11.28 - 18.58.57.69.mp4</masterclipid>
+								<logginginfo>
+									<scene />
+									<shottake />
+									<lognote />
+									<good>FALSE</good>
+								</logginginfo>
+								<labels>
+									<label2 />
+								</labels>
+								<comments>
+									<mastercomment1 />
+									<mastercomment2 />
+									<mastercomment3 />
+									<mastercomment4 />
+								</comments>
+								<file id="ArmA 3 2020.11.28 - 18.58.57.69" />
+								<filter>
+									<effect>
+										<name>Audio Levels</name>
+										<effectid>audiolevels</effectid>
+										<effectcategory>audiolevels</effectcategory>
+										<effecttype>audiolevels</effecttype>
+										<mediatype>audio</mediatype>
+										<parameter>
+											<name>Level</name>
+											<parameterid>level</parameterid>
+											<valuemin>0</valuemin>
+											<valuemax>3,98109</valuemax>
+											<value>1</value>
+										</parameter>
+									</effect>
+								</filter>
+								<filter>
+									<effect>
+										<name>Audio Pan</name>
+										<effectid>audiopan</effectid>
+										<effectcategory>audiopan</effectcategory>
+										<effecttype>audiopan</effecttype>
+										<mediatype>audio</mediatype>
+										<parameter>
+											<name>Pan</name>
+											<parameterid>pan</parameterid>
+											<valuemin>-1</valuemin>
+											<valuemax>1</valuemax>
+											<value>-1</value>
+										</parameter>
+									</effect>
+								</filter>
+								<sourcetrack>
+									<mediatype>audio</mediatype>
+									<trackindex>1</trackindex>
+								</sourcetrack>
+								<link>
+									<linkclipref>ArmA 3 2020.11.28 - 18.58.57.69.mp4805307598</linkclipref>
+								</link>
+								<link>
+									<linkclipref>ArmA 3 2020.11.28 - 18.58.57.69.mp4536872143</linkclipref>
+								</link>
+								<link>
+									<linkclipref>ArmA 3 2020.11.28 - 18.58.57.69.mp45368721431</linkclipref>
+								</link>
+								<link>
+									<linkclipref>ArmA 3 2020.11.28 - 18.58.57.69.mp4536872144</linkclipref>
+								</link>
+								<link>
+									<linkclipref>ArmA 3 2020.11.28 - 18.58.57.69.mp45368721441</linkclipref>
+								</link>
+							</clipitem>
+							<clipitem id="ArmA 3 2020.11.28 - 18.59.21.70.mp4536872147">
+								<name>ArmA 3 2020.11.28 - 18.59.21.70.mp4</name>
+								<duration>642</duration>
+								<rate>
+									<ntsc>TRUE</ntsc>
+									<timebase>24</timebase>
+								</rate>
+								<in>0</in>
+								<out>642</out>
+								<start>1822</start>
+								<end>2464</end>
+								<enabled>FALSE</enabled>
+								<masterclipid>ArmA 3 2020.11.28 - 18.59.21.70.mp4</masterclipid>
+								<logginginfo>
+									<scene />
+									<shottake />
+									<lognote />
+									<good>FALSE</good>
+								</logginginfo>
+								<labels>
+									<label2 />
+								</labels>
+								<comments>
+									<mastercomment1 />
+									<mastercomment2 />
+									<mastercomment3 />
+									<mastercomment4 />
+								</comments>
+								<file id="ArmA 3 2020.11.28 - 18.59.21.70" />
+								<filter>
+									<effect>
+										<name>Audio Levels</name>
+										<effectid>audiolevels</effectid>
+										<effectcategory>audiolevels</effectcategory>
+										<effecttype>audiolevels</effecttype>
+										<mediatype>audio</mediatype>
+										<parameter>
+											<name>Level</name>
+											<parameterid>level</parameterid>
+											<valuemin>0</valuemin>
+											<valuemax>3,98109</valuemax>
+											<value>1</value>
+										</parameter>
+									</effect>
+								</filter>
+								<filter>
+									<effect>
+										<name>Audio Pan</name>
+										<effectid>audiopan</effectid>
+										<effectcategory>audiopan</effectcategory>
+										<effecttype>audiopan</effecttype>
+										<mediatype>audio</mediatype>
+										<parameter>
+											<name>Pan</name>
+											<parameterid>pan</parameterid>
+											<valuemin>-1</valuemin>
+											<valuemax>1</valuemax>
+											<value>-1</value>
+										</parameter>
+									</effect>
+								</filter>
+								<sourcetrack>
+									<mediatype>audio</mediatype>
+									<trackindex>1</trackindex>
+								</sourcetrack>
+								<link>
+									<linkclipref>ArmA 3 2020.11.28 - 18.59.21.70.mp4805307601</linkclipref>
+								</link>
+								<link>
+									<linkclipref>ArmA 3 2020.11.28 - 18.59.21.70.mp4536872146</linkclipref>
+								</link>
+								<link>
+									<linkclipref>ArmA 3 2020.11.28 - 18.59.21.70.mp45368721461</linkclipref>
+								</link>
+								<link>
+									<linkclipref>ArmA 3 2020.11.28 - 18.59.21.70.mp4536872147</linkclipref>
+								</link>
+								<link>
+									<linkclipref>ArmA 3 2020.11.28 - 18.59.21.70.mp45368721471</linkclipref>
+								</link>
+							</clipitem>
+							<clipitem id="ArmA 3 2020.11.28 - 18.59.56.71.mp4536872150">
+								<name>ArmA 3 2020.11.28 - 18.59.56.71.mp4</name>
+								<duration>684</duration>
+								<rate>
+									<ntsc>TRUE</ntsc>
+									<timebase>24</timebase>
+								</rate>
+								<in>0</in>
+								<out>684</out>
+								<start>2465</start>
+								<end>3149</end>
+								<enabled>FALSE</enabled>
+								<masterclipid>ArmA 3 2020.11.28 - 18.59.56.71.mp4</masterclipid>
+								<logginginfo>
+									<scene />
+									<shottake />
+									<lognote />
+									<good>FALSE</good>
+								</logginginfo>
+								<labels>
+									<label2 />
+								</labels>
+								<comments>
+									<mastercomment1 />
+									<mastercomment2 />
+									<mastercomment3 />
+									<mastercomment4 />
+								</comments>
+								<file id="ArmA 3 2020.11.28 - 18.59.56.71" />
+								<filter>
+									<effect>
+										<name>Audio Levels</name>
+										<effectid>audiolevels</effectid>
+										<effectcategory>audiolevels</effectcategory>
+										<effecttype>audiolevels</effecttype>
+										<mediatype>audio</mediatype>
+										<parameter>
+											<name>Level</name>
+											<parameterid>level</parameterid>
+											<valuemin>0</valuemin>
+											<valuemax>3,98109</valuemax>
+											<value>1</value>
+										</parameter>
+									</effect>
+								</filter>
+								<filter>
+									<effect>
+										<name>Audio Pan</name>
+										<effectid>audiopan</effectid>
+										<effectcategory>audiopan</effectcategory>
+										<effecttype>audiopan</effecttype>
+										<mediatype>audio</mediatype>
+										<parameter>
+											<name>Pan</name>
+											<parameterid>pan</parameterid>
+											<valuemin>-1</valuemin>
+											<valuemax>1</valuemax>
+											<value>-1</value>
+										</parameter>
+									</effect>
+								</filter>
+								<sourcetrack>
+									<mediatype>audio</mediatype>
+									<trackindex>1</trackindex>
+								</sourcetrack>
+								<link>
+									<linkclipref>ArmA 3 2020.11.28 - 18.59.56.71.mp4805307604</linkclipref>
+								</link>
+								<link>
+									<linkclipref>ArmA 3 2020.11.28 - 18.59.56.71.mp4536872149</linkclipref>
+								</link>
+								<link>
+									<linkclipref>ArmA 3 2020.11.28 - 18.59.56.71.mp45368721491</linkclipref>
+								</link>
+								<link>
+									<linkclipref>ArmA 3 2020.11.28 - 18.59.56.71.mp4536872150</linkclipref>
+								</link>
+								<link>
+									<linkclipref>ArmA 3 2020.11.28 - 18.59.56.71.mp45368721501</linkclipref>
+								</link>
+							</clipitem>
+						</track>
+						<track>
+							<clipitem id="ArmA 3 2020.11.28 - 18.56.42.67.mp45368721381">
+								<name>ArmA 3 2020.11.28 - 18.56.42.67.mp4</name>
+								<duration>578</duration>
+								<rate>
+									<ntsc>TRUE</ntsc>
+									<timebase>24</timebase>
+								</rate>
+								<in>0</in>
+								<out>578</out>
+								<start>0</start>
+								<end>578</end>
+								<enabled>FALSE</enabled>
+								<masterclipid>ArmA 3 2020.11.28 - 18.56.42.67.mp4</masterclipid>
+								<logginginfo>
+									<scene />
+									<shottake />
+									<lognote />
+									<good>FALSE</good>
+								</logginginfo>
+								<labels>
+									<label2 />
+								</labels>
+								<comments>
+									<mastercomment1 />
+									<mastercomment2 />
+									<mastercomment3 />
+									<mastercomment4 />
+								</comments>
+								<file id="ArmA 3 2020.11.28 - 18.56.42.67" />
+								<filter>
+									<effect>
+										<name>Audio Levels</name>
+										<effectid>audiolevels</effectid>
+										<effectcategory>audiolevels</effectcategory>
+										<effecttype>audiolevels</effecttype>
+										<mediatype>audio</mediatype>
+										<parameter>
+											<name>Level</name>
+											<parameterid>level</parameterid>
+											<valuemin>0</valuemin>
+											<valuemax>3,98109</valuemax>
+											<value>1</value>
+										</parameter>
+									</effect>
+								</filter>
+								<filter>
+									<effect>
+										<name>Audio Pan</name>
+										<effectid>audiopan</effectid>
+										<effectcategory>audiopan</effectcategory>
+										<effecttype>audiopan</effecttype>
+										<mediatype>audio</mediatype>
+										<parameter>
+											<name>Pan</name>
+											<parameterid>pan</parameterid>
+											<valuemin>-1</valuemin>
+											<valuemax>1</valuemax>
+											<value>1</value>
+										</parameter>
+									</effect>
+								</filter>
+								<sourcetrack>
+									<mediatype>audio</mediatype>
+									<trackindex>2</trackindex>
+								</sourcetrack>
+								<link>
+									<linkclipref>ArmA 3 2020.11.28 - 18.56.42.67.mp4805307592</linkclipref>
+								</link>
+								<link>
+									<linkclipref>ArmA 3 2020.11.28 - 18.56.42.67.mp4536872137</linkclipref>
+								</link>
+								<link>
+									<linkclipref>ArmA 3 2020.11.28 - 18.56.42.67.mp45368721371</linkclipref>
+								</link>
+								<link>
+									<linkclipref>ArmA 3 2020.11.28 - 18.56.42.67.mp4536872138</linkclipref>
+								</link>
+								<link>
+									<linkclipref>ArmA 3 2020.11.28 - 18.56.42.67.mp45368721381</linkclipref>
+								</link>
+							</clipitem>
+							<clipitem id="ArmA 3 2020.11.28 - 18.58.15.68.mp45368721411">
+								<name>ArmA 3 2020.11.28 - 18.58.15.68.mp4</name>
+								<duration>697</duration>
+								<rate>
+									<ntsc>TRUE</ntsc>
+									<timebase>24</timebase>
+								</rate>
+								<in>0</in>
+								<out>697</out>
+								<start>579</start>
+								<end>1276</end>
+								<enabled>FALSE</enabled>
+								<masterclipid>ArmA 3 2020.11.28 - 18.58.15.68.mp4</masterclipid>
+								<logginginfo>
+									<scene />
+									<shottake />
+									<lognote />
+									<good>FALSE</good>
+								</logginginfo>
+								<labels>
+									<label2 />
+								</labels>
+								<comments>
+									<mastercomment1 />
+									<mastercomment2 />
+									<mastercomment3 />
+									<mastercomment4 />
+								</comments>
+								<file id="ArmA 3 2020.11.28 - 18.58.15.68" />
+								<filter>
+									<effect>
+										<name>Audio Levels</name>
+										<effectid>audiolevels</effectid>
+										<effectcategory>audiolevels</effectcategory>
+										<effecttype>audiolevels</effecttype>
+										<mediatype>audio</mediatype>
+										<parameter>
+											<name>Level</name>
+											<parameterid>level</parameterid>
+											<valuemin>0</valuemin>
+											<valuemax>3,98109</valuemax>
+											<value>1</value>
+										</parameter>
+									</effect>
+								</filter>
+								<filter>
+									<effect>
+										<name>Audio Pan</name>
+										<effectid>audiopan</effectid>
+										<effectcategory>audiopan</effectcategory>
+										<effecttype>audiopan</effecttype>
+										<mediatype>audio</mediatype>
+										<parameter>
+											<name>Pan</name>
+											<parameterid>pan</parameterid>
+											<valuemin>-1</valuemin>
+											<valuemax>1</valuemax>
+											<value>1</value>
+										</parameter>
+									</effect>
+								</filter>
+								<sourcetrack>
+									<mediatype>audio</mediatype>
+									<trackindex>2</trackindex>
+								</sourcetrack>
+								<link>
+									<linkclipref>ArmA 3 2020.11.28 - 18.58.15.68.mp4805307595</linkclipref>
+								</link>
+								<link>
+									<linkclipref>ArmA 3 2020.11.28 - 18.58.15.68.mp4536872140</linkclipref>
+								</link>
+								<link>
+									<linkclipref>ArmA 3 2020.11.28 - 18.58.15.68.mp45368721401</linkclipref>
+								</link>
+								<link>
+									<linkclipref>ArmA 3 2020.11.28 - 18.58.15.68.mp4536872141</linkclipref>
+								</link>
+								<link>
+									<linkclipref>ArmA 3 2020.11.28 - 18.58.15.68.mp45368721411</linkclipref>
+								</link>
+							</clipitem>
+							<clipitem id="ArmA 3 2020.11.28 - 18.58.57.69.mp45368721441">
+								<name>ArmA 3 2020.11.28 - 18.58.57.69.mp4</name>
+								<duration>544</duration>
+								<rate>
+									<ntsc>TRUE</ntsc>
+									<timebase>24</timebase>
+								</rate>
+								<in>0</in>
+								<out>544</out>
+								<start>1277</start>
+								<end>1821</end>
+								<enabled>FALSE</enabled>
+								<masterclipid>ArmA 3 2020.11.28 - 18.58.57.69.mp4</masterclipid>
+								<logginginfo>
+									<scene />
+									<shottake />
+									<lognote />
+									<good>FALSE</good>
+								</logginginfo>
+								<labels>
+									<label2 />
+								</labels>
+								<comments>
+									<mastercomment1 />
+									<mastercomment2 />
+									<mastercomment3 />
+									<mastercomment4 />
+								</comments>
+								<file id="ArmA 3 2020.11.28 - 18.58.57.69" />
+								<filter>
+									<effect>
+										<name>Audio Levels</name>
+										<effectid>audiolevels</effectid>
+										<effectcategory>audiolevels</effectcategory>
+										<effecttype>audiolevels</effecttype>
+										<mediatype>audio</mediatype>
+										<parameter>
+											<name>Level</name>
+											<parameterid>level</parameterid>
+											<valuemin>0</valuemin>
+											<valuemax>3,98109</valuemax>
+											<value>1</value>
+										</parameter>
+									</effect>
+								</filter>
+								<filter>
+									<effect>
+										<name>Audio Pan</name>
+										<effectid>audiopan</effectid>
+										<effectcategory>audiopan</effectcategory>
+										<effecttype>audiopan</effecttype>
+										<mediatype>audio</mediatype>
+										<parameter>
+											<name>Pan</name>
+											<parameterid>pan</parameterid>
+											<valuemin>-1</valuemin>
+											<valuemax>1</valuemax>
+											<value>1</value>
+										</parameter>
+									</effect>
+								</filter>
+								<sourcetrack>
+									<mediatype>audio</mediatype>
+									<trackindex>2</trackindex>
+								</sourcetrack>
+								<link>
+									<linkclipref>ArmA 3 2020.11.28 - 18.58.57.69.mp4805307598</linkclipref>
+								</link>
+								<link>
+									<linkclipref>ArmA 3 2020.11.28 - 18.58.57.69.mp4536872143</linkclipref>
+								</link>
+								<link>
+									<linkclipref>ArmA 3 2020.11.28 - 18.58.57.69.mp45368721431</linkclipref>
+								</link>
+								<link>
+									<linkclipref>ArmA 3 2020.11.28 - 18.58.57.69.mp4536872144</linkclipref>
+								</link>
+								<link>
+									<linkclipref>ArmA 3 2020.11.28 - 18.58.57.69.mp45368721441</linkclipref>
+								</link>
+							</clipitem>
+							<clipitem id="ArmA 3 2020.11.28 - 18.59.21.70.mp45368721471">
+								<name>ArmA 3 2020.11.28 - 18.59.21.70.mp4</name>
+								<duration>642</duration>
+								<rate>
+									<ntsc>TRUE</ntsc>
+									<timebase>24</timebase>
+								</rate>
+								<in>0</in>
+								<out>642</out>
+								<start>1822</start>
+								<end>2464</end>
+								<enabled>FALSE</enabled>
+								<masterclipid>ArmA 3 2020.11.28 - 18.59.21.70.mp4</masterclipid>
+								<logginginfo>
+									<scene />
+									<shottake />
+									<lognote />
+									<good>FALSE</good>
+								</logginginfo>
+								<labels>
+									<label2 />
+								</labels>
+								<comments>
+									<mastercomment1 />
+									<mastercomment2 />
+									<mastercomment3 />
+									<mastercomment4 />
+								</comments>
+								<file id="ArmA 3 2020.11.28 - 18.59.21.70" />
+								<filter>
+									<effect>
+										<name>Audio Levels</name>
+										<effectid>audiolevels</effectid>
+										<effectcategory>audiolevels</effectcategory>
+										<effecttype>audiolevels</effecttype>
+										<mediatype>audio</mediatype>
+										<parameter>
+											<name>Level</name>
+											<parameterid>level</parameterid>
+											<valuemin>0</valuemin>
+											<valuemax>3,98109</valuemax>
+											<value>1</value>
+										</parameter>
+									</effect>
+								</filter>
+								<filter>
+									<effect>
+										<name>Audio Pan</name>
+										<effectid>audiopan</effectid>
+										<effectcategory>audiopan</effectcategory>
+										<effecttype>audiopan</effecttype>
+										<mediatype>audio</mediatype>
+										<parameter>
+											<name>Pan</name>
+											<parameterid>pan</parameterid>
+											<valuemin>-1</valuemin>
+											<valuemax>1</valuemax>
+											<value>1</value>
+										</parameter>
+									</effect>
+								</filter>
+								<sourcetrack>
+									<mediatype>audio</mediatype>
+									<trackindex>2</trackindex>
+								</sourcetrack>
+								<link>
+									<linkclipref>ArmA 3 2020.11.28 - 18.59.21.70.mp4805307601</linkclipref>
+								</link>
+								<link>
+									<linkclipref>ArmA 3 2020.11.28 - 18.59.21.70.mp4536872146</linkclipref>
+								</link>
+								<link>
+									<linkclipref>ArmA 3 2020.11.28 - 18.59.21.70.mp45368721461</linkclipref>
+								</link>
+								<link>
+									<linkclipref>ArmA 3 2020.11.28 - 18.59.21.70.mp4536872147</linkclipref>
+								</link>
+								<link>
+									<linkclipref>ArmA 3 2020.11.28 - 18.59.21.70.mp45368721471</linkclipref>
+								</link>
+							</clipitem>
+							<clipitem id="ArmA 3 2020.11.28 - 18.59.56.71.mp45368721501">
+								<name>ArmA 3 2020.11.28 - 18.59.56.71.mp4</name>
+								<duration>684</duration>
+								<rate>
+									<ntsc>TRUE</ntsc>
+									<timebase>24</timebase>
+								</rate>
+								<in>0</in>
+								<out>684</out>
+								<start>2465</start>
+								<end>3149</end>
+								<enabled>FALSE</enabled>
+								<masterclipid>ArmA 3 2020.11.28 - 18.59.56.71.mp4</masterclipid>
+								<logginginfo>
+									<scene />
+									<shottake />
+									<lognote />
+									<good>FALSE</good>
+								</logginginfo>
+								<labels>
+									<label2 />
+								</labels>
+								<comments>
+									<mastercomment1 />
+									<mastercomment2 />
+									<mastercomment3 />
+									<mastercomment4 />
+								</comments>
+								<file id="ArmA 3 2020.11.28 - 18.59.56.71" />
+								<filter>
+									<effect>
+										<name>Audio Levels</name>
+										<effectid>audiolevels</effectid>
+										<effectcategory>audiolevels</effectcategory>
+										<effecttype>audiolevels</effecttype>
+										<mediatype>audio</mediatype>
+										<parameter>
+											<name>Level</name>
+											<parameterid>level</parameterid>
+											<valuemin>0</valuemin>
+											<valuemax>3,98109</valuemax>
+											<value>1</value>
+										</parameter>
+									</effect>
+								</filter>
+								<filter>
+									<effect>
+										<name>Audio Pan</name>
+										<effectid>audiopan</effectid>
+										<effectcategory>audiopan</effectcategory>
+										<effecttype>audiopan</effecttype>
+										<mediatype>audio</mediatype>
+										<parameter>
+											<name>Pan</name>
+											<parameterid>pan</parameterid>
+											<valuemin>-1</valuemin>
+											<valuemax>1</valuemax>
+											<value>1</value>
+										</parameter>
+									</effect>
+								</filter>
+								<sourcetrack>
+									<mediatype>audio</mediatype>
+									<trackindex>2</trackindex>
+								</sourcetrack>
+								<link>
+									<linkclipref>ArmA 3 2020.11.28 - 18.59.56.71.mp4805307604</linkclipref>
+								</link>
+								<link>
+									<linkclipref>ArmA 3 2020.11.28 - 18.59.56.71.mp4536872149</linkclipref>
+								</link>
+								<link>
+									<linkclipref>ArmA 3 2020.11.28 - 18.59.56.71.mp45368721491</linkclipref>
+								</link>
+								<link>
+									<linkclipref>ArmA 3 2020.11.28 - 18.59.56.71.mp4536872150</linkclipref>
+								</link>
+								<link>
+									<linkclipref>ArmA 3 2020.11.28 - 18.59.56.71.mp45368721501</linkclipref>
+								</link>
+							</clipitem>
+						</track>
+						<track>
+							<clipitem id="ArmA 3 2020.11.28 - 18.56.42.67.mp4536872137">
+								<name>ArmA 3 2020.11.28 - 18.56.42.67.mp4</name>
+								<duration>578</duration>
+								<rate>
+									<ntsc>TRUE</ntsc>
+									<timebase>24</timebase>
+								</rate>
+								<in>0</in>
+								<out>578</out>
+								<start>0</start>
+								<end>578</end>
+								<enabled>FALSE</enabled>
+								<masterclipid>ArmA 3 2020.11.28 - 18.56.42.67.mp4</masterclipid>
+								<logginginfo>
+									<scene />
+									<shottake />
+									<lognote />
+									<good>FALSE</good>
+								</logginginfo>
+								<labels>
+									<label2 />
+								</labels>
+								<comments>
+									<mastercomment1 />
+									<mastercomment2 />
+									<mastercomment3 />
+									<mastercomment4 />
+								</comments>
+								<file id="ArmA 3 2020.11.28 - 18.56.42.67" />
+								<filter>
+									<effect>
+										<name>Audio Levels</name>
+										<effectid>audiolevels</effectid>
+										<effectcategory>audiolevels</effectcategory>
+										<effecttype>audiolevels</effecttype>
+										<mediatype>audio</mediatype>
+										<parameter>
+											<name>Level</name>
+											<parameterid>level</parameterid>
+											<valuemin>0</valuemin>
+											<valuemax>3,98109</valuemax>
+											<value>1</value>
+										</parameter>
+									</effect>
+								</filter>
+								<filter>
+									<effect>
+										<name>Audio Pan</name>
+										<effectid>audiopan</effectid>
+										<effectcategory>audiopan</effectcategory>
+										<effecttype>audiopan</effecttype>
+										<mediatype>audio</mediatype>
+										<parameter>
+											<name>Pan</name>
+											<parameterid>pan</parameterid>
+											<valuemin>-1</valuemin>
+											<valuemax>1</valuemax>
+											<value>-1</value>
+										</parameter>
+									</effect>
+								</filter>
+								<sourcetrack>
+									<mediatype>audio</mediatype>
+									<trackindex>1</trackindex>
+								</sourcetrack>
+								<link>
+									<linkclipref>ArmA 3 2020.11.28 - 18.56.42.67.mp4805307592</linkclipref>
+								</link>
+								<link>
+									<linkclipref>ArmA 3 2020.11.28 - 18.56.42.67.mp4536872137</linkclipref>
+								</link>
+								<link>
+									<linkclipref>ArmA 3 2020.11.28 - 18.56.42.67.mp45368721371</linkclipref>
+								</link>
+								<link>
+									<linkclipref>ArmA 3 2020.11.28 - 18.56.42.67.mp4536872138</linkclipref>
+								</link>
+								<link>
+									<linkclipref>ArmA 3 2020.11.28 - 18.56.42.67.mp45368721381</linkclipref>
+								</link>
+							</clipitem>
+							<clipitem id="ArmA 3 2020.11.28 - 18.58.15.68.mp4536872140">
+								<name>ArmA 3 2020.11.28 - 18.58.15.68.mp4</name>
+								<duration>697</duration>
+								<rate>
+									<ntsc>TRUE</ntsc>
+									<timebase>24</timebase>
+								</rate>
+								<in>0</in>
+								<out>697</out>
+								<start>579</start>
+								<end>1276</end>
+								<enabled>FALSE</enabled>
+								<masterclipid>ArmA 3 2020.11.28 - 18.58.15.68.mp4</masterclipid>
+								<logginginfo>
+									<scene />
+									<shottake />
+									<lognote />
+									<good>FALSE</good>
+								</logginginfo>
+								<labels>
+									<label2 />
+								</labels>
+								<comments>
+									<mastercomment1 />
+									<mastercomment2 />
+									<mastercomment3 />
+									<mastercomment4 />
+								</comments>
+								<file id="ArmA 3 2020.11.28 - 18.58.15.68" />
+								<filter>
+									<effect>
+										<name>Audio Levels</name>
+										<effectid>audiolevels</effectid>
+										<effectcategory>audiolevels</effectcategory>
+										<effecttype>audiolevels</effecttype>
+										<mediatype>audio</mediatype>
+										<parameter>
+											<name>Level</name>
+											<parameterid>level</parameterid>
+											<valuemin>0</valuemin>
+											<valuemax>3,98109</valuemax>
+											<value>1</value>
+										</parameter>
+									</effect>
+								</filter>
+								<filter>
+									<effect>
+										<name>Audio Pan</name>
+										<effectid>audiopan</effectid>
+										<effectcategory>audiopan</effectcategory>
+										<effecttype>audiopan</effecttype>
+										<mediatype>audio</mediatype>
+										<parameter>
+											<name>Pan</name>
+											<parameterid>pan</parameterid>
+											<valuemin>-1</valuemin>
+											<valuemax>1</valuemax>
+											<value>-1</value>
+										</parameter>
+									</effect>
+								</filter>
+								<sourcetrack>
+									<mediatype>audio</mediatype>
+									<trackindex>1</trackindex>
+								</sourcetrack>
+								<link>
+									<linkclipref>ArmA 3 2020.11.28 - 18.58.15.68.mp4805307595</linkclipref>
+								</link>
+								<link>
+									<linkclipref>ArmA 3 2020.11.28 - 18.58.15.68.mp4536872140</linkclipref>
+								</link>
+								<link>
+									<linkclipref>ArmA 3 2020.11.28 - 18.58.15.68.mp45368721401</linkclipref>
+								</link>
+								<link>
+									<linkclipref>ArmA 3 2020.11.28 - 18.58.15.68.mp4536872141</linkclipref>
+								</link>
+								<link>
+									<linkclipref>ArmA 3 2020.11.28 - 18.58.15.68.mp45368721411</linkclipref>
+								</link>
+							</clipitem>
+							<clipitem id="ArmA 3 2020.11.28 - 18.58.57.69.mp4536872143">
+								<name>ArmA 3 2020.11.28 - 18.58.57.69.mp4</name>
+								<duration>544</duration>
+								<rate>
+									<ntsc>TRUE</ntsc>
+									<timebase>24</timebase>
+								</rate>
+								<in>0</in>
+								<out>544</out>
+								<start>1277</start>
+								<end>1821</end>
+								<enabled>FALSE</enabled>
+								<masterclipid>ArmA 3 2020.11.28 - 18.58.57.69.mp4</masterclipid>
+								<logginginfo>
+									<scene />
+									<shottake />
+									<lognote />
+									<good>FALSE</good>
+								</logginginfo>
+								<labels>
+									<label2 />
+								</labels>
+								<comments>
+									<mastercomment1 />
+									<mastercomment2 />
+									<mastercomment3 />
+									<mastercomment4 />
+								</comments>
+								<file id="ArmA 3 2020.11.28 - 18.58.57.69" />
+								<filter>
+									<effect>
+										<name>Audio Levels</name>
+										<effectid>audiolevels</effectid>
+										<effectcategory>audiolevels</effectcategory>
+										<effecttype>audiolevels</effecttype>
+										<mediatype>audio</mediatype>
+										<parameter>
+											<name>Level</name>
+											<parameterid>level</parameterid>
+											<valuemin>0</valuemin>
+											<valuemax>3,98109</valuemax>
+											<value>1</value>
+										</parameter>
+									</effect>
+								</filter>
+								<filter>
+									<effect>
+										<name>Audio Pan</name>
+										<effectid>audiopan</effectid>
+										<effectcategory>audiopan</effectcategory>
+										<effecttype>audiopan</effecttype>
+										<mediatype>audio</mediatype>
+										<parameter>
+											<name>Pan</name>
+											<parameterid>pan</parameterid>
+											<valuemin>-1</valuemin>
+											<valuemax>1</valuemax>
+											<value>-1</value>
+										</parameter>
+									</effect>
+								</filter>
+								<sourcetrack>
+									<mediatype>audio</mediatype>
+									<trackindex>1</trackindex>
+								</sourcetrack>
+								<link>
+									<linkclipref>ArmA 3 2020.11.28 - 18.58.57.69.mp4805307598</linkclipref>
+								</link>
+								<link>
+									<linkclipref>ArmA 3 2020.11.28 - 18.58.57.69.mp4536872143</linkclipref>
+								</link>
+								<link>
+									<linkclipref>ArmA 3 2020.11.28 - 18.58.57.69.mp45368721431</linkclipref>
+								</link>
+								<link>
+									<linkclipref>ArmA 3 2020.11.28 - 18.58.57.69.mp4536872144</linkclipref>
+								</link>
+								<link>
+									<linkclipref>ArmA 3 2020.11.28 - 18.58.57.69.mp45368721441</linkclipref>
+								</link>
+							</clipitem>
+							<clipitem id="ArmA 3 2020.11.28 - 18.59.21.70.mp4536872146">
+								<name>ArmA 3 2020.11.28 - 18.59.21.70.mp4</name>
+								<duration>642</duration>
+								<rate>
+									<ntsc>TRUE</ntsc>
+									<timebase>24</timebase>
+								</rate>
+								<in>0</in>
+								<out>642</out>
+								<start>1822</start>
+								<end>2464</end>
+								<enabled>FALSE</enabled>
+								<masterclipid>ArmA 3 2020.11.28 - 18.59.21.70.mp4</masterclipid>
+								<logginginfo>
+									<scene />
+									<shottake />
+									<lognote />
+									<good>FALSE</good>
+								</logginginfo>
+								<labels>
+									<label2 />
+								</labels>
+								<comments>
+									<mastercomment1 />
+									<mastercomment2 />
+									<mastercomment3 />
+									<mastercomment4 />
+								</comments>
+								<file id="ArmA 3 2020.11.28 - 18.59.21.70" />
+								<filter>
+									<effect>
+										<name>Audio Levels</name>
+										<effectid>audiolevels</effectid>
+										<effectcategory>audiolevels</effectcategory>
+										<effecttype>audiolevels</effecttype>
+										<mediatype>audio</mediatype>
+										<parameter>
+											<name>Level</name>
+											<parameterid>level</parameterid>
+											<valuemin>0</valuemin>
+											<valuemax>3,98109</valuemax>
+											<value>1</value>
+										</parameter>
+									</effect>
+								</filter>
+								<filter>
+									<effect>
+										<name>Audio Pan</name>
+										<effectid>audiopan</effectid>
+										<effectcategory>audiopan</effectcategory>
+										<effecttype>audiopan</effecttype>
+										<mediatype>audio</mediatype>
+										<parameter>
+											<name>Pan</name>
+											<parameterid>pan</parameterid>
+											<valuemin>-1</valuemin>
+											<valuemax>1</valuemax>
+											<value>-1</value>
+										</parameter>
+									</effect>
+								</filter>
+								<sourcetrack>
+									<mediatype>audio</mediatype>
+									<trackindex>1</trackindex>
+								</sourcetrack>
+								<link>
+									<linkclipref>ArmA 3 2020.11.28 - 18.59.21.70.mp4805307601</linkclipref>
+								</link>
+								<link>
+									<linkclipref>ArmA 3 2020.11.28 - 18.59.21.70.mp4536872146</linkclipref>
+								</link>
+								<link>
+									<linkclipref>ArmA 3 2020.11.28 - 18.59.21.70.mp45368721461</linkclipref>
+								</link>
+								<link>
+									<linkclipref>ArmA 3 2020.11.28 - 18.59.21.70.mp4536872147</linkclipref>
+								</link>
+								<link>
+									<linkclipref>ArmA 3 2020.11.28 - 18.59.21.70.mp45368721471</linkclipref>
+								</link>
+							</clipitem>
+							<clipitem id="ArmA 3 2020.11.28 - 18.59.56.71.mp4536872149">
+								<name>ArmA 3 2020.11.28 - 18.59.56.71.mp4</name>
+								<duration>684</duration>
+								<rate>
+									<ntsc>TRUE</ntsc>
+									<timebase>24</timebase>
+								</rate>
+								<in>0</in>
+								<out>684</out>
+								<start>2465</start>
+								<end>3149</end>
+								<enabled>FALSE</enabled>
+								<masterclipid>ArmA 3 2020.11.28 - 18.59.56.71.mp4</masterclipid>
+								<logginginfo>
+									<scene />
+									<shottake />
+									<lognote />
+									<good>FALSE</good>
+								</logginginfo>
+								<labels>
+									<label2 />
+								</labels>
+								<comments>
+									<mastercomment1 />
+									<mastercomment2 />
+									<mastercomment3 />
+									<mastercomment4 />
+								</comments>
+								<file id="ArmA 3 2020.11.28 - 18.59.56.71" />
+								<filter>
+									<effect>
+										<name>Audio Levels</name>
+										<effectid>audiolevels</effectid>
+										<effectcategory>audiolevels</effectcategory>
+										<effecttype>audiolevels</effecttype>
+										<mediatype>audio</mediatype>
+										<parameter>
+											<name>Level</name>
+											<parameterid>level</parameterid>
+											<valuemin>0</valuemin>
+											<valuemax>3,98109</valuemax>
+											<value>1</value>
+										</parameter>
+									</effect>
+								</filter>
+								<filter>
+									<effect>
+										<name>Audio Pan</name>
+										<effectid>audiopan</effectid>
+										<effectcategory>audiopan</effectcategory>
+										<effecttype>audiopan</effecttype>
+										<mediatype>audio</mediatype>
+										<parameter>
+											<name>Pan</name>
+											<parameterid>pan</parameterid>
+											<valuemin>-1</valuemin>
+											<valuemax>1</valuemax>
+											<value>-1</value>
+										</parameter>
+									</effect>
+								</filter>
+								<sourcetrack>
+									<mediatype>audio</mediatype>
+									<trackindex>1</trackindex>
+								</sourcetrack>
+								<link>
+									<linkclipref>ArmA 3 2020.11.28 - 18.59.56.71.mp4805307604</linkclipref>
+								</link>
+								<link>
+									<linkclipref>ArmA 3 2020.11.28 - 18.59.56.71.mp4536872149</linkclipref>
+								</link>
+								<link>
+									<linkclipref>ArmA 3 2020.11.28 - 18.59.56.71.mp45368721491</linkclipref>
+								</link>
+								<link>
+									<linkclipref>ArmA 3 2020.11.28 - 18.59.56.71.mp4536872150</linkclipref>
+								</link>
+								<link>
+									<linkclipref>ArmA 3 2020.11.28 - 18.59.56.71.mp45368721501</linkclipref>
+								</link>
+							</clipitem>
+						</track>
+						<track>
+							<clipitem id="ArmA 3 2020.11.28 - 18.56.42.67.mp45368721371">
+								<name>ArmA 3 2020.11.28 - 18.56.42.67.mp4</name>
+								<duration>578</duration>
+								<rate>
+									<ntsc>TRUE</ntsc>
+									<timebase>24</timebase>
+								</rate>
+								<in>0</in>
+								<out>578</out>
+								<start>0</start>
+								<end>578</end>
+								<enabled>FALSE</enabled>
+								<masterclipid>ArmA 3 2020.11.28 - 18.56.42.67.mp4</masterclipid>
+								<logginginfo>
+									<scene />
+									<shottake />
+									<lognote />
+									<good>FALSE</good>
+								</logginginfo>
+								<labels>
+									<label2 />
+								</labels>
+								<comments>
+									<mastercomment1 />
+									<mastercomment2 />
+									<mastercomment3 />
+									<mastercomment4 />
+								</comments>
+								<file id="ArmA 3 2020.11.28 - 18.56.42.67" />
+								<filter>
+									<effect>
+										<name>Audio Levels</name>
+										<effectid>audiolevels</effectid>
+										<effectcategory>audiolevels</effectcategory>
+										<effecttype>audiolevels</effecttype>
+										<mediatype>audio</mediatype>
+										<parameter>
+											<name>Level</name>
+											<parameterid>level</parameterid>
+											<valuemin>0</valuemin>
+											<valuemax>3,98109</valuemax>
+											<value>1</value>
+										</parameter>
+									</effect>
+								</filter>
+								<filter>
+									<effect>
+										<name>Audio Pan</name>
+										<effectid>audiopan</effectid>
+										<effectcategory>audiopan</effectcategory>
+										<effecttype>audiopan</effecttype>
+										<mediatype>audio</mediatype>
+										<parameter>
+											<name>Pan</name>
+											<parameterid>pan</parameterid>
+											<valuemin>-1</valuemin>
+											<valuemax>1</valuemax>
+											<value>1</value>
+										</parameter>
+									</effect>
+								</filter>
+								<sourcetrack>
+									<mediatype>audio</mediatype>
+									<trackindex>2</trackindex>
+								</sourcetrack>
+								<link>
+									<linkclipref>ArmA 3 2020.11.28 - 18.56.42.67.mp4805307592</linkclipref>
+								</link>
+								<link>
+									<linkclipref>ArmA 3 2020.11.28 - 18.56.42.67.mp4536872137</linkclipref>
+								</link>
+								<link>
+									<linkclipref>ArmA 3 2020.11.28 - 18.56.42.67.mp45368721371</linkclipref>
+								</link>
+								<link>
+									<linkclipref>ArmA 3 2020.11.28 - 18.56.42.67.mp4536872138</linkclipref>
+								</link>
+								<link>
+									<linkclipref>ArmA 3 2020.11.28 - 18.56.42.67.mp45368721381</linkclipref>
+								</link>
+							</clipitem>
+							<clipitem id="ArmA 3 2020.11.28 - 18.58.15.68.mp45368721401">
+								<name>ArmA 3 2020.11.28 - 18.58.15.68.mp4</name>
+								<duration>697</duration>
+								<rate>
+									<ntsc>TRUE</ntsc>
+									<timebase>24</timebase>
+								</rate>
+								<in>0</in>
+								<out>697</out>
+								<start>579</start>
+								<end>1276</end>
+								<enabled>FALSE</enabled>
+								<masterclipid>ArmA 3 2020.11.28 - 18.58.15.68.mp4</masterclipid>
+								<logginginfo>
+									<scene />
+									<shottake />
+									<lognote />
+									<good>FALSE</good>
+								</logginginfo>
+								<labels>
+									<label2 />
+								</labels>
+								<comments>
+									<mastercomment1 />
+									<mastercomment2 />
+									<mastercomment3 />
+									<mastercomment4 />
+								</comments>
+								<file id="ArmA 3 2020.11.28 - 18.58.15.68" />
+								<filter>
+									<effect>
+										<name>Audio Levels</name>
+										<effectid>audiolevels</effectid>
+										<effectcategory>audiolevels</effectcategory>
+										<effecttype>audiolevels</effecttype>
+										<mediatype>audio</mediatype>
+										<parameter>
+											<name>Level</name>
+											<parameterid>level</parameterid>
+											<valuemin>0</valuemin>
+											<valuemax>3,98109</valuemax>
+											<value>1</value>
+										</parameter>
+									</effect>
+								</filter>
+								<filter>
+									<effect>
+										<name>Audio Pan</name>
+										<effectid>audiopan</effectid>
+										<effectcategory>audiopan</effectcategory>
+										<effecttype>audiopan</effecttype>
+										<mediatype>audio</mediatype>
+										<parameter>
+											<name>Pan</name>
+											<parameterid>pan</parameterid>
+											<valuemin>-1</valuemin>
+											<valuemax>1</valuemax>
+											<value>1</value>
+										</parameter>
+									</effect>
+								</filter>
+								<sourcetrack>
+									<mediatype>audio</mediatype>
+									<trackindex>2</trackindex>
+								</sourcetrack>
+								<link>
+									<linkclipref>ArmA 3 2020.11.28 - 18.58.15.68.mp4805307595</linkclipref>
+								</link>
+								<link>
+									<linkclipref>ArmA 3 2020.11.28 - 18.58.15.68.mp4536872140</linkclipref>
+								</link>
+								<link>
+									<linkclipref>ArmA 3 2020.11.28 - 18.58.15.68.mp45368721401</linkclipref>
+								</link>
+								<link>
+									<linkclipref>ArmA 3 2020.11.28 - 18.58.15.68.mp4536872141</linkclipref>
+								</link>
+								<link>
+									<linkclipref>ArmA 3 2020.11.28 - 18.58.15.68.mp45368721411</linkclipref>
+								</link>
+							</clipitem>
+							<clipitem id="ArmA 3 2020.11.28 - 18.58.57.69.mp45368721431">
+								<name>ArmA 3 2020.11.28 - 18.58.57.69.mp4</name>
+								<duration>544</duration>
+								<rate>
+									<ntsc>TRUE</ntsc>
+									<timebase>24</timebase>
+								</rate>
+								<in>0</in>
+								<out>544</out>
+								<start>1277</start>
+								<end>1821</end>
+								<enabled>FALSE</enabled>
+								<masterclipid>ArmA 3 2020.11.28 - 18.58.57.69.mp4</masterclipid>
+								<logginginfo>
+									<scene />
+									<shottake />
+									<lognote />
+									<good>FALSE</good>
+								</logginginfo>
+								<labels>
+									<label2 />
+								</labels>
+								<comments>
+									<mastercomment1 />
+									<mastercomment2 />
+									<mastercomment3 />
+									<mastercomment4 />
+								</comments>
+								<file id="ArmA 3 2020.11.28 - 18.58.57.69" />
+								<filter>
+									<effect>
+										<name>Audio Levels</name>
+										<effectid>audiolevels</effectid>
+										<effectcategory>audiolevels</effectcategory>
+										<effecttype>audiolevels</effecttype>
+										<mediatype>audio</mediatype>
+										<parameter>
+											<name>Level</name>
+											<parameterid>level</parameterid>
+											<valuemin>0</valuemin>
+											<valuemax>3,98109</valuemax>
+											<value>1</value>
+										</parameter>
+									</effect>
+								</filter>
+								<filter>
+									<effect>
+										<name>Audio Pan</name>
+										<effectid>audiopan</effectid>
+										<effectcategory>audiopan</effectcategory>
+										<effecttype>audiopan</effecttype>
+										<mediatype>audio</mediatype>
+										<parameter>
+											<name>Pan</name>
+											<parameterid>pan</parameterid>
+											<valuemin>-1</valuemin>
+											<valuemax>1</valuemax>
+											<value>1</value>
+										</parameter>
+									</effect>
+								</filter>
+								<sourcetrack>
+									<mediatype>audio</mediatype>
+									<trackindex>2</trackindex>
+								</sourcetrack>
+								<link>
+									<linkclipref>ArmA 3 2020.11.28 - 18.58.57.69.mp4805307598</linkclipref>
+								</link>
+								<link>
+									<linkclipref>ArmA 3 2020.11.28 - 18.58.57.69.mp4536872143</linkclipref>
+								</link>
+								<link>
+									<linkclipref>ArmA 3 2020.11.28 - 18.58.57.69.mp45368721431</linkclipref>
+								</link>
+								<link>
+									<linkclipref>ArmA 3 2020.11.28 - 18.58.57.69.mp4536872144</linkclipref>
+								</link>
+								<link>
+									<linkclipref>ArmA 3 2020.11.28 - 18.58.57.69.mp45368721441</linkclipref>
+								</link>
+							</clipitem>
+							<clipitem id="ArmA 3 2020.11.28 - 18.59.21.70.mp45368721461">
+								<name>ArmA 3 2020.11.28 - 18.59.21.70.mp4</name>
+								<duration>642</duration>
+								<rate>
+									<ntsc>TRUE</ntsc>
+									<timebase>24</timebase>
+								</rate>
+								<in>0</in>
+								<out>642</out>
+								<start>1822</start>
+								<end>2464</end>
+								<enabled>FALSE</enabled>
+								<masterclipid>ArmA 3 2020.11.28 - 18.59.21.70.mp4</masterclipid>
+								<logginginfo>
+									<scene />
+									<shottake />
+									<lognote />
+									<good>FALSE</good>
+								</logginginfo>
+								<labels>
+									<label2 />
+								</labels>
+								<comments>
+									<mastercomment1 />
+									<mastercomment2 />
+									<mastercomment3 />
+									<mastercomment4 />
+								</comments>
+								<file id="ArmA 3 2020.11.28 - 18.59.21.70" />
+								<filter>
+									<effect>
+										<name>Audio Levels</name>
+										<effectid>audiolevels</effectid>
+										<effectcategory>audiolevels</effectcategory>
+										<effecttype>audiolevels</effecttype>
+										<mediatype>audio</mediatype>
+										<parameter>
+											<name>Level</name>
+											<parameterid>level</parameterid>
+											<valuemin>0</valuemin>
+											<valuemax>3,98109</valuemax>
+											<value>1</value>
+										</parameter>
+									</effect>
+								</filter>
+								<filter>
+									<effect>
+										<name>Audio Pan</name>
+										<effectid>audiopan</effectid>
+										<effectcategory>audiopan</effectcategory>
+										<effecttype>audiopan</effecttype>
+										<mediatype>audio</mediatype>
+										<parameter>
+											<name>Pan</name>
+											<parameterid>pan</parameterid>
+											<valuemin>-1</valuemin>
+											<valuemax>1</valuemax>
+											<value>1</value>
+										</parameter>
+									</effect>
+								</filter>
+								<sourcetrack>
+									<mediatype>audio</mediatype>
+									<trackindex>2</trackindex>
+								</sourcetrack>
+								<link>
+									<linkclipref>ArmA 3 2020.11.28 - 18.59.21.70.mp4805307601</linkclipref>
+								</link>
+								<link>
+									<linkclipref>ArmA 3 2020.11.28 - 18.59.21.70.mp4536872146</linkclipref>
+								</link>
+								<link>
+									<linkclipref>ArmA 3 2020.11.28 - 18.59.21.70.mp45368721461</linkclipref>
+								</link>
+								<link>
+									<linkclipref>ArmA 3 2020.11.28 - 18.59.21.70.mp4536872147</linkclipref>
+								</link>
+								<link>
+									<linkclipref>ArmA 3 2020.11.28 - 18.59.21.70.mp45368721471</linkclipref>
+								</link>
+							</clipitem>
+							<clipitem id="ArmA 3 2020.11.28 - 18.59.56.71.mp45368721491">
+								<name>ArmA 3 2020.11.28 - 18.59.56.71.mp4</name>
+								<duration>684</duration>
+								<rate>
+									<ntsc>TRUE</ntsc>
+									<timebase>24</timebase>
+								</rate>
+								<in>0</in>
+								<out>684</out>
+								<start>2465</start>
+								<end>3149</end>
+								<enabled>FALSE</enabled>
+								<masterclipid>ArmA 3 2020.11.28 - 18.59.56.71.mp4</masterclipid>
+								<logginginfo>
+									<scene />
+									<shottake />
+									<lognote />
+									<good>FALSE</good>
+								</logginginfo>
+								<labels>
+									<label2 />
+								</labels>
+								<comments>
+									<mastercomment1 />
+									<mastercomment2 />
+									<mastercomment3 />
+									<mastercomment4 />
+								</comments>
+								<file id="ArmA 3 2020.11.28 - 18.59.56.71" />
+								<filter>
+									<effect>
+										<name>Audio Levels</name>
+										<effectid>audiolevels</effectid>
+										<effectcategory>audiolevels</effectcategory>
+										<effecttype>audiolevels</effecttype>
+										<mediatype>audio</mediatype>
+										<parameter>
+											<name>Level</name>
+											<parameterid>level</parameterid>
+											<valuemin>0</valuemin>
+											<valuemax>3,98109</valuemax>
+											<value>1</value>
+										</parameter>
+									</effect>
+								</filter>
+								<filter>
+									<effect>
+										<name>Audio Pan</name>
+										<effectid>audiopan</effectid>
+										<effectcategory>audiopan</effectcategory>
+										<effecttype>audiopan</effecttype>
+										<mediatype>audio</mediatype>
+										<parameter>
+											<name>Pan</name>
+											<parameterid>pan</parameterid>
+											<valuemin>-1</valuemin>
+											<valuemax>1</valuemax>
+											<value>1</value>
+										</parameter>
+									</effect>
+								</filter>
+								<sourcetrack>
+									<mediatype>audio</mediatype>
+									<trackindex>2</trackindex>
+								</sourcetrack>
+								<link>
+									<linkclipref>ArmA 3 2020.11.28 - 18.59.56.71.mp4805307604</linkclipref>
+								</link>
+								<link>
+									<linkclipref>ArmA 3 2020.11.28 - 18.59.56.71.mp4536872149</linkclipref>
+								</link>
+								<link>
+									<linkclipref>ArmA 3 2020.11.28 - 18.59.56.71.mp45368721491</linkclipref>
+								</link>
+								<link>
+									<linkclipref>ArmA 3 2020.11.28 - 18.59.56.71.mp4536872150</linkclipref>
+								</link>
+								<link>
+									<linkclipref>ArmA 3 2020.11.28 - 18.59.56.71.mp45368721501</linkclipref>
+								</link>
+							</clipitem>
+						</track>
+					</audio>
+				</media>
+			</sequence>
+		</children>
+	</project>
+</xmeml>

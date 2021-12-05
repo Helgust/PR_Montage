@@ -1,0 +1,5823 @@
+﻿<?xml version="1.0"?>
+<xmeml version="5">
+	<project>
+		<name>Untitled Project 1</name>
+		<children>
+			<bin>
+				<updatebehavior>add</updatebehavior>
+				<name>Custom Bins</name>
+				<children>
+					<bin>
+						<updatebehavior>add</updatebehavior>
+						<name>PR_SCENE1</name>
+						<children>
+							<clip id="PRSC1 Medium Two-Shot SLIDE IN.mp4">
+								<updatebehavior>add</updatebehavior>
+								<name>PRSC1 Medium Two-Shot SLIDE IN.mp4</name>
+								<duration>2486</duration>
+								<rate>
+									<ntsc>FALSE</ntsc>
+									<timebase>60</timebase>
+								</rate>
+								<in>-1</in>
+								<out>-1</out>
+								<masterclipid>PRSC1 Medium Two-Shot SLIDE IN.mp4</masterclipid>
+								<ismasterclip>TRUE</ismasterclip>
+								<logginginfo>
+									<scene />
+									<shottake />
+									<lognote />
+									<good>FALSE</good>
+								</logginginfo>
+								<labels>
+									<label2 />
+								</labels>
+								<comments>
+									<mastercomment1 />
+									<mastercomment2 />
+									<mastercomment3 />
+									<mastercomment4 />
+								</comments>
+								<media>
+									<video>
+										<track>
+											<clipitem id="PRSC1 Medium Two-Shot SLIDE IN.mp41">
+												<name>PRSC1 Medium Two-Shot SLIDE IN.mp4</name>
+												<duration>2486</duration>
+												<rate>
+													<ntsc>FALSE</ntsc>
+													<timebase>60</timebase>
+												</rate>
+												<in>0</in>
+												<out>2486</out>
+												<start>0</start>
+												<end>2486</end>
+												<pixelaspectratio>Square</pixelaspectratio>
+												<anamorphic>FALSE</anamorphic>
+												<alphatype>none</alphatype>
+												<masterclipid>PRSC1 Medium Two-Shot SLIDE IN.mp4</masterclipid>
+												<logginginfo>
+													<scene />
+													<shottake />
+													<lognote />
+													<good>FALSE</good>
+												</logginginfo>
+												<labels>
+													<label2 />
+												</labels>
+												<comments>
+													<mastercomment1 />
+													<mastercomment2 />
+													<mastercomment3 />
+													<mastercomment4 />
+												</comments>
+												<file id="PRSC1 Medium Two-Shot SLIDE IN">
+													<name>PRSC1 Medium Two-Shot SLIDE IN.mp4</name>
+													<pathurl>file://localhost/F:/AMVS Russia/NaturaDestruction/PRPACK2/PRSC1 Medium Two-Shot SLIDE IN.mp4</pathurl>
+													<rate>
+														<timebase>60</timebase>
+														<ntsc>FALSE</ntsc>
+													</rate>
+													<duration>2486</duration>
+													<timecode>
+														<rate>
+															<timebase>60</timebase>
+															<ntsc>FALSE</ntsc>
+														</rate>
+														<frame>0</frame>
+														<displayformat>NDF</displayformat>
+														<source>source</source>
+													</timecode>
+													<media>
+														<video>
+															<duration>2486</duration>
+															<samplecharacteristics>
+																<width>1920</width>
+																<height>1080</height>
+															</samplecharacteristics>
+														</video>
+														<audio>
+															<samplecharacteristics>
+																<samplerate>48000</samplerate>
+																<depth>32</depth>
+															</samplecharacteristics>
+															<channelcount>1</channelcount>
+														</audio>
+														<audio>
+															<samplecharacteristics>
+																<samplerate>48000</samplerate>
+																<depth>32</depth>
+															</samplecharacteristics>
+															<channelcount>1</channelcount>
+														</audio>
+													</media>
+												</file>
+												<sourcetrack>
+													<mediatype>video</mediatype>
+												</sourcetrack>
+												<fielddominance>none</fielddominance>
+											</clipitem>
+											<enabled>TRUE</enabled>
+											<locked>FALSE</locked>
+										</track>
+									</video>
+									<audio>
+										<track>
+											<clipitem id="PRSC1 Medium Two-Shot SLIDE IN.mp42">
+												<name>PRSC1 Medium Two-Shot SLIDE IN.mp4</name>
+												<duration>2486</duration>
+												<rate>
+													<ntsc>TRUE</ntsc>
+													<timebase>24</timebase>
+												</rate>
+												<in>0</in>
+												<out>2486</out>
+												<start>0</start>
+												<end>2486</end>
+												<masterclipid>PRSC1 Medium Two-Shot SLIDE IN.mp4</masterclipid>
+												<logginginfo>
+													<scene />
+													<shottake />
+													<lognote />
+													<good>FALSE</good>
+												</logginginfo>
+												<labels>
+													<label2 />
+												</labels>
+												<comments>
+													<mastercomment1 />
+													<mastercomment2 />
+													<mastercomment3 />
+													<mastercomment4 />
+												</comments>
+												<file id="PRSC1 Medium Two-Shot SLIDE IN" />
+												<sourcetrack>
+													<mediatype>audio</mediatype>
+												</sourcetrack>
+											</clipitem>
+											<enabled>TRUE</enabled>
+											<locked>FALSE</locked>
+										</track>
+										<track>
+											<clipitem id="PRSC1 Medium Two-Shot SLIDE IN.mp43">
+												<name>PRSC1 Medium Two-Shot SLIDE IN.mp4</name>
+												<duration>2486</duration>
+												<rate>
+													<ntsc>TRUE</ntsc>
+													<timebase>24</timebase>
+												</rate>
+												<in>0</in>
+												<out>2486</out>
+												<start>0</start>
+												<end>2486</end>
+												<masterclipid>PRSC1 Medium Two-Shot SLIDE IN.mp4</masterclipid>
+												<logginginfo>
+													<scene />
+													<shottake />
+													<lognote />
+													<good>FALSE</good>
+												</logginginfo>
+												<labels>
+													<label2 />
+												</labels>
+												<comments>
+													<mastercomment1 />
+													<mastercomment2 />
+													<mastercomment3 />
+													<mastercomment4 />
+												</comments>
+												<file id="PRSC1 Medium Two-Shot SLIDE IN" />
+												<sourcetrack>
+													<mediatype>audio</mediatype>
+												</sourcetrack>
+											</clipitem>
+											<enabled>TRUE</enabled>
+											<locked>FALSE</locked>
+										</track>
+									</audio>
+								</media>
+							</clip>
+							<clip id="PRSC1 FullShot (FRONT SIDE) SLIDE IN.mp4">
+								<updatebehavior>add</updatebehavior>
+								<name>PRSC1 FullShot (FRONT SIDE) SLIDE IN.mp4</name>
+								<duration>3091</duration>
+								<rate>
+									<ntsc>FALSE</ntsc>
+									<timebase>60</timebase>
+								</rate>
+								<in>-1</in>
+								<out>-1</out>
+								<masterclipid>PRSC1 FullShot (FRONT SIDE) SLIDE IN.mp4</masterclipid>
+								<ismasterclip>TRUE</ismasterclip>
+								<logginginfo>
+									<scene />
+									<shottake />
+									<lognote />
+									<good>FALSE</good>
+								</logginginfo>
+								<labels>
+									<label2 />
+								</labels>
+								<comments>
+									<mastercomment1 />
+									<mastercomment2 />
+									<mastercomment3 />
+									<mastercomment4 />
+								</comments>
+								<media>
+									<video>
+										<track>
+											<clipitem id="PRSC1 FullShot (FRONT SIDE) SLIDE IN.mp41">
+												<name>PRSC1 FullShot (FRONT SIDE) SLIDE IN.mp4</name>
+												<duration>3091</duration>
+												<rate>
+													<ntsc>FALSE</ntsc>
+													<timebase>60</timebase>
+												</rate>
+												<in>0</in>
+												<out>3091</out>
+												<start>0</start>
+												<end>3091</end>
+												<pixelaspectratio>Square</pixelaspectratio>
+												<anamorphic>FALSE</anamorphic>
+												<alphatype>none</alphatype>
+												<masterclipid>PRSC1 FullShot (FRONT SIDE) SLIDE IN.mp4</masterclipid>
+												<logginginfo>
+													<scene />
+													<shottake />
+													<lognote />
+													<good>FALSE</good>
+												</logginginfo>
+												<labels>
+													<label2 />
+												</labels>
+												<comments>
+													<mastercomment1 />
+													<mastercomment2 />
+													<mastercomment3 />
+													<mastercomment4 />
+												</comments>
+												<file id="PRSC1 FullShot (FRONT SIDE) SLIDE IN">
+													<name>PRSC1 FullShot (FRONT SIDE) SLIDE IN.mp4</name>
+													<pathurl>file://localhost/F:/AMVS Russia/NaturaDestruction/PRPACK2/PRSC1 FullShot (FRONT SIDE) SLIDE IN.mp4</pathurl>
+													<rate>
+														<timebase>60</timebase>
+														<ntsc>FALSE</ntsc>
+													</rate>
+													<duration>3091</duration>
+													<timecode>
+														<rate>
+															<timebase>60</timebase>
+															<ntsc>FALSE</ntsc>
+														</rate>
+														<frame>0</frame>
+														<displayformat>NDF</displayformat>
+														<source>source</source>
+													</timecode>
+													<media>
+														<video>
+															<duration>3091</duration>
+															<samplecharacteristics>
+																<width>1920</width>
+																<height>1080</height>
+															</samplecharacteristics>
+														</video>
+														<audio>
+															<samplecharacteristics>
+																<samplerate>48000</samplerate>
+																<depth>32</depth>
+															</samplecharacteristics>
+															<channelcount>1</channelcount>
+														</audio>
+														<audio>
+															<samplecharacteristics>
+																<samplerate>48000</samplerate>
+																<depth>32</depth>
+															</samplecharacteristics>
+															<channelcount>1</channelcount>
+														</audio>
+													</media>
+												</file>
+												<sourcetrack>
+													<mediatype>video</mediatype>
+												</sourcetrack>
+												<fielddominance>none</fielddominance>
+											</clipitem>
+											<enabled>TRUE</enabled>
+											<locked>FALSE</locked>
+										</track>
+									</video>
+									<audio>
+										<track>
+											<clipitem id="PRSC1 FullShot (FRONT SIDE) SLIDE IN.mp42">
+												<name>PRSC1 FullShot (FRONT SIDE) SLIDE IN.mp4</name>
+												<duration>3086</duration>
+												<rate>
+													<ntsc>TRUE</ntsc>
+													<timebase>24</timebase>
+												</rate>
+												<in>0</in>
+												<out>3086</out>
+												<start>0</start>
+												<end>3086</end>
+												<masterclipid>PRSC1 FullShot (FRONT SIDE) SLIDE IN.mp4</masterclipid>
+												<logginginfo>
+													<scene />
+													<shottake />
+													<lognote />
+													<good>FALSE</good>
+												</logginginfo>
+												<labels>
+													<label2 />
+												</labels>
+												<comments>
+													<mastercomment1 />
+													<mastercomment2 />
+													<mastercomment3 />
+													<mastercomment4 />
+												</comments>
+												<file id="PRSC1 FullShot (FRONT SIDE) SLIDE IN" />
+												<sourcetrack>
+													<mediatype>audio</mediatype>
+												</sourcetrack>
+											</clipitem>
+											<enabled>TRUE</enabled>
+											<locked>FALSE</locked>
+										</track>
+										<track>
+											<clipitem id="PRSC1 FullShot (FRONT SIDE) SLIDE IN.mp43">
+												<name>PRSC1 FullShot (FRONT SIDE) SLIDE IN.mp4</name>
+												<duration>3086</duration>
+												<rate>
+													<ntsc>TRUE</ntsc>
+													<timebase>24</timebase>
+												</rate>
+												<in>0</in>
+												<out>3086</out>
+												<start>0</start>
+												<end>3086</end>
+												<masterclipid>PRSC1 FullShot (FRONT SIDE) SLIDE IN.mp4</masterclipid>
+												<logginginfo>
+													<scene />
+													<shottake />
+													<lognote />
+													<good>FALSE</good>
+												</logginginfo>
+												<labels>
+													<label2 />
+												</labels>
+												<comments>
+													<mastercomment1 />
+													<mastercomment2 />
+													<mastercomment3 />
+													<mastercomment4 />
+												</comments>
+												<file id="PRSC1 FullShot (FRONT SIDE) SLIDE IN" />
+												<sourcetrack>
+													<mediatype>audio</mediatype>
+												</sourcetrack>
+											</clipitem>
+											<enabled>TRUE</enabled>
+											<locked>FALSE</locked>
+										</track>
+									</audio>
+								</media>
+							</clip>
+							<clip id="PRSC1 REVERSE TWO SHOT FULL SHOT.mp4">
+								<updatebehavior>add</updatebehavior>
+								<name>PRSC1 REVERSE TWO SHOT FULL SHOT.mp4</name>
+								<duration>3367</duration>
+								<rate>
+									<ntsc>FALSE</ntsc>
+									<timebase>60</timebase>
+								</rate>
+								<in>-1</in>
+								<out>-1</out>
+								<masterclipid>PRSC1 REVERSE TWO SHOT FULL SHOT.mp4</masterclipid>
+								<ismasterclip>TRUE</ismasterclip>
+								<logginginfo>
+									<scene />
+									<shottake />
+									<lognote />
+									<good>FALSE</good>
+								</logginginfo>
+								<labels>
+									<label2 />
+								</labels>
+								<comments>
+									<mastercomment1 />
+									<mastercomment2 />
+									<mastercomment3 />
+									<mastercomment4 />
+								</comments>
+								<media>
+									<video>
+										<track>
+											<clipitem id="PRSC1 REVERSE TWO SHOT FULL SHOT.mp41">
+												<name>PRSC1 REVERSE TWO SHOT FULL SHOT.mp4</name>
+												<duration>3367</duration>
+												<rate>
+													<ntsc>FALSE</ntsc>
+													<timebase>60</timebase>
+												</rate>
+												<in>0</in>
+												<out>3367</out>
+												<start>0</start>
+												<end>3367</end>
+												<pixelaspectratio>Square</pixelaspectratio>
+												<anamorphic>FALSE</anamorphic>
+												<alphatype>none</alphatype>
+												<masterclipid>PRSC1 REVERSE TWO SHOT FULL SHOT.mp4</masterclipid>
+												<logginginfo>
+													<scene />
+													<shottake />
+													<lognote />
+													<good>FALSE</good>
+												</logginginfo>
+												<labels>
+													<label2 />
+												</labels>
+												<comments>
+													<mastercomment1 />
+													<mastercomment2 />
+													<mastercomment3 />
+													<mastercomment4 />
+												</comments>
+												<file id="PRSC1 REVERSE TWO SHOT FULL SHOT">
+													<name>PRSC1 REVERSE TWO SHOT FULL SHOT.mp4</name>
+													<pathurl>file://localhost/F:/AMVS Russia/NaturaDestruction/PRPACK2/PRSC1 REVERSE TWO SHOT FULL SHOT.mp4</pathurl>
+													<rate>
+														<timebase>60</timebase>
+														<ntsc>FALSE</ntsc>
+													</rate>
+													<duration>3367</duration>
+													<timecode>
+														<rate>
+															<timebase>60</timebase>
+															<ntsc>FALSE</ntsc>
+														</rate>
+														<frame>0</frame>
+														<displayformat>NDF</displayformat>
+														<source>source</source>
+													</timecode>
+													<media>
+														<video>
+															<duration>3367</duration>
+															<samplecharacteristics>
+																<width>1920</width>
+																<height>1080</height>
+															</samplecharacteristics>
+														</video>
+														<audio>
+															<samplecharacteristics>
+																<samplerate>48000</samplerate>
+																<depth>32</depth>
+															</samplecharacteristics>
+															<channelcount>1</channelcount>
+														</audio>
+														<audio>
+															<samplecharacteristics>
+																<samplerate>48000</samplerate>
+																<depth>32</depth>
+															</samplecharacteristics>
+															<channelcount>1</channelcount>
+														</audio>
+													</media>
+												</file>
+												<sourcetrack>
+													<mediatype>video</mediatype>
+												</sourcetrack>
+												<fielddominance>none</fielddominance>
+											</clipitem>
+											<enabled>TRUE</enabled>
+											<locked>FALSE</locked>
+										</track>
+									</video>
+									<audio>
+										<track>
+											<clipitem id="PRSC1 REVERSE TWO SHOT FULL SHOT.mp42">
+												<name>PRSC1 REVERSE TWO SHOT FULL SHOT.mp4</name>
+												<duration>3363</duration>
+												<rate>
+													<ntsc>TRUE</ntsc>
+													<timebase>24</timebase>
+												</rate>
+												<in>0</in>
+												<out>3363</out>
+												<start>0</start>
+												<end>3363</end>
+												<masterclipid>PRSC1 REVERSE TWO SHOT FULL SHOT.mp4</masterclipid>
+												<logginginfo>
+													<scene />
+													<shottake />
+													<lognote />
+													<good>FALSE</good>
+												</logginginfo>
+												<labels>
+													<label2 />
+												</labels>
+												<comments>
+													<mastercomment1 />
+													<mastercomment2 />
+													<mastercomment3 />
+													<mastercomment4 />
+												</comments>
+												<file id="PRSC1 REVERSE TWO SHOT FULL SHOT" />
+												<sourcetrack>
+													<mediatype>audio</mediatype>
+												</sourcetrack>
+											</clipitem>
+											<enabled>TRUE</enabled>
+											<locked>FALSE</locked>
+										</track>
+										<track>
+											<clipitem id="PRSC1 REVERSE TWO SHOT FULL SHOT.mp43">
+												<name>PRSC1 REVERSE TWO SHOT FULL SHOT.mp4</name>
+												<duration>3363</duration>
+												<rate>
+													<ntsc>TRUE</ntsc>
+													<timebase>24</timebase>
+												</rate>
+												<in>0</in>
+												<out>3363</out>
+												<start>0</start>
+												<end>3363</end>
+												<masterclipid>PRSC1 REVERSE TWO SHOT FULL SHOT.mp4</masterclipid>
+												<logginginfo>
+													<scene />
+													<shottake />
+													<lognote />
+													<good>FALSE</good>
+												</logginginfo>
+												<labels>
+													<label2 />
+												</labels>
+												<comments>
+													<mastercomment1 />
+													<mastercomment2 />
+													<mastercomment3 />
+													<mastercomment4 />
+												</comments>
+												<file id="PRSC1 REVERSE TWO SHOT FULL SHOT" />
+												<sourcetrack>
+													<mediatype>audio</mediatype>
+												</sourcetrack>
+											</clipitem>
+											<enabled>TRUE</enabled>
+											<locked>FALSE</locked>
+										</track>
+									</audio>
+								</media>
+							</clip>
+							<clip id="PRSC1 MEDIUM TWO-SHOT SLIDE IN REVERSE.mp4">
+								<updatebehavior>add</updatebehavior>
+								<name>PRSC1 MEDIUM TWO-SHOT SLIDE IN REVERSE.mp4</name>
+								<duration>5294</duration>
+								<rate>
+									<ntsc>FALSE</ntsc>
+									<timebase>60</timebase>
+								</rate>
+								<in>-1</in>
+								<out>-1</out>
+								<masterclipid>PRSC1 MEDIUM TWO-SHOT SLIDE IN REVERSE.mp4</masterclipid>
+								<ismasterclip>TRUE</ismasterclip>
+								<logginginfo>
+									<scene />
+									<shottake />
+									<lognote />
+									<good>FALSE</good>
+								</logginginfo>
+								<labels>
+									<label2 />
+								</labels>
+								<comments>
+									<mastercomment1 />
+									<mastercomment2 />
+									<mastercomment3 />
+									<mastercomment4 />
+								</comments>
+								<media>
+									<video>
+										<track>
+											<clipitem id="PRSC1 MEDIUM TWO-SHOT SLIDE IN REVERSE.mp41">
+												<name>PRSC1 MEDIUM TWO-SHOT SLIDE IN REVERSE.mp4</name>
+												<duration>5294</duration>
+												<rate>
+													<ntsc>FALSE</ntsc>
+													<timebase>60</timebase>
+												</rate>
+												<in>0</in>
+												<out>5294</out>
+												<start>0</start>
+												<end>5294</end>
+												<pixelaspectratio>Square</pixelaspectratio>
+												<anamorphic>FALSE</anamorphic>
+												<alphatype>none</alphatype>
+												<masterclipid>PRSC1 MEDIUM TWO-SHOT SLIDE IN REVERSE.mp4</masterclipid>
+												<logginginfo>
+													<scene />
+													<shottake />
+													<lognote />
+													<good>FALSE</good>
+												</logginginfo>
+												<labels>
+													<label2 />
+												</labels>
+												<comments>
+													<mastercomment1 />
+													<mastercomment2 />
+													<mastercomment3 />
+													<mastercomment4 />
+												</comments>
+												<file id="PRSC1 MEDIUM TWO-SHOT SLIDE IN REVERSE">
+													<name>PRSC1 MEDIUM TWO-SHOT SLIDE IN REVERSE.mp4</name>
+													<pathurl>file://localhost/F:/AMVS Russia/NaturaDestruction/PRPACK1/PRSC1 MEDIUM TWO-SHOT SLIDE IN REVERSE.mp4</pathurl>
+													<rate>
+														<timebase>60</timebase>
+														<ntsc>FALSE</ntsc>
+													</rate>
+													<duration>5294</duration>
+													<timecode>
+														<rate>
+															<timebase>60</timebase>
+															<ntsc>FALSE</ntsc>
+														</rate>
+														<frame>0</frame>
+														<displayformat>NDF</displayformat>
+														<source>source</source>
+													</timecode>
+													<media>
+														<video>
+															<duration>5294</duration>
+															<samplecharacteristics>
+																<width>1920</width>
+																<height>1080</height>
+															</samplecharacteristics>
+														</video>
+														<audio>
+															<samplecharacteristics>
+																<samplerate>48000</samplerate>
+																<depth>32</depth>
+															</samplecharacteristics>
+															<channelcount>1</channelcount>
+														</audio>
+														<audio>
+															<samplecharacteristics>
+																<samplerate>48000</samplerate>
+																<depth>32</depth>
+															</samplecharacteristics>
+															<channelcount>1</channelcount>
+														</audio>
+													</media>
+												</file>
+												<sourcetrack>
+													<mediatype>video</mediatype>
+												</sourcetrack>
+												<fielddominance>none</fielddominance>
+											</clipitem>
+											<enabled>TRUE</enabled>
+											<locked>FALSE</locked>
+										</track>
+									</video>
+									<audio>
+										<track>
+											<clipitem id="PRSC1 MEDIUM TWO-SHOT SLIDE IN REVERSE.mp42">
+												<name>PRSC1 MEDIUM TWO-SHOT SLIDE IN REVERSE.mp4</name>
+												<duration>5290</duration>
+												<rate>
+													<ntsc>TRUE</ntsc>
+													<timebase>24</timebase>
+												</rate>
+												<in>0</in>
+												<out>5290</out>
+												<start>0</start>
+												<end>5290</end>
+												<masterclipid>PRSC1 MEDIUM TWO-SHOT SLIDE IN REVERSE.mp4</masterclipid>
+												<logginginfo>
+													<scene />
+													<shottake />
+													<lognote />
+													<good>FALSE</good>
+												</logginginfo>
+												<labels>
+													<label2 />
+												</labels>
+												<comments>
+													<mastercomment1 />
+													<mastercomment2 />
+													<mastercomment3 />
+													<mastercomment4 />
+												</comments>
+												<file id="PRSC1 MEDIUM TWO-SHOT SLIDE IN REVERSE" />
+												<sourcetrack>
+													<mediatype>audio</mediatype>
+												</sourcetrack>
+											</clipitem>
+											<enabled>TRUE</enabled>
+											<locked>FALSE</locked>
+										</track>
+										<track>
+											<clipitem id="PRSC1 MEDIUM TWO-SHOT SLIDE IN REVERSE.mp43">
+												<name>PRSC1 MEDIUM TWO-SHOT SLIDE IN REVERSE.mp4</name>
+												<duration>5290</duration>
+												<rate>
+													<ntsc>TRUE</ntsc>
+													<timebase>24</timebase>
+												</rate>
+												<in>0</in>
+												<out>5290</out>
+												<start>0</start>
+												<end>5290</end>
+												<masterclipid>PRSC1 MEDIUM TWO-SHOT SLIDE IN REVERSE.mp4</masterclipid>
+												<logginginfo>
+													<scene />
+													<shottake />
+													<lognote />
+													<good>FALSE</good>
+												</logginginfo>
+												<labels>
+													<label2 />
+												</labels>
+												<comments>
+													<mastercomment1 />
+													<mastercomment2 />
+													<mastercomment3 />
+													<mastercomment4 />
+												</comments>
+												<file id="PRSC1 MEDIUM TWO-SHOT SLIDE IN REVERSE" />
+												<sourcetrack>
+													<mediatype>audio</mediatype>
+												</sourcetrack>
+											</clipitem>
+											<enabled>TRUE</enabled>
+											<locked>FALSE</locked>
+										</track>
+									</audio>
+								</media>
+							</clip>
+							<clip id="PRSC1 Medium CLOSE-UP TWO SHOT.mp4">
+								<updatebehavior>add</updatebehavior>
+								<name>PRSC1 Medium CLOSE-UP TWO SHOT.mp4</name>
+								<duration>5802</duration>
+								<rate>
+									<ntsc>FALSE</ntsc>
+									<timebase>60</timebase>
+								</rate>
+								<in>-1</in>
+								<out>-1</out>
+								<masterclipid>PRSC1 Medium CLOSE-UP TWO SHOT.mp4</masterclipid>
+								<ismasterclip>TRUE</ismasterclip>
+								<logginginfo>
+									<scene />
+									<shottake />
+									<lognote />
+									<good>FALSE</good>
+								</logginginfo>
+								<labels>
+									<label2 />
+								</labels>
+								<comments>
+									<mastercomment1 />
+									<mastercomment2 />
+									<mastercomment3 />
+									<mastercomment4 />
+								</comments>
+								<media>
+									<video>
+										<track>
+											<clipitem id="PRSC1 Medium CLOSE-UP TWO SHOT.mp41">
+												<name>PRSC1 Medium CLOSE-UP TWO SHOT.mp4</name>
+												<duration>5802</duration>
+												<rate>
+													<ntsc>FALSE</ntsc>
+													<timebase>60</timebase>
+												</rate>
+												<in>0</in>
+												<out>5802</out>
+												<start>0</start>
+												<end>5802</end>
+												<pixelaspectratio>Square</pixelaspectratio>
+												<anamorphic>FALSE</anamorphic>
+												<alphatype>none</alphatype>
+												<masterclipid>PRSC1 Medium CLOSE-UP TWO SHOT.mp4</masterclipid>
+												<logginginfo>
+													<scene />
+													<shottake />
+													<lognote />
+													<good>FALSE</good>
+												</logginginfo>
+												<labels>
+													<label2 />
+												</labels>
+												<comments>
+													<mastercomment1 />
+													<mastercomment2 />
+													<mastercomment3 />
+													<mastercomment4 />
+												</comments>
+												<file id="PRSC1 Medium CLOSE-UP TWO SHOT">
+													<name>PRSC1 Medium CLOSE-UP TWO SHOT.mp4</name>
+													<pathurl>file://localhost/F:/AMVS Russia/NaturaDestruction/PRPACK1/PRSC1 Medium CLOSE-UP TWO SHOT.mp4</pathurl>
+													<rate>
+														<timebase>60</timebase>
+														<ntsc>FALSE</ntsc>
+													</rate>
+													<duration>5802</duration>
+													<timecode>
+														<rate>
+															<timebase>60</timebase>
+															<ntsc>FALSE</ntsc>
+														</rate>
+														<frame>0</frame>
+														<displayformat>NDF</displayformat>
+														<source>source</source>
+													</timecode>
+													<media>
+														<video>
+															<duration>5802</duration>
+															<samplecharacteristics>
+																<width>1920</width>
+																<height>1080</height>
+															</samplecharacteristics>
+														</video>
+														<audio>
+															<samplecharacteristics>
+																<samplerate>48000</samplerate>
+																<depth>32</depth>
+															</samplecharacteristics>
+															<channelcount>1</channelcount>
+														</audio>
+														<audio>
+															<samplecharacteristics>
+																<samplerate>48000</samplerate>
+																<depth>32</depth>
+															</samplecharacteristics>
+															<channelcount>1</channelcount>
+														</audio>
+													</media>
+												</file>
+												<sourcetrack>
+													<mediatype>video</mediatype>
+												</sourcetrack>
+												<fielddominance>none</fielddominance>
+											</clipitem>
+											<enabled>TRUE</enabled>
+											<locked>FALSE</locked>
+										</track>
+									</video>
+									<audio>
+										<track>
+											<clipitem id="PRSC1 Medium CLOSE-UP TWO SHOT.mp42">
+												<name>PRSC1 Medium CLOSE-UP TWO SHOT.mp4</name>
+												<duration>5802</duration>
+												<rate>
+													<ntsc>TRUE</ntsc>
+													<timebase>24</timebase>
+												</rate>
+												<in>0</in>
+												<out>5802</out>
+												<start>0</start>
+												<end>5802</end>
+												<masterclipid>PRSC1 Medium CLOSE-UP TWO SHOT.mp4</masterclipid>
+												<logginginfo>
+													<scene />
+													<shottake />
+													<lognote />
+													<good>FALSE</good>
+												</logginginfo>
+												<labels>
+													<label2 />
+												</labels>
+												<comments>
+													<mastercomment1 />
+													<mastercomment2 />
+													<mastercomment3 />
+													<mastercomment4 />
+												</comments>
+												<file id="PRSC1 Medium CLOSE-UP TWO SHOT" />
+												<sourcetrack>
+													<mediatype>audio</mediatype>
+												</sourcetrack>
+											</clipitem>
+											<enabled>TRUE</enabled>
+											<locked>FALSE</locked>
+										</track>
+										<track>
+											<clipitem id="PRSC1 Medium CLOSE-UP TWO SHOT.mp43">
+												<name>PRSC1 Medium CLOSE-UP TWO SHOT.mp4</name>
+												<duration>5802</duration>
+												<rate>
+													<ntsc>TRUE</ntsc>
+													<timebase>24</timebase>
+												</rate>
+												<in>0</in>
+												<out>5802</out>
+												<start>0</start>
+												<end>5802</end>
+												<masterclipid>PRSC1 Medium CLOSE-UP TWO SHOT.mp4</masterclipid>
+												<logginginfo>
+													<scene />
+													<shottake />
+													<lognote />
+													<good>FALSE</good>
+												</logginginfo>
+												<labels>
+													<label2 />
+												</labels>
+												<comments>
+													<mastercomment1 />
+													<mastercomment2 />
+													<mastercomment3 />
+													<mastercomment4 />
+												</comments>
+												<file id="PRSC1 Medium CLOSE-UP TWO SHOT" />
+												<sourcetrack>
+													<mediatype>audio</mediatype>
+												</sourcetrack>
+											</clipitem>
+											<enabled>TRUE</enabled>
+											<locked>FALSE</locked>
+										</track>
+									</audio>
+								</media>
+							</clip>
+							<clip id="PRSC1 FULL SHOT TO MCU SLIDE IN.mp4">
+								<updatebehavior>add</updatebehavior>
+								<name>PRSC1 FULL SHOT TO MCU SLIDE IN.mp4</name>
+								<duration>1423</duration>
+								<rate>
+									<ntsc>FALSE</ntsc>
+									<timebase>60</timebase>
+								</rate>
+								<in>-1</in>
+								<out>-1</out>
+								<masterclipid>PRSC1 FULL SHOT TO MCU SLIDE IN.mp4</masterclipid>
+								<ismasterclip>TRUE</ismasterclip>
+								<logginginfo>
+									<scene />
+									<shottake />
+									<lognote />
+									<good>FALSE</good>
+								</logginginfo>
+								<labels>
+									<label2 />
+								</labels>
+								<comments>
+									<mastercomment1 />
+									<mastercomment2 />
+									<mastercomment3 />
+									<mastercomment4 />
+								</comments>
+								<media>
+									<video>
+										<track>
+											<clipitem id="PRSC1 FULL SHOT TO MCU SLIDE IN.mp41">
+												<name>PRSC1 FULL SHOT TO MCU SLIDE IN.mp4</name>
+												<duration>1423</duration>
+												<rate>
+													<ntsc>FALSE</ntsc>
+													<timebase>60</timebase>
+												</rate>
+												<in>0</in>
+												<out>1423</out>
+												<start>0</start>
+												<end>1423</end>
+												<pixelaspectratio>Square</pixelaspectratio>
+												<anamorphic>FALSE</anamorphic>
+												<alphatype>none</alphatype>
+												<masterclipid>PRSC1 FULL SHOT TO MCU SLIDE IN.mp4</masterclipid>
+												<logginginfo>
+													<scene />
+													<shottake />
+													<lognote />
+													<good>FALSE</good>
+												</logginginfo>
+												<labels>
+													<label2 />
+												</labels>
+												<comments>
+													<mastercomment1 />
+													<mastercomment2 />
+													<mastercomment3 />
+													<mastercomment4 />
+												</comments>
+												<file id="PRSC1 FULL SHOT TO MCU SLIDE IN">
+													<name>PRSC1 FULL SHOT TO MCU SLIDE IN.mp4</name>
+													<pathurl>file://localhost/F:/AMVS Russia/NaturaDestruction/PRPACK3/PRSC1 FULL SHOT TO MCU SLIDE IN.mp4</pathurl>
+													<rate>
+														<timebase>60</timebase>
+														<ntsc>FALSE</ntsc>
+													</rate>
+													<duration>1423</duration>
+													<timecode>
+														<rate>
+															<timebase>60</timebase>
+															<ntsc>FALSE</ntsc>
+														</rate>
+														<frame>0</frame>
+														<displayformat>NDF</displayformat>
+														<source>source</source>
+													</timecode>
+													<media>
+														<video>
+															<duration>1423</duration>
+															<samplecharacteristics>
+																<width>1920</width>
+																<height>1080</height>
+															</samplecharacteristics>
+														</video>
+														<audio>
+															<samplecharacteristics>
+																<samplerate>48000</samplerate>
+																<depth>32</depth>
+															</samplecharacteristics>
+															<channelcount>1</channelcount>
+														</audio>
+														<audio>
+															<samplecharacteristics>
+																<samplerate>48000</samplerate>
+																<depth>32</depth>
+															</samplecharacteristics>
+															<channelcount>1</channelcount>
+														</audio>
+													</media>
+												</file>
+												<sourcetrack>
+													<mediatype>video</mediatype>
+												</sourcetrack>
+												<fielddominance>none</fielddominance>
+											</clipitem>
+											<enabled>TRUE</enabled>
+											<locked>FALSE</locked>
+										</track>
+									</video>
+									<audio>
+										<track>
+											<clipitem id="PRSC1 FULL SHOT TO MCU SLIDE IN.mp42">
+												<name>PRSC1 FULL SHOT TO MCU SLIDE IN.mp4</name>
+												<duration>1419</duration>
+												<rate>
+													<ntsc>TRUE</ntsc>
+													<timebase>24</timebase>
+												</rate>
+												<in>0</in>
+												<out>1419</out>
+												<start>0</start>
+												<end>1419</end>
+												<masterclipid>PRSC1 FULL SHOT TO MCU SLIDE IN.mp4</masterclipid>
+												<logginginfo>
+													<scene />
+													<shottake />
+													<lognote />
+													<good>FALSE</good>
+												</logginginfo>
+												<labels>
+													<label2 />
+												</labels>
+												<comments>
+													<mastercomment1 />
+													<mastercomment2 />
+													<mastercomment3 />
+													<mastercomment4 />
+												</comments>
+												<file id="PRSC1 FULL SHOT TO MCU SLIDE IN" />
+												<sourcetrack>
+													<mediatype>audio</mediatype>
+												</sourcetrack>
+											</clipitem>
+											<enabled>TRUE</enabled>
+											<locked>FALSE</locked>
+										</track>
+										<track>
+											<clipitem id="PRSC1 FULL SHOT TO MCU SLIDE IN.mp43">
+												<name>PRSC1 FULL SHOT TO MCU SLIDE IN.mp4</name>
+												<duration>1419</duration>
+												<rate>
+													<ntsc>TRUE</ntsc>
+													<timebase>24</timebase>
+												</rate>
+												<in>0</in>
+												<out>1419</out>
+												<start>0</start>
+												<end>1419</end>
+												<masterclipid>PRSC1 FULL SHOT TO MCU SLIDE IN.mp4</masterclipid>
+												<logginginfo>
+													<scene />
+													<shottake />
+													<lognote />
+													<good>FALSE</good>
+												</logginginfo>
+												<labels>
+													<label2 />
+												</labels>
+												<comments>
+													<mastercomment1 />
+													<mastercomment2 />
+													<mastercomment3 />
+													<mastercomment4 />
+												</comments>
+												<file id="PRSC1 FULL SHOT TO MCU SLIDE IN" />
+												<sourcetrack>
+													<mediatype>audio</mediatype>
+												</sourcetrack>
+											</clipitem>
+											<enabled>TRUE</enabled>
+											<locked>FALSE</locked>
+										</track>
+									</audio>
+								</media>
+							</clip>
+							<clip id="PRSC1 SINGLE SHOT + PAN .mp4">
+								<updatebehavior>add</updatebehavior>
+								<name>PRSC1 SINGLE SHOT + PAN .mp4</name>
+								<duration>2377</duration>
+								<rate>
+									<ntsc>FALSE</ntsc>
+									<timebase>60</timebase>
+								</rate>
+								<in>-1</in>
+								<out>-1</out>
+								<masterclipid>PRSC1 SINGLE SHOT + PAN .mp4</masterclipid>
+								<ismasterclip>TRUE</ismasterclip>
+								<logginginfo>
+									<scene />
+									<shottake />
+									<lognote />
+									<good>FALSE</good>
+								</logginginfo>
+								<labels>
+									<label2 />
+								</labels>
+								<comments>
+									<mastercomment1 />
+									<mastercomment2 />
+									<mastercomment3 />
+									<mastercomment4 />
+								</comments>
+								<media>
+									<video>
+										<track>
+											<clipitem id="PRSC1 SINGLE SHOT + PAN .mp41">
+												<name>PRSC1 SINGLE SHOT + PAN .mp4</name>
+												<duration>2377</duration>
+												<rate>
+													<ntsc>FALSE</ntsc>
+													<timebase>60</timebase>
+												</rate>
+												<in>0</in>
+												<out>2377</out>
+												<start>0</start>
+												<end>2377</end>
+												<pixelaspectratio>Square</pixelaspectratio>
+												<anamorphic>FALSE</anamorphic>
+												<alphatype>none</alphatype>
+												<masterclipid>PRSC1 SINGLE SHOT + PAN .mp4</masterclipid>
+												<logginginfo>
+													<scene />
+													<shottake />
+													<lognote />
+													<good>FALSE</good>
+												</logginginfo>
+												<labels>
+													<label2 />
+												</labels>
+												<comments>
+													<mastercomment1 />
+													<mastercomment2 />
+													<mastercomment3 />
+													<mastercomment4 />
+												</comments>
+												<file id="PRSC1 SINGLE SHOT + PAN ">
+													<name>PRSC1 SINGLE SHOT + PAN .mp4</name>
+													<pathurl>file://localhost/F:/AMVS Russia/NaturaDestruction/PRPACK2/PRSC1 SINGLE SHOT + PAN .mp4</pathurl>
+													<rate>
+														<timebase>60</timebase>
+														<ntsc>FALSE</ntsc>
+													</rate>
+													<duration>2377</duration>
+													<timecode>
+														<rate>
+															<timebase>60</timebase>
+															<ntsc>FALSE</ntsc>
+														</rate>
+														<frame>0</frame>
+														<displayformat>NDF</displayformat>
+														<source>source</source>
+													</timecode>
+													<media>
+														<video>
+															<duration>2377</duration>
+															<samplecharacteristics>
+																<width>1920</width>
+																<height>1080</height>
+															</samplecharacteristics>
+														</video>
+														<audio>
+															<samplecharacteristics>
+																<samplerate>48000</samplerate>
+																<depth>32</depth>
+															</samplecharacteristics>
+															<channelcount>1</channelcount>
+														</audio>
+														<audio>
+															<samplecharacteristics>
+																<samplerate>48000</samplerate>
+																<depth>32</depth>
+															</samplecharacteristics>
+															<channelcount>1</channelcount>
+														</audio>
+													</media>
+												</file>
+												<sourcetrack>
+													<mediatype>video</mediatype>
+												</sourcetrack>
+												<fielddominance>none</fielddominance>
+											</clipitem>
+											<enabled>TRUE</enabled>
+											<locked>FALSE</locked>
+										</track>
+									</video>
+									<audio>
+										<track>
+											<clipitem id="PRSC1 SINGLE SHOT + PAN .mp42">
+												<name>PRSC1 SINGLE SHOT + PAN .mp4</name>
+												<duration>2377</duration>
+												<rate>
+													<ntsc>TRUE</ntsc>
+													<timebase>24</timebase>
+												</rate>
+												<in>0</in>
+												<out>2377</out>
+												<start>0</start>
+												<end>2377</end>
+												<masterclipid>PRSC1 SINGLE SHOT + PAN .mp4</masterclipid>
+												<logginginfo>
+													<scene />
+													<shottake />
+													<lognote />
+													<good>FALSE</good>
+												</logginginfo>
+												<labels>
+													<label2 />
+												</labels>
+												<comments>
+													<mastercomment1 />
+													<mastercomment2 />
+													<mastercomment3 />
+													<mastercomment4 />
+												</comments>
+												<file id="PRSC1 SINGLE SHOT + PAN " />
+												<sourcetrack>
+													<mediatype>audio</mediatype>
+												</sourcetrack>
+											</clipitem>
+											<enabled>TRUE</enabled>
+											<locked>FALSE</locked>
+										</track>
+										<track>
+											<clipitem id="PRSC1 SINGLE SHOT + PAN .mp43">
+												<name>PRSC1 SINGLE SHOT + PAN .mp4</name>
+												<duration>2377</duration>
+												<rate>
+													<ntsc>TRUE</ntsc>
+													<timebase>24</timebase>
+												</rate>
+												<in>0</in>
+												<out>2377</out>
+												<start>0</start>
+												<end>2377</end>
+												<masterclipid>PRSC1 SINGLE SHOT + PAN .mp4</masterclipid>
+												<logginginfo>
+													<scene />
+													<shottake />
+													<lognote />
+													<good>FALSE</good>
+												</logginginfo>
+												<labels>
+													<label2 />
+												</labels>
+												<comments>
+													<mastercomment1 />
+													<mastercomment2 />
+													<mastercomment3 />
+													<mastercomment4 />
+												</comments>
+												<file id="PRSC1 SINGLE SHOT + PAN " />
+												<sourcetrack>
+													<mediatype>audio</mediatype>
+												</sourcetrack>
+											</clipitem>
+											<enabled>TRUE</enabled>
+											<locked>FALSE</locked>
+										</track>
+									</audio>
+								</media>
+							</clip>
+							<clip id="PRSC1 EXTRA SHOT.mp4">
+								<updatebehavior>add</updatebehavior>
+								<name>PRSC1 EXTRA SHOT.mp4</name>
+								<duration>1322</duration>
+								<rate>
+									<ntsc>FALSE</ntsc>
+									<timebase>60</timebase>
+								</rate>
+								<in>-1</in>
+								<out>-1</out>
+								<masterclipid>PRSC1 EXTRA SHOT.mp4</masterclipid>
+								<ismasterclip>TRUE</ismasterclip>
+								<logginginfo>
+									<scene />
+									<shottake />
+									<lognote />
+									<good>FALSE</good>
+								</logginginfo>
+								<labels>
+									<label2 />
+								</labels>
+								<comments>
+									<mastercomment1 />
+									<mastercomment2 />
+									<mastercomment3 />
+									<mastercomment4 />
+								</comments>
+								<media>
+									<video>
+										<track>
+											<clipitem id="PRSC1 EXTRA SHOT.mp41">
+												<name>PRSC1 EXTRA SHOT.mp4</name>
+												<duration>1322</duration>
+												<rate>
+													<ntsc>FALSE</ntsc>
+													<timebase>60</timebase>
+												</rate>
+												<in>0</in>
+												<out>1322</out>
+												<start>0</start>
+												<end>1322</end>
+												<pixelaspectratio>Square</pixelaspectratio>
+												<anamorphic>FALSE</anamorphic>
+												<alphatype>none</alphatype>
+												<masterclipid>PRSC1 EXTRA SHOT.mp4</masterclipid>
+												<logginginfo>
+													<scene />
+													<shottake />
+													<lognote />
+													<good>FALSE</good>
+												</logginginfo>
+												<labels>
+													<label2 />
+												</labels>
+												<comments>
+													<mastercomment1 />
+													<mastercomment2 />
+													<mastercomment3 />
+													<mastercomment4 />
+												</comments>
+												<file id="PRSC1 EXTRA SHOT">
+													<name>PRSC1 EXTRA SHOT.mp4</name>
+													<pathurl>file://localhost/F:/AMVS Russia/NaturaDestruction/PRPACK3/PRSC1 EXTRA SHOT.mp4</pathurl>
+													<rate>
+														<timebase>60</timebase>
+														<ntsc>FALSE</ntsc>
+													</rate>
+													<duration>1322</duration>
+													<timecode>
+														<rate>
+															<timebase>60</timebase>
+															<ntsc>FALSE</ntsc>
+														</rate>
+														<frame>0</frame>
+														<displayformat>NDF</displayformat>
+														<source>source</source>
+													</timecode>
+													<media>
+														<video>
+															<duration>1322</duration>
+															<samplecharacteristics>
+																<width>1920</width>
+																<height>1080</height>
+															</samplecharacteristics>
+														</video>
+														<audio>
+															<samplecharacteristics>
+																<samplerate>48000</samplerate>
+																<depth>32</depth>
+															</samplecharacteristics>
+															<channelcount>1</channelcount>
+														</audio>
+														<audio>
+															<samplecharacteristics>
+																<samplerate>48000</samplerate>
+																<depth>32</depth>
+															</samplecharacteristics>
+															<channelcount>1</channelcount>
+														</audio>
+													</media>
+												</file>
+												<sourcetrack>
+													<mediatype>video</mediatype>
+												</sourcetrack>
+												<fielddominance>none</fielddominance>
+											</clipitem>
+											<enabled>TRUE</enabled>
+											<locked>FALSE</locked>
+										</track>
+									</video>
+									<audio>
+										<track>
+											<clipitem id="PRSC1 EXTRA SHOT.mp42">
+												<name>PRSC1 EXTRA SHOT.mp4</name>
+												<duration>1322</duration>
+												<rate>
+													<ntsc>TRUE</ntsc>
+													<timebase>24</timebase>
+												</rate>
+												<in>0</in>
+												<out>1322</out>
+												<start>0</start>
+												<end>1322</end>
+												<masterclipid>PRSC1 EXTRA SHOT.mp4</masterclipid>
+												<logginginfo>
+													<scene />
+													<shottake />
+													<lognote />
+													<good>FALSE</good>
+												</logginginfo>
+												<labels>
+													<label2 />
+												</labels>
+												<comments>
+													<mastercomment1 />
+													<mastercomment2 />
+													<mastercomment3 />
+													<mastercomment4 />
+												</comments>
+												<file id="PRSC1 EXTRA SHOT" />
+												<sourcetrack>
+													<mediatype>audio</mediatype>
+												</sourcetrack>
+											</clipitem>
+											<enabled>TRUE</enabled>
+											<locked>FALSE</locked>
+										</track>
+										<track>
+											<clipitem id="PRSC1 EXTRA SHOT.mp43">
+												<name>PRSC1 EXTRA SHOT.mp4</name>
+												<duration>1322</duration>
+												<rate>
+													<ntsc>TRUE</ntsc>
+													<timebase>24</timebase>
+												</rate>
+												<in>0</in>
+												<out>1322</out>
+												<start>0</start>
+												<end>1322</end>
+												<masterclipid>PRSC1 EXTRA SHOT.mp4</masterclipid>
+												<logginginfo>
+													<scene />
+													<shottake />
+													<lognote />
+													<good>FALSE</good>
+												</logginginfo>
+												<labels>
+													<label2 />
+												</labels>
+												<comments>
+													<mastercomment1 />
+													<mastercomment2 />
+													<mastercomment3 />
+													<mastercomment4 />
+												</comments>
+												<file id="PRSC1 EXTRA SHOT" />
+												<sourcetrack>
+													<mediatype>audio</mediatype>
+												</sourcetrack>
+											</clipitem>
+											<enabled>TRUE</enabled>
+											<locked>FALSE</locked>
+										</track>
+									</audio>
+								</media>
+							</clip>
+							<clip id="PRSC1 Close Up SLIDE IN Diktator.mp4">
+								<updatebehavior>add</updatebehavior>
+								<name>PRSC1 Close Up SLIDE IN Diktator.mp4</name>
+								<duration>835</duration>
+								<rate>
+									<ntsc>FALSE</ntsc>
+									<timebase>60</timebase>
+								</rate>
+								<in>-1</in>
+								<out>-1</out>
+								<masterclipid>PRSC1 Close Up SLIDE IN Diktator.mp4</masterclipid>
+								<ismasterclip>TRUE</ismasterclip>
+								<logginginfo>
+									<scene />
+									<shottake />
+									<lognote />
+									<good>FALSE</good>
+								</logginginfo>
+								<labels>
+									<label2 />
+								</labels>
+								<comments>
+									<mastercomment1 />
+									<mastercomment2 />
+									<mastercomment3 />
+									<mastercomment4 />
+								</comments>
+								<media>
+									<video>
+										<track>
+											<clipitem id="PRSC1 Close Up SLIDE IN Diktator.mp41">
+												<name>PRSC1 Close Up SLIDE IN Diktator.mp4</name>
+												<duration>835</duration>
+												<rate>
+													<ntsc>FALSE</ntsc>
+													<timebase>60</timebase>
+												</rate>
+												<in>0</in>
+												<out>835</out>
+												<start>0</start>
+												<end>835</end>
+												<pixelaspectratio>Square</pixelaspectratio>
+												<anamorphic>FALSE</anamorphic>
+												<alphatype>none</alphatype>
+												<masterclipid>PRSC1 Close Up SLIDE IN Diktator.mp4</masterclipid>
+												<logginginfo>
+													<scene />
+													<shottake />
+													<lognote />
+													<good>FALSE</good>
+												</logginginfo>
+												<labels>
+													<label2 />
+												</labels>
+												<comments>
+													<mastercomment1 />
+													<mastercomment2 />
+													<mastercomment3 />
+													<mastercomment4 />
+												</comments>
+												<file id="PRSC1 Close Up SLIDE IN Diktator">
+													<name>PRSC1 Close Up SLIDE IN Diktator.mp4</name>
+													<pathurl>file://localhost/F:/AMVS Russia/NaturaDestruction/PRPACK5/PRSC1 Close Up SLIDE IN Diktator.mp4</pathurl>
+													<rate>
+														<timebase>60</timebase>
+														<ntsc>FALSE</ntsc>
+													</rate>
+													<duration>835</duration>
+													<timecode>
+														<rate>
+															<timebase>60</timebase>
+															<ntsc>FALSE</ntsc>
+														</rate>
+														<frame>0</frame>
+														<displayformat>NDF</displayformat>
+														<source>source</source>
+													</timecode>
+													<media>
+														<video>
+															<duration>835</duration>
+															<samplecharacteristics>
+																<width>1920</width>
+																<height>1080</height>
+															</samplecharacteristics>
+														</video>
+														<audio>
+															<samplecharacteristics>
+																<samplerate>48000</samplerate>
+																<depth>32</depth>
+															</samplecharacteristics>
+															<channelcount>1</channelcount>
+														</audio>
+														<audio>
+															<samplecharacteristics>
+																<samplerate>48000</samplerate>
+																<depth>32</depth>
+															</samplecharacteristics>
+															<channelcount>1</channelcount>
+														</audio>
+													</media>
+												</file>
+												<sourcetrack>
+													<mediatype>video</mediatype>
+												</sourcetrack>
+												<fielddominance>none</fielddominance>
+											</clipitem>
+											<enabled>TRUE</enabled>
+											<locked>FALSE</locked>
+										</track>
+									</video>
+									<audio>
+										<track>
+											<clipitem id="PRSC1 Close Up SLIDE IN Diktator.mp42">
+												<name>PRSC1 Close Up SLIDE IN Diktator.mp4</name>
+												<duration>835</duration>
+												<rate>
+													<ntsc>TRUE</ntsc>
+													<timebase>24</timebase>
+												</rate>
+												<in>0</in>
+												<out>835</out>
+												<start>0</start>
+												<end>835</end>
+												<masterclipid>PRSC1 Close Up SLIDE IN Diktator.mp4</masterclipid>
+												<logginginfo>
+													<scene />
+													<shottake />
+													<lognote />
+													<good>FALSE</good>
+												</logginginfo>
+												<labels>
+													<label2 />
+												</labels>
+												<comments>
+													<mastercomment1 />
+													<mastercomment2 />
+													<mastercomment3 />
+													<mastercomment4 />
+												</comments>
+												<file id="PRSC1 Close Up SLIDE IN Diktator" />
+												<sourcetrack>
+													<mediatype>audio</mediatype>
+												</sourcetrack>
+											</clipitem>
+											<enabled>TRUE</enabled>
+											<locked>FALSE</locked>
+										</track>
+										<track>
+											<clipitem id="PRSC1 Close Up SLIDE IN Diktator.mp43">
+												<name>PRSC1 Close Up SLIDE IN Diktator.mp4</name>
+												<duration>835</duration>
+												<rate>
+													<ntsc>TRUE</ntsc>
+													<timebase>24</timebase>
+												</rate>
+												<in>0</in>
+												<out>835</out>
+												<start>0</start>
+												<end>835</end>
+												<masterclipid>PRSC1 Close Up SLIDE IN Diktator.mp4</masterclipid>
+												<logginginfo>
+													<scene />
+													<shottake />
+													<lognote />
+													<good>FALSE</good>
+												</logginginfo>
+												<labels>
+													<label2 />
+												</labels>
+												<comments>
+													<mastercomment1 />
+													<mastercomment2 />
+													<mastercomment3 />
+													<mastercomment4 />
+												</comments>
+												<file id="PRSC1 Close Up SLIDE IN Diktator" />
+												<sourcetrack>
+													<mediatype>audio</mediatype>
+												</sourcetrack>
+											</clipitem>
+											<enabled>TRUE</enabled>
+											<locked>FALSE</locked>
+										</track>
+									</audio>
+								</media>
+							</clip>
+							<clip id="PRSC1 CLOSE UP - Slide out Diktator.mp4">
+								<updatebehavior>add</updatebehavior>
+								<name>PRSC1 CLOSE UP - Slide out Diktator.mp4</name>
+								<duration>817</duration>
+								<rate>
+									<ntsc>FALSE</ntsc>
+									<timebase>60</timebase>
+								</rate>
+								<in>-1</in>
+								<out>-1</out>
+								<masterclipid>PRSC1 CLOSE UP - Slide out Diktator.mp4</masterclipid>
+								<ismasterclip>TRUE</ismasterclip>
+								<logginginfo>
+									<scene />
+									<shottake />
+									<lognote />
+									<good>FALSE</good>
+								</logginginfo>
+								<labels>
+									<label2 />
+								</labels>
+								<comments>
+									<mastercomment1 />
+									<mastercomment2 />
+									<mastercomment3 />
+									<mastercomment4 />
+								</comments>
+								<media>
+									<video>
+										<track>
+											<clipitem id="PRSC1 CLOSE UP - Slide out Diktator.mp41">
+												<name>PRSC1 CLOSE UP - Slide out Diktator.mp4</name>
+												<duration>817</duration>
+												<rate>
+													<ntsc>FALSE</ntsc>
+													<timebase>60</timebase>
+												</rate>
+												<in>0</in>
+												<out>817</out>
+												<start>0</start>
+												<end>817</end>
+												<pixelaspectratio>Square</pixelaspectratio>
+												<anamorphic>FALSE</anamorphic>
+												<alphatype>none</alphatype>
+												<masterclipid>PRSC1 CLOSE UP - Slide out Diktator.mp4</masterclipid>
+												<logginginfo>
+													<scene />
+													<shottake />
+													<lognote />
+													<good>FALSE</good>
+												</logginginfo>
+												<labels>
+													<label2 />
+												</labels>
+												<comments>
+													<mastercomment1 />
+													<mastercomment2 />
+													<mastercomment3 />
+													<mastercomment4 />
+												</comments>
+												<file id="PRSC1 CLOSE UP - Slide out Diktator">
+													<name>PRSC1 CLOSE UP - Slide out Diktator.mp4</name>
+													<pathurl>file://localhost/F:/AMVS Russia/NaturaDestruction/PRPACK5/PRSC1 CLOSE UP - Slide out Diktator.mp4</pathurl>
+													<rate>
+														<timebase>60</timebase>
+														<ntsc>FALSE</ntsc>
+													</rate>
+													<duration>817</duration>
+													<timecode>
+														<rate>
+															<timebase>60</timebase>
+															<ntsc>FALSE</ntsc>
+														</rate>
+														<frame>0</frame>
+														<displayformat>NDF</displayformat>
+														<source>source</source>
+													</timecode>
+													<media>
+														<video>
+															<duration>817</duration>
+															<samplecharacteristics>
+																<width>1920</width>
+																<height>1080</height>
+															</samplecharacteristics>
+														</video>
+														<audio>
+															<samplecharacteristics>
+																<samplerate>48000</samplerate>
+																<depth>32</depth>
+															</samplecharacteristics>
+															<channelcount>1</channelcount>
+														</audio>
+														<audio>
+															<samplecharacteristics>
+																<samplerate>48000</samplerate>
+																<depth>32</depth>
+															</samplecharacteristics>
+															<channelcount>1</channelcount>
+														</audio>
+													</media>
+												</file>
+												<sourcetrack>
+													<mediatype>video</mediatype>
+												</sourcetrack>
+												<fielddominance>none</fielddominance>
+											</clipitem>
+											<enabled>TRUE</enabled>
+											<locked>FALSE</locked>
+										</track>
+									</video>
+									<audio>
+										<track>
+											<clipitem id="PRSC1 CLOSE UP - Slide out Diktator.mp42">
+												<name>PRSC1 CLOSE UP - Slide out Diktator.mp4</name>
+												<duration>817</duration>
+												<rate>
+													<ntsc>TRUE</ntsc>
+													<timebase>24</timebase>
+												</rate>
+												<in>0</in>
+												<out>817</out>
+												<start>0</start>
+												<end>817</end>
+												<masterclipid>PRSC1 CLOSE UP - Slide out Diktator.mp4</masterclipid>
+												<logginginfo>
+													<scene />
+													<shottake />
+													<lognote />
+													<good>FALSE</good>
+												</logginginfo>
+												<labels>
+													<label2 />
+												</labels>
+												<comments>
+													<mastercomment1 />
+													<mastercomment2 />
+													<mastercomment3 />
+													<mastercomment4 />
+												</comments>
+												<file id="PRSC1 CLOSE UP - Slide out Diktator" />
+												<sourcetrack>
+													<mediatype>audio</mediatype>
+												</sourcetrack>
+											</clipitem>
+											<enabled>TRUE</enabled>
+											<locked>FALSE</locked>
+										</track>
+										<track>
+											<clipitem id="PRSC1 CLOSE UP - Slide out Diktator.mp43">
+												<name>PRSC1 CLOSE UP - Slide out Diktator.mp4</name>
+												<duration>817</duration>
+												<rate>
+													<ntsc>TRUE</ntsc>
+													<timebase>24</timebase>
+												</rate>
+												<in>0</in>
+												<out>817</out>
+												<start>0</start>
+												<end>817</end>
+												<masterclipid>PRSC1 CLOSE UP - Slide out Diktator.mp4</masterclipid>
+												<logginginfo>
+													<scene />
+													<shottake />
+													<lognote />
+													<good>FALSE</good>
+												</logginginfo>
+												<labels>
+													<label2 />
+												</labels>
+												<comments>
+													<mastercomment1 />
+													<mastercomment2 />
+													<mastercomment3 />
+													<mastercomment4 />
+												</comments>
+												<file id="PRSC1 CLOSE UP - Slide out Diktator" />
+												<sourcetrack>
+													<mediatype>audio</mediatype>
+												</sourcetrack>
+											</clipitem>
+											<enabled>TRUE</enabled>
+											<locked>FALSE</locked>
+										</track>
+									</audio>
+								</media>
+							</clip>
+						</children>
+					</bin>
+				</children>
+			</bin>
+			<sequence id="Sequence 1">
+				<updatebehavior>add</updatebehavior>
+				<name>Sequence 1</name>
+				<duration>26822</duration>
+				<rate>
+					<ntsc>TRUE</ntsc>
+					<timebase>24</timebase>
+				</rate>
+				<timecode>
+					<rate>
+						<ntsc>TRUE</ntsc>
+						<timebase>24</timebase>
+					</rate>
+					<frame>86313</frame>
+					<source>source</source>
+					<displayformat>DF</displayformat>
+				</timecode>
+				<in>-1</in>
+				<out>-1</out>
+				<media>
+					<video>
+						<format>
+							<samplecharacteristics>
+								<width>1920</width>
+								<height>1080</height>
+								<pixelaspectratio>Square</pixelaspectratio>
+								<anamorphic>FALSE</anamorphic>
+								<fielddominance>none</fielddominance>
+								<rate>
+									<ntsc>TRUE</ntsc>
+									<timebase>24</timebase>
+								</rate>
+								<colordepth>24</colordepth>
+								<codec>
+									<appspecificdata>
+										<data>
+											<qtcodec>
+												<codectypecode>avc1</codectypecode>
+											</qtcodec>
+										</data>
+										<appname>Final Cut Pro</appname>
+										<appmanufacturer>Apple Inc.</appmanufacturer>
+										<appversion>7.0</appversion>
+									</appspecificdata>
+								</codec>
+							</samplecharacteristics>
+						</format>
+						<track>
+							<clipitem id="PRSC1 Medium Two-Shot SLIDE IN.mp4805307592">
+								<name>PRSC1 Medium Two-Shot SLIDE IN.mp4</name>
+								<duration>2486</duration>
+								<rate>
+									<ntsc>FALSE</ntsc>
+									<timebase>60</timebase>
+								</rate>
+								<in>0</in>
+								<out>2486</out>
+								<start>0</start>
+								<end>2486</end>
+								<pixelaspectratio>Square</pixelaspectratio>
+								<anamorphic>FALSE</anamorphic>
+								<alphatype>none</alphatype>
+								<masterclipid>PRSC1 Medium Two-Shot SLIDE IN.mp4</masterclipid>
+								<logginginfo>
+									<scene />
+									<shottake />
+									<lognote />
+									<good>FALSE</good>
+								</logginginfo>
+								<labels>
+									<label2 />
+								</labels>
+								<comments>
+									<mastercomment1 />
+									<mastercomment2 />
+									<mastercomment3 />
+									<mastercomment4 />
+								</comments>
+								<file id="PRSC1 Medium Two-Shot SLIDE IN" />
+								<filter>
+									<effect>
+										<name>Opacity</name>
+										<effectid>opacity</effectid>
+										<effectcategory>motion</effectcategory>
+										<effecttype>motion</effecttype>
+										<mediatype>video</mediatype>
+										<parameter>
+											<name>opacity</name>
+											<parameterid>opacity</parameterid>
+											<valuemin>0</valuemin>
+											<valuemax>100</valuemax>
+											<value>100</value>
+										</parameter>
+									</effect>
+								</filter>
+								<sourcetrack>
+									<mediatype>video</mediatype>
+								</sourcetrack>
+								<link>
+									<linkclipref>PRSC1 Medium Two-Shot SLIDE IN.mp4805307592</linkclipref>
+								</link>
+								<link>
+									<linkclipref>PRSC1 Medium Two-Shot SLIDE IN.mp4536872137</linkclipref>
+								</link>
+								<link>
+									<linkclipref>PRSC1 Medium Two-Shot SLIDE IN.mp45368721371</linkclipref>
+								</link>
+								<link>
+									<linkclipref>PRSC1 Medium Two-Shot SLIDE IN.mp4536872138</linkclipref>
+								</link>
+								<link>
+									<linkclipref>PRSC1 Medium Two-Shot SLIDE IN.mp45368721381</linkclipref>
+								</link>
+								<fielddominance>none</fielddominance>
+							</clipitem>
+							<clipitem id="PRSC1 FullShot (FRONT SIDE) SLIDE IN.mp4805307595">
+								<name>PRSC1 FullShot (FRONT SIDE) SLIDE IN.mp4</name>
+								<duration>3091</duration>
+								<rate>
+									<ntsc>FALSE</ntsc>
+									<timebase>60</timebase>
+								</rate>
+								<in>0</in>
+								<out>3091</out>
+								<start>2487</start>
+								<end>5578</end>
+								<pixelaspectratio>Square</pixelaspectratio>
+								<anamorphic>FALSE</anamorphic>
+								<alphatype>none</alphatype>
+								<masterclipid>PRSC1 FullShot (FRONT SIDE) SLIDE IN.mp4</masterclipid>
+								<logginginfo>
+									<scene />
+									<shottake />
+									<lognote />
+									<good>FALSE</good>
+								</logginginfo>
+								<labels>
+									<label2 />
+								</labels>
+								<comments>
+									<mastercomment1 />
+									<mastercomment2 />
+									<mastercomment3 />
+									<mastercomment4 />
+								</comments>
+								<file id="PRSC1 FullShot (FRONT SIDE) SLIDE IN" />
+								<filter>
+									<effect>
+										<name>Opacity</name>
+										<effectid>opacity</effectid>
+										<effectcategory>motion</effectcategory>
+										<effecttype>motion</effecttype>
+										<mediatype>video</mediatype>
+										<parameter>
+											<name>opacity</name>
+											<parameterid>opacity</parameterid>
+											<valuemin>0</valuemin>
+											<valuemax>100</valuemax>
+											<value>100</value>
+										</parameter>
+									</effect>
+								</filter>
+								<sourcetrack>
+									<mediatype>video</mediatype>
+								</sourcetrack>
+								<link>
+									<linkclipref>PRSC1 FullShot (FRONT SIDE) SLIDE IN.mp4805307595</linkclipref>
+								</link>
+								<link>
+									<linkclipref>PRSC1 FullShot (FRONT SIDE) SLIDE IN.mp4536872140</linkclipref>
+								</link>
+								<link>
+									<linkclipref>PRSC1 FullShot (FRONT SIDE) SLIDE IN.mp45368721401</linkclipref>
+								</link>
+								<link>
+									<linkclipref>PRSC1 FullShot (FRONT SIDE) SLIDE IN.mp4536872141</linkclipref>
+								</link>
+								<link>
+									<linkclipref>PRSC1 FullShot (FRONT SIDE) SLIDE IN.mp45368721411</linkclipref>
+								</link>
+								<fielddominance>none</fielddominance>
+							</clipitem>
+							<clipitem id="PRSC1 REVERSE TWO SHOT FULL SHOT.mp4805307598">
+								<name>PRSC1 REVERSE TWO SHOT FULL SHOT.mp4</name>
+								<duration>3367</duration>
+								<rate>
+									<ntsc>FALSE</ntsc>
+									<timebase>60</timebase>
+								</rate>
+								<in>0</in>
+								<out>3367</out>
+								<start>5578</start>
+								<end>8946</end>
+								<pixelaspectratio>Square</pixelaspectratio>
+								<anamorphic>FALSE</anamorphic>
+								<alphatype>none</alphatype>
+								<masterclipid>PRSC1 REVERSE TWO SHOT FULL SHOT.mp4</masterclipid>
+								<logginginfo>
+									<scene />
+									<shottake />
+									<lognote />
+									<good>FALSE</good>
+								</logginginfo>
+								<labels>
+									<label2 />
+								</labels>
+								<comments>
+									<mastercomment1 />
+									<mastercomment2 />
+									<mastercomment3 />
+									<mastercomment4 />
+								</comments>
+								<file id="PRSC1 REVERSE TWO SHOT FULL SHOT" />
+								<filter>
+									<effect>
+										<name>Opacity</name>
+										<effectid>opacity</effectid>
+										<effectcategory>motion</effectcategory>
+										<effecttype>motion</effecttype>
+										<mediatype>video</mediatype>
+										<parameter>
+											<name>opacity</name>
+											<parameterid>opacity</parameterid>
+											<valuemin>0</valuemin>
+											<valuemax>100</valuemax>
+											<value>100</value>
+										</parameter>
+									</effect>
+								</filter>
+								<sourcetrack>
+									<mediatype>video</mediatype>
+								</sourcetrack>
+								<link>
+									<linkclipref>PRSC1 REVERSE TWO SHOT FULL SHOT.mp4805307598</linkclipref>
+								</link>
+								<link>
+									<linkclipref>PRSC1 REVERSE TWO SHOT FULL SHOT.mp4536872143</linkclipref>
+								</link>
+								<link>
+									<linkclipref>PRSC1 REVERSE TWO SHOT FULL SHOT.mp45368721431</linkclipref>
+								</link>
+								<link>
+									<linkclipref>PRSC1 REVERSE TWO SHOT FULL SHOT.mp4536872144</linkclipref>
+								</link>
+								<link>
+									<linkclipref>PRSC1 REVERSE TWO SHOT FULL SHOT.mp45368721441</linkclipref>
+								</link>
+								<fielddominance>none</fielddominance>
+							</clipitem>
+							<clipitem id="PRSC1 MEDIUM TWO-SHOT SLIDE IN REVERSE.mp4805307601">
+								<name>PRSC1 MEDIUM TWO-SHOT SLIDE IN REVERSE.mp4</name>
+								<duration>5294</duration>
+								<rate>
+									<ntsc>FALSE</ntsc>
+									<timebase>60</timebase>
+								</rate>
+								<in>0</in>
+								<out>5294</out>
+								<start>8947</start>
+								<end>14241</end>
+								<pixelaspectratio>Square</pixelaspectratio>
+								<anamorphic>FALSE</anamorphic>
+								<alphatype>none</alphatype>
+								<masterclipid>PRSC1 MEDIUM TWO-SHOT SLIDE IN REVERSE.mp4</masterclipid>
+								<logginginfo>
+									<scene />
+									<shottake />
+									<lognote />
+									<good>FALSE</good>
+								</logginginfo>
+								<labels>
+									<label2 />
+								</labels>
+								<comments>
+									<mastercomment1 />
+									<mastercomment2 />
+									<mastercomment3 />
+									<mastercomment4 />
+								</comments>
+								<file id="PRSC1 MEDIUM TWO-SHOT SLIDE IN REVERSE" />
+								<filter>
+									<effect>
+										<name>Opacity</name>
+										<effectid>opacity</effectid>
+										<effectcategory>motion</effectcategory>
+										<effecttype>motion</effecttype>
+										<mediatype>video</mediatype>
+										<parameter>
+											<name>opacity</name>
+											<parameterid>opacity</parameterid>
+											<valuemin>0</valuemin>
+											<valuemax>100</valuemax>
+											<value>100</value>
+										</parameter>
+									</effect>
+								</filter>
+								<sourcetrack>
+									<mediatype>video</mediatype>
+								</sourcetrack>
+								<link>
+									<linkclipref>PRSC1 MEDIUM TWO-SHOT SLIDE IN REVERSE.mp4805307601</linkclipref>
+								</link>
+								<link>
+									<linkclipref>PRSC1 MEDIUM TWO-SHOT SLIDE IN REVERSE.mp4536872146</linkclipref>
+								</link>
+								<link>
+									<linkclipref>PRSC1 MEDIUM TWO-SHOT SLIDE IN REVERSE.mp45368721461</linkclipref>
+								</link>
+								<link>
+									<linkclipref>PRSC1 MEDIUM TWO-SHOT SLIDE IN REVERSE.mp4536872147</linkclipref>
+								</link>
+								<link>
+									<linkclipref>PRSC1 MEDIUM TWO-SHOT SLIDE IN REVERSE.mp45368721471</linkclipref>
+								</link>
+								<fielddominance>none</fielddominance>
+							</clipitem>
+							<clipitem id="PRSC1 Medium CLOSE-UP TWO SHOT.mp4805307604">
+								<name>PRSC1 Medium CLOSE-UP TWO SHOT.mp4</name>
+								<duration>5802</duration>
+								<rate>
+									<ntsc>FALSE</ntsc>
+									<timebase>60</timebase>
+								</rate>
+								<in>0</in>
+								<out>5802</out>
+								<start>14242</start>
+								<end>20044</end>
+								<pixelaspectratio>Square</pixelaspectratio>
+								<anamorphic>FALSE</anamorphic>
+								<alphatype>none</alphatype>
+								<masterclipid>PRSC1 Medium CLOSE-UP TWO SHOT.mp4</masterclipid>
+								<logginginfo>
+									<scene />
+									<shottake />
+									<lognote />
+									<good>FALSE</good>
+								</logginginfo>
+								<labels>
+									<label2 />
+								</labels>
+								<comments>
+									<mastercomment1 />
+									<mastercomment2 />
+									<mastercomment3 />
+									<mastercomment4 />
+								</comments>
+								<file id="PRSC1 Medium CLOSE-UP TWO SHOT" />
+								<filter>
+									<effect>
+										<name>Opacity</name>
+										<effectid>opacity</effectid>
+										<effectcategory>motion</effectcategory>
+										<effecttype>motion</effecttype>
+										<mediatype>video</mediatype>
+										<parameter>
+											<name>opacity</name>
+											<parameterid>opacity</parameterid>
+											<valuemin>0</valuemin>
+											<valuemax>100</valuemax>
+											<value>100</value>
+										</parameter>
+									</effect>
+								</filter>
+								<sourcetrack>
+									<mediatype>video</mediatype>
+								</sourcetrack>
+								<link>
+									<linkclipref>PRSC1 Medium CLOSE-UP TWO SHOT.mp4805307604</linkclipref>
+								</link>
+								<link>
+									<linkclipref>PRSC1 Medium CLOSE-UP TWO SHOT.mp4536872149</linkclipref>
+								</link>
+								<link>
+									<linkclipref>PRSC1 Medium CLOSE-UP TWO SHOT.mp45368721491</linkclipref>
+								</link>
+								<link>
+									<linkclipref>PRSC1 Medium CLOSE-UP TWO SHOT.mp4536872150</linkclipref>
+								</link>
+								<link>
+									<linkclipref>PRSC1 Medium CLOSE-UP TWO SHOT.mp45368721501</linkclipref>
+								</link>
+								<fielddominance>none</fielddominance>
+							</clipitem>
+							<clipitem id="PRSC1 FULL SHOT TO MCU SLIDE IN.mp4805307610">
+								<name>PRSC1 FULL SHOT TO MCU SLIDE IN.mp4</name>
+								<duration>1423</duration>
+								<rate>
+									<ntsc>FALSE</ntsc>
+									<timebase>60</timebase>
+								</rate>
+								<in>0</in>
+								<out>1423</out>
+								<start>20044</start>
+								<end>21467</end>
+								<pixelaspectratio>Square</pixelaspectratio>
+								<anamorphic>FALSE</anamorphic>
+								<alphatype>none</alphatype>
+								<masterclipid>PRSC1 FULL SHOT TO MCU SLIDE IN.mp4</masterclipid>
+								<logginginfo>
+									<scene />
+									<shottake />
+									<lognote />
+									<good>FALSE</good>
+								</logginginfo>
+								<labels>
+									<label2 />
+								</labels>
+								<comments>
+									<mastercomment1 />
+									<mastercomment2 />
+									<mastercomment3 />
+									<mastercomment4 />
+								</comments>
+								<file id="PRSC1 FULL SHOT TO MCU SLIDE IN" />
+								<filter>
+									<effect>
+										<name>Opacity</name>
+										<effectid>opacity</effectid>
+										<effectcategory>motion</effectcategory>
+										<effecttype>motion</effecttype>
+										<mediatype>video</mediatype>
+										<parameter>
+											<name>opacity</name>
+											<parameterid>opacity</parameterid>
+											<valuemin>0</valuemin>
+											<valuemax>100</valuemax>
+											<value>100</value>
+										</parameter>
+									</effect>
+								</filter>
+								<sourcetrack>
+									<mediatype>video</mediatype>
+								</sourcetrack>
+								<link>
+									<linkclipref>PRSC1 FULL SHOT TO MCU SLIDE IN.mp4805307610</linkclipref>
+								</link>
+								<link>
+									<linkclipref>PRSC1 FULL SHOT TO MCU SLIDE IN.mp4536872155</linkclipref>
+								</link>
+								<link>
+									<linkclipref>PRSC1 FULL SHOT TO MCU SLIDE IN.mp45368721551</linkclipref>
+								</link>
+								<link>
+									<linkclipref>PRSC1 FULL SHOT TO MCU SLIDE IN.mp4536872156</linkclipref>
+								</link>
+								<link>
+									<linkclipref>PRSC1 FULL SHOT TO MCU SLIDE IN.mp45368721561</linkclipref>
+								</link>
+								<fielddominance>none</fielddominance>
+							</clipitem>
+							<clipitem id="PRSC1 SINGLE SHOT + PAN .mp4805307613">
+								<name>PRSC1 SINGLE SHOT + PAN .mp4</name>
+								<duration>2377</duration>
+								<rate>
+									<ntsc>FALSE</ntsc>
+									<timebase>60</timebase>
+								</rate>
+								<in>0</in>
+								<out>2377</out>
+								<start>21468</start>
+								<end>23845</end>
+								<pixelaspectratio>Square</pixelaspectratio>
+								<anamorphic>FALSE</anamorphic>
+								<alphatype>none</alphatype>
+								<masterclipid>PRSC1 SINGLE SHOT + PAN .mp4</masterclipid>
+								<logginginfo>
+									<scene />
+									<shottake />
+									<lognote />
+									<good>FALSE</good>
+								</logginginfo>
+								<labels>
+									<label2 />
+								</labels>
+								<comments>
+									<mastercomment1 />
+									<mastercomment2 />
+									<mastercomment3 />
+									<mastercomment4 />
+								</comments>
+								<file id="PRSC1 SINGLE SHOT + PAN " />
+								<filter>
+									<effect>
+										<name>Opacity</name>
+										<effectid>opacity</effectid>
+										<effectcategory>motion</effectcategory>
+										<effecttype>motion</effecttype>
+										<mediatype>video</mediatype>
+										<parameter>
+											<name>opacity</name>
+											<parameterid>opacity</parameterid>
+											<valuemin>0</valuemin>
+											<valuemax>100</valuemax>
+											<value>100</value>
+										</parameter>
+									</effect>
+								</filter>
+								<sourcetrack>
+									<mediatype>video</mediatype>
+								</sourcetrack>
+								<link>
+									<linkclipref>PRSC1 SINGLE SHOT + PAN .mp4805307613</linkclipref>
+								</link>
+								<link>
+									<linkclipref>PRSC1 SINGLE SHOT + PAN .mp4536872158</linkclipref>
+								</link>
+								<link>
+									<linkclipref>PRSC1 SINGLE SHOT + PAN .mp45368721581</linkclipref>
+								</link>
+								<link>
+									<linkclipref>PRSC1 SINGLE SHOT + PAN .mp4536872159</linkclipref>
+								</link>
+								<link>
+									<linkclipref>PRSC1 SINGLE SHOT + PAN .mp45368721591</linkclipref>
+								</link>
+								<fielddominance>none</fielddominance>
+							</clipitem>
+							<clipitem id="PRSC1 EXTRA SHOT.mp4805307616">
+								<name>PRSC1 EXTRA SHOT.mp4</name>
+								<duration>1322</duration>
+								<rate>
+									<ntsc>FALSE</ntsc>
+									<timebase>60</timebase>
+								</rate>
+								<in>0</in>
+								<out>1322</out>
+								<start>23846</start>
+								<end>25168</end>
+								<pixelaspectratio>Square</pixelaspectratio>
+								<anamorphic>FALSE</anamorphic>
+								<alphatype>none</alphatype>
+								<masterclipid>PRSC1 EXTRA SHOT.mp4</masterclipid>
+								<logginginfo>
+									<scene />
+									<shottake />
+									<lognote />
+									<good>FALSE</good>
+								</logginginfo>
+								<labels>
+									<label2 />
+								</labels>
+								<comments>
+									<mastercomment1 />
+									<mastercomment2 />
+									<mastercomment3 />
+									<mastercomment4 />
+								</comments>
+								<file id="PRSC1 EXTRA SHOT" />
+								<filter>
+									<effect>
+										<name>Opacity</name>
+										<effectid>opacity</effectid>
+										<effectcategory>motion</effectcategory>
+										<effecttype>motion</effecttype>
+										<mediatype>video</mediatype>
+										<parameter>
+											<name>opacity</name>
+											<parameterid>opacity</parameterid>
+											<valuemin>0</valuemin>
+											<valuemax>100</valuemax>
+											<value>100</value>
+										</parameter>
+									</effect>
+								</filter>
+								<sourcetrack>
+									<mediatype>video</mediatype>
+								</sourcetrack>
+								<link>
+									<linkclipref>PRSC1 EXTRA SHOT.mp4805307616</linkclipref>
+								</link>
+								<link>
+									<linkclipref>PRSC1 EXTRA SHOT.mp4536872161</linkclipref>
+								</link>
+								<link>
+									<linkclipref>PRSC1 EXTRA SHOT.mp45368721611</linkclipref>
+								</link>
+								<link>
+									<linkclipref>PRSC1 EXTRA SHOT.mp4536872162</linkclipref>
+								</link>
+								<link>
+									<linkclipref>PRSC1 EXTRA SHOT.mp45368721621</linkclipref>
+								</link>
+								<fielddominance>none</fielddominance>
+							</clipitem>
+							<clipitem id="PRSC1 Close Up SLIDE IN Diktator.mp4805307619">
+								<name>PRSC1 Close Up SLIDE IN Diktator.mp4</name>
+								<duration>835</duration>
+								<rate>
+									<ntsc>FALSE</ntsc>
+									<timebase>60</timebase>
+								</rate>
+								<in>0</in>
+								<out>835</out>
+								<start>25169</start>
+								<end>26005</end>
+								<pixelaspectratio>Square</pixelaspectratio>
+								<anamorphic>FALSE</anamorphic>
+								<alphatype>none</alphatype>
+								<masterclipid>PRSC1 Close Up SLIDE IN Diktator.mp4</masterclipid>
+								<logginginfo>
+									<scene />
+									<shottake />
+									<lognote />
+									<good>FALSE</good>
+								</logginginfo>
+								<labels>
+									<label2 />
+								</labels>
+								<comments>
+									<mastercomment1 />
+									<mastercomment2 />
+									<mastercomment3 />
+									<mastercomment4 />
+								</comments>
+								<file id="PRSC1 Close Up SLIDE IN Diktator" />
+								<filter>
+									<effect>
+										<name>Opacity</name>
+										<effectid>opacity</effectid>
+										<effectcategory>motion</effectcategory>
+										<effecttype>motion</effecttype>
+										<mediatype>video</mediatype>
+										<parameter>
+											<name>opacity</name>
+											<parameterid>opacity</parameterid>
+											<valuemin>0</valuemin>
+											<valuemax>100</valuemax>
+											<value>100</value>
+										</parameter>
+									</effect>
+								</filter>
+								<sourcetrack>
+									<mediatype>video</mediatype>
+								</sourcetrack>
+								<link>
+									<linkclipref>PRSC1 Close Up SLIDE IN Diktator.mp4805307619</linkclipref>
+								</link>
+								<link>
+									<linkclipref>PRSC1 Close Up SLIDE IN Diktator.mp4536872164</linkclipref>
+								</link>
+								<link>
+									<linkclipref>PRSC1 Close Up SLIDE IN Diktator.mp45368721641</linkclipref>
+								</link>
+								<link>
+									<linkclipref>PRSC1 Close Up SLIDE IN Diktator.mp4536872165</linkclipref>
+								</link>
+								<link>
+									<linkclipref>PRSC1 Close Up SLIDE IN Diktator.mp45368721651</linkclipref>
+								</link>
+								<fielddominance>none</fielddominance>
+							</clipitem>
+							<clipitem id="PRSC1 CLOSE UP - Slide out Diktator.mp4805307622">
+								<name>PRSC1 CLOSE UP - Slide out Diktator.mp4</name>
+								<duration>817</duration>
+								<rate>
+									<ntsc>FALSE</ntsc>
+									<timebase>60</timebase>
+								</rate>
+								<in>0</in>
+								<out>817</out>
+								<start>26005</start>
+								<end>26822</end>
+								<pixelaspectratio>Square</pixelaspectratio>
+								<anamorphic>FALSE</anamorphic>
+								<alphatype>none</alphatype>
+								<masterclipid>PRSC1 CLOSE UP - Slide out Diktator.mp4</masterclipid>
+								<logginginfo>
+									<scene />
+									<shottake />
+									<lognote />
+									<good>FALSE</good>
+								</logginginfo>
+								<labels>
+									<label2 />
+								</labels>
+								<comments>
+									<mastercomment1 />
+									<mastercomment2 />
+									<mastercomment3 />
+									<mastercomment4 />
+								</comments>
+								<file id="PRSC1 CLOSE UP - Slide out Diktator" />
+								<filter>
+									<effect>
+										<name>Opacity</name>
+										<effectid>opacity</effectid>
+										<effectcategory>motion</effectcategory>
+										<effecttype>motion</effecttype>
+										<mediatype>video</mediatype>
+										<parameter>
+											<name>opacity</name>
+											<parameterid>opacity</parameterid>
+											<valuemin>0</valuemin>
+											<valuemax>100</valuemax>
+											<value>100</value>
+										</parameter>
+									</effect>
+								</filter>
+								<sourcetrack>
+									<mediatype>video</mediatype>
+								</sourcetrack>
+								<link>
+									<linkclipref>PRSC1 CLOSE UP - Slide out Diktator.mp4805307622</linkclipref>
+								</link>
+								<link>
+									<linkclipref>PRSC1 CLOSE UP - Slide out Diktator.mp4536872167</linkclipref>
+								</link>
+								<link>
+									<linkclipref>PRSC1 CLOSE UP - Slide out Diktator.mp45368721671</linkclipref>
+								</link>
+								<link>
+									<linkclipref>PRSC1 CLOSE UP - Slide out Diktator.mp4536872168</linkclipref>
+								</link>
+								<link>
+									<linkclipref>PRSC1 CLOSE UP - Slide out Diktator.mp45368721681</linkclipref>
+								</link>
+								<fielddominance>none</fielddominance>
+							</clipitem>
+						</track>
+					</video>
+					<audio>
+						<track>
+							<clipitem id="PRSC1 Medium Two-Shot SLIDE IN.mp4536872138">
+								<name>PRSC1 Medium Two-Shot SLIDE IN.mp4</name>
+								<duration>2486</duration>
+								<rate>
+									<ntsc>TRUE</ntsc>
+									<timebase>24</timebase>
+								</rate>
+								<in>0</in>
+								<out>2486</out>
+								<start>0</start>
+								<end>2486</end>
+								<masterclipid>PRSC1 Medium Two-Shot SLIDE IN.mp4</masterclipid>
+								<logginginfo>
+									<scene />
+									<shottake />
+									<lognote />
+									<good>FALSE</good>
+								</logginginfo>
+								<labels>
+									<label2 />
+								</labels>
+								<comments>
+									<mastercomment1 />
+									<mastercomment2 />
+									<mastercomment3 />
+									<mastercomment4 />
+								</comments>
+								<file id="PRSC1 Medium Two-Shot SLIDE IN" />
+								<filter>
+									<effect>
+										<name>Audio Levels</name>
+										<effectid>audiolevels</effectid>
+										<effectcategory>audiolevels</effectcategory>
+										<effecttype>audiolevels</effecttype>
+										<mediatype>audio</mediatype>
+										<parameter>
+											<name>Level</name>
+											<parameterid>level</parameterid>
+											<valuemin>0</valuemin>
+											<valuemax>3,98109</valuemax>
+											<value>1</value>
+										</parameter>
+									</effect>
+								</filter>
+								<filter>
+									<effect>
+										<name>Audio Pan</name>
+										<effectid>audiopan</effectid>
+										<effectcategory>audiopan</effectcategory>
+										<effecttype>audiopan</effecttype>
+										<mediatype>audio</mediatype>
+										<parameter>
+											<name>Pan</name>
+											<parameterid>pan</parameterid>
+											<valuemin>-1</valuemin>
+											<valuemax>1</valuemax>
+											<value>-1</value>
+										</parameter>
+									</effect>
+								</filter>
+								<sourcetrack>
+									<mediatype>audio</mediatype>
+									<trackindex>1</trackindex>
+								</sourcetrack>
+								<link>
+									<linkclipref>PRSC1 Medium Two-Shot SLIDE IN.mp4805307592</linkclipref>
+								</link>
+								<link>
+									<linkclipref>PRSC1 Medium Two-Shot SLIDE IN.mp4536872137</linkclipref>
+								</link>
+								<link>
+									<linkclipref>PRSC1 Medium Two-Shot SLIDE IN.mp45368721371</linkclipref>
+								</link>
+								<link>
+									<linkclipref>PRSC1 Medium Two-Shot SLIDE IN.mp4536872138</linkclipref>
+								</link>
+								<link>
+									<linkclipref>PRSC1 Medium Two-Shot SLIDE IN.mp45368721381</linkclipref>
+								</link>
+							</clipitem>
+							<clipitem id="PRSC1 FullShot (FRONT SIDE) SLIDE IN.mp4536872141">
+								<name>PRSC1 FullShot (FRONT SIDE) SLIDE IN.mp4</name>
+								<duration>3091</duration>
+								<rate>
+									<ntsc>TRUE</ntsc>
+									<timebase>24</timebase>
+								</rate>
+								<in>0</in>
+								<out>3091</out>
+								<start>2487</start>
+								<end>5578</end>
+								<masterclipid>PRSC1 FullShot (FRONT SIDE) SLIDE IN.mp4</masterclipid>
+								<logginginfo>
+									<scene />
+									<shottake />
+									<lognote />
+									<good>FALSE</good>
+								</logginginfo>
+								<labels>
+									<label2 />
+								</labels>
+								<comments>
+									<mastercomment1 />
+									<mastercomment2 />
+									<mastercomment3 />
+									<mastercomment4 />
+								</comments>
+								<file id="PRSC1 FullShot (FRONT SIDE) SLIDE IN" />
+								<filter>
+									<effect>
+										<name>Audio Levels</name>
+										<effectid>audiolevels</effectid>
+										<effectcategory>audiolevels</effectcategory>
+										<effecttype>audiolevels</effecttype>
+										<mediatype>audio</mediatype>
+										<parameter>
+											<name>Level</name>
+											<parameterid>level</parameterid>
+											<valuemin>0</valuemin>
+											<valuemax>3,98109</valuemax>
+											<value>1</value>
+										</parameter>
+									</effect>
+								</filter>
+								<filter>
+									<effect>
+										<name>Audio Pan</name>
+										<effectid>audiopan</effectid>
+										<effectcategory>audiopan</effectcategory>
+										<effecttype>audiopan</effecttype>
+										<mediatype>audio</mediatype>
+										<parameter>
+											<name>Pan</name>
+											<parameterid>pan</parameterid>
+											<valuemin>-1</valuemin>
+											<valuemax>1</valuemax>
+											<value>-1</value>
+										</parameter>
+									</effect>
+								</filter>
+								<sourcetrack>
+									<mediatype>audio</mediatype>
+									<trackindex>1</trackindex>
+								</sourcetrack>
+								<link>
+									<linkclipref>PRSC1 FullShot (FRONT SIDE) SLIDE IN.mp4805307595</linkclipref>
+								</link>
+								<link>
+									<linkclipref>PRSC1 FullShot (FRONT SIDE) SLIDE IN.mp4536872140</linkclipref>
+								</link>
+								<link>
+									<linkclipref>PRSC1 FullShot (FRONT SIDE) SLIDE IN.mp45368721401</linkclipref>
+								</link>
+								<link>
+									<linkclipref>PRSC1 FullShot (FRONT SIDE) SLIDE IN.mp4536872141</linkclipref>
+								</link>
+								<link>
+									<linkclipref>PRSC1 FullShot (FRONT SIDE) SLIDE IN.mp45368721411</linkclipref>
+								</link>
+							</clipitem>
+							<clipitem id="PRSC1 REVERSE TWO SHOT FULL SHOT.mp4536872144">
+								<name>PRSC1 REVERSE TWO SHOT FULL SHOT.mp4</name>
+								<duration>3367</duration>
+								<rate>
+									<ntsc>TRUE</ntsc>
+									<timebase>24</timebase>
+								</rate>
+								<in>0</in>
+								<out>3367</out>
+								<start>5578</start>
+								<end>8946</end>
+								<masterclipid>PRSC1 REVERSE TWO SHOT FULL SHOT.mp4</masterclipid>
+								<logginginfo>
+									<scene />
+									<shottake />
+									<lognote />
+									<good>FALSE</good>
+								</logginginfo>
+								<labels>
+									<label2 />
+								</labels>
+								<comments>
+									<mastercomment1 />
+									<mastercomment2 />
+									<mastercomment3 />
+									<mastercomment4 />
+								</comments>
+								<file id="PRSC1 REVERSE TWO SHOT FULL SHOT" />
+								<filter>
+									<effect>
+										<name>Audio Levels</name>
+										<effectid>audiolevels</effectid>
+										<effectcategory>audiolevels</effectcategory>
+										<effecttype>audiolevels</effecttype>
+										<mediatype>audio</mediatype>
+										<parameter>
+											<name>Level</name>
+											<parameterid>level</parameterid>
+											<valuemin>0</valuemin>
+											<valuemax>3,98109</valuemax>
+											<value>1</value>
+										</parameter>
+									</effect>
+								</filter>
+								<filter>
+									<effect>
+										<name>Audio Pan</name>
+										<effectid>audiopan</effectid>
+										<effectcategory>audiopan</effectcategory>
+										<effecttype>audiopan</effecttype>
+										<mediatype>audio</mediatype>
+										<parameter>
+											<name>Pan</name>
+											<parameterid>pan</parameterid>
+											<valuemin>-1</valuemin>
+											<valuemax>1</valuemax>
+											<value>-1</value>
+										</parameter>
+									</effect>
+								</filter>
+								<sourcetrack>
+									<mediatype>audio</mediatype>
+									<trackindex>1</trackindex>
+								</sourcetrack>
+								<link>
+									<linkclipref>PRSC1 REVERSE TWO SHOT FULL SHOT.mp4805307598</linkclipref>
+								</link>
+								<link>
+									<linkclipref>PRSC1 REVERSE TWO SHOT FULL SHOT.mp4536872143</linkclipref>
+								</link>
+								<link>
+									<linkclipref>PRSC1 REVERSE TWO SHOT FULL SHOT.mp45368721431</linkclipref>
+								</link>
+								<link>
+									<linkclipref>PRSC1 REVERSE TWO SHOT FULL SHOT.mp4536872144</linkclipref>
+								</link>
+								<link>
+									<linkclipref>PRSC1 REVERSE TWO SHOT FULL SHOT.mp45368721441</linkclipref>
+								</link>
+							</clipitem>
+							<clipitem id="PRSC1 MEDIUM TWO-SHOT SLIDE IN REVERSE.mp4536872147">
+								<name>PRSC1 MEDIUM TWO-SHOT SLIDE IN REVERSE.mp4</name>
+								<duration>5294</duration>
+								<rate>
+									<ntsc>TRUE</ntsc>
+									<timebase>24</timebase>
+								</rate>
+								<in>0</in>
+								<out>5294</out>
+								<start>8947</start>
+								<end>14241</end>
+								<masterclipid>PRSC1 MEDIUM TWO-SHOT SLIDE IN REVERSE.mp4</masterclipid>
+								<logginginfo>
+									<scene />
+									<shottake />
+									<lognote />
+									<good>FALSE</good>
+								</logginginfo>
+								<labels>
+									<label2 />
+								</labels>
+								<comments>
+									<mastercomment1 />
+									<mastercomment2 />
+									<mastercomment3 />
+									<mastercomment4 />
+								</comments>
+								<file id="PRSC1 MEDIUM TWO-SHOT SLIDE IN REVERSE" />
+								<filter>
+									<effect>
+										<name>Audio Levels</name>
+										<effectid>audiolevels</effectid>
+										<effectcategory>audiolevels</effectcategory>
+										<effecttype>audiolevels</effecttype>
+										<mediatype>audio</mediatype>
+										<parameter>
+											<name>Level</name>
+											<parameterid>level</parameterid>
+											<valuemin>0</valuemin>
+											<valuemax>3,98109</valuemax>
+											<value>1</value>
+										</parameter>
+									</effect>
+								</filter>
+								<filter>
+									<effect>
+										<name>Audio Pan</name>
+										<effectid>audiopan</effectid>
+										<effectcategory>audiopan</effectcategory>
+										<effecttype>audiopan</effecttype>
+										<mediatype>audio</mediatype>
+										<parameter>
+											<name>Pan</name>
+											<parameterid>pan</parameterid>
+											<valuemin>-1</valuemin>
+											<valuemax>1</valuemax>
+											<value>-1</value>
+										</parameter>
+									</effect>
+								</filter>
+								<sourcetrack>
+									<mediatype>audio</mediatype>
+									<trackindex>1</trackindex>
+								</sourcetrack>
+								<link>
+									<linkclipref>PRSC1 MEDIUM TWO-SHOT SLIDE IN REVERSE.mp4805307601</linkclipref>
+								</link>
+								<link>
+									<linkclipref>PRSC1 MEDIUM TWO-SHOT SLIDE IN REVERSE.mp4536872146</linkclipref>
+								</link>
+								<link>
+									<linkclipref>PRSC1 MEDIUM TWO-SHOT SLIDE IN REVERSE.mp45368721461</linkclipref>
+								</link>
+								<link>
+									<linkclipref>PRSC1 MEDIUM TWO-SHOT SLIDE IN REVERSE.mp4536872147</linkclipref>
+								</link>
+								<link>
+									<linkclipref>PRSC1 MEDIUM TWO-SHOT SLIDE IN REVERSE.mp45368721471</linkclipref>
+								</link>
+							</clipitem>
+							<clipitem id="PRSC1 Medium CLOSE-UP TWO SHOT.mp4536872150">
+								<name>PRSC1 Medium CLOSE-UP TWO SHOT.mp4</name>
+								<duration>5802</duration>
+								<rate>
+									<ntsc>TRUE</ntsc>
+									<timebase>24</timebase>
+								</rate>
+								<in>0</in>
+								<out>5802</out>
+								<start>14242</start>
+								<end>20044</end>
+								<masterclipid>PRSC1 Medium CLOSE-UP TWO SHOT.mp4</masterclipid>
+								<logginginfo>
+									<scene />
+									<shottake />
+									<lognote />
+									<good>FALSE</good>
+								</logginginfo>
+								<labels>
+									<label2 />
+								</labels>
+								<comments>
+									<mastercomment1 />
+									<mastercomment2 />
+									<mastercomment3 />
+									<mastercomment4 />
+								</comments>
+								<file id="PRSC1 Medium CLOSE-UP TWO SHOT" />
+								<filter>
+									<effect>
+										<name>Audio Levels</name>
+										<effectid>audiolevels</effectid>
+										<effectcategory>audiolevels</effectcategory>
+										<effecttype>audiolevels</effecttype>
+										<mediatype>audio</mediatype>
+										<parameter>
+											<name>Level</name>
+											<parameterid>level</parameterid>
+											<valuemin>0</valuemin>
+											<valuemax>3,98109</valuemax>
+											<value>1</value>
+										</parameter>
+									</effect>
+								</filter>
+								<filter>
+									<effect>
+										<name>Audio Pan</name>
+										<effectid>audiopan</effectid>
+										<effectcategory>audiopan</effectcategory>
+										<effecttype>audiopan</effecttype>
+										<mediatype>audio</mediatype>
+										<parameter>
+											<name>Pan</name>
+											<parameterid>pan</parameterid>
+											<valuemin>-1</valuemin>
+											<valuemax>1</valuemax>
+											<value>-1</value>
+										</parameter>
+									</effect>
+								</filter>
+								<sourcetrack>
+									<mediatype>audio</mediatype>
+									<trackindex>1</trackindex>
+								</sourcetrack>
+								<link>
+									<linkclipref>PRSC1 Medium CLOSE-UP TWO SHOT.mp4805307604</linkclipref>
+								</link>
+								<link>
+									<linkclipref>PRSC1 Medium CLOSE-UP TWO SHOT.mp4536872149</linkclipref>
+								</link>
+								<link>
+									<linkclipref>PRSC1 Medium CLOSE-UP TWO SHOT.mp45368721491</linkclipref>
+								</link>
+								<link>
+									<linkclipref>PRSC1 Medium CLOSE-UP TWO SHOT.mp4536872150</linkclipref>
+								</link>
+								<link>
+									<linkclipref>PRSC1 Medium CLOSE-UP TWO SHOT.mp45368721501</linkclipref>
+								</link>
+							</clipitem>
+							<clipitem id="PRSC1 FULL SHOT TO MCU SLIDE IN.mp4536872156">
+								<name>PRSC1 FULL SHOT TO MCU SLIDE IN.mp4</name>
+								<duration>1423</duration>
+								<rate>
+									<ntsc>TRUE</ntsc>
+									<timebase>24</timebase>
+								</rate>
+								<in>0</in>
+								<out>1423</out>
+								<start>20044</start>
+								<end>21467</end>
+								<masterclipid>PRSC1 FULL SHOT TO MCU SLIDE IN.mp4</masterclipid>
+								<logginginfo>
+									<scene />
+									<shottake />
+									<lognote />
+									<good>FALSE</good>
+								</logginginfo>
+								<labels>
+									<label2 />
+								</labels>
+								<comments>
+									<mastercomment1 />
+									<mastercomment2 />
+									<mastercomment3 />
+									<mastercomment4 />
+								</comments>
+								<file id="PRSC1 FULL SHOT TO MCU SLIDE IN" />
+								<filter>
+									<effect>
+										<name>Audio Levels</name>
+										<effectid>audiolevels</effectid>
+										<effectcategory>audiolevels</effectcategory>
+										<effecttype>audiolevels</effecttype>
+										<mediatype>audio</mediatype>
+										<parameter>
+											<name>Level</name>
+											<parameterid>level</parameterid>
+											<valuemin>0</valuemin>
+											<valuemax>3,98109</valuemax>
+											<value>1</value>
+										</parameter>
+									</effect>
+								</filter>
+								<filter>
+									<effect>
+										<name>Audio Pan</name>
+										<effectid>audiopan</effectid>
+										<effectcategory>audiopan</effectcategory>
+										<effecttype>audiopan</effecttype>
+										<mediatype>audio</mediatype>
+										<parameter>
+											<name>Pan</name>
+											<parameterid>pan</parameterid>
+											<valuemin>-1</valuemin>
+											<valuemax>1</valuemax>
+											<value>-1</value>
+										</parameter>
+									</effect>
+								</filter>
+								<sourcetrack>
+									<mediatype>audio</mediatype>
+									<trackindex>1</trackindex>
+								</sourcetrack>
+								<link>
+									<linkclipref>PRSC1 FULL SHOT TO MCU SLIDE IN.mp4805307610</linkclipref>
+								</link>
+								<link>
+									<linkclipref>PRSC1 FULL SHOT TO MCU SLIDE IN.mp4536872155</linkclipref>
+								</link>
+								<link>
+									<linkclipref>PRSC1 FULL SHOT TO MCU SLIDE IN.mp45368721551</linkclipref>
+								</link>
+								<link>
+									<linkclipref>PRSC1 FULL SHOT TO MCU SLIDE IN.mp4536872156</linkclipref>
+								</link>
+								<link>
+									<linkclipref>PRSC1 FULL SHOT TO MCU SLIDE IN.mp45368721561</linkclipref>
+								</link>
+							</clipitem>
+							<clipitem id="PRSC1 SINGLE SHOT + PAN .mp4536872159">
+								<name>PRSC1 SINGLE SHOT + PAN .mp4</name>
+								<duration>2377</duration>
+								<rate>
+									<ntsc>TRUE</ntsc>
+									<timebase>24</timebase>
+								</rate>
+								<in>0</in>
+								<out>2377</out>
+								<start>21468</start>
+								<end>23845</end>
+								<masterclipid>PRSC1 SINGLE SHOT + PAN .mp4</masterclipid>
+								<logginginfo>
+									<scene />
+									<shottake />
+									<lognote />
+									<good>FALSE</good>
+								</logginginfo>
+								<labels>
+									<label2 />
+								</labels>
+								<comments>
+									<mastercomment1 />
+									<mastercomment2 />
+									<mastercomment3 />
+									<mastercomment4 />
+								</comments>
+								<file id="PRSC1 SINGLE SHOT + PAN " />
+								<filter>
+									<effect>
+										<name>Audio Levels</name>
+										<effectid>audiolevels</effectid>
+										<effectcategory>audiolevels</effectcategory>
+										<effecttype>audiolevels</effecttype>
+										<mediatype>audio</mediatype>
+										<parameter>
+											<name>Level</name>
+											<parameterid>level</parameterid>
+											<valuemin>0</valuemin>
+											<valuemax>3,98109</valuemax>
+											<value>1</value>
+										</parameter>
+									</effect>
+								</filter>
+								<filter>
+									<effect>
+										<name>Audio Pan</name>
+										<effectid>audiopan</effectid>
+										<effectcategory>audiopan</effectcategory>
+										<effecttype>audiopan</effecttype>
+										<mediatype>audio</mediatype>
+										<parameter>
+											<name>Pan</name>
+											<parameterid>pan</parameterid>
+											<valuemin>-1</valuemin>
+											<valuemax>1</valuemax>
+											<value>-1</value>
+										</parameter>
+									</effect>
+								</filter>
+								<sourcetrack>
+									<mediatype>audio</mediatype>
+									<trackindex>1</trackindex>
+								</sourcetrack>
+								<link>
+									<linkclipref>PRSC1 SINGLE SHOT + PAN .mp4805307613</linkclipref>
+								</link>
+								<link>
+									<linkclipref>PRSC1 SINGLE SHOT + PAN .mp4536872158</linkclipref>
+								</link>
+								<link>
+									<linkclipref>PRSC1 SINGLE SHOT + PAN .mp45368721581</linkclipref>
+								</link>
+								<link>
+									<linkclipref>PRSC1 SINGLE SHOT + PAN .mp4536872159</linkclipref>
+								</link>
+								<link>
+									<linkclipref>PRSC1 SINGLE SHOT + PAN .mp45368721591</linkclipref>
+								</link>
+							</clipitem>
+							<clipitem id="PRSC1 EXTRA SHOT.mp4536872162">
+								<name>PRSC1 EXTRA SHOT.mp4</name>
+								<duration>1322</duration>
+								<rate>
+									<ntsc>TRUE</ntsc>
+									<timebase>24</timebase>
+								</rate>
+								<in>0</in>
+								<out>1322</out>
+								<start>23846</start>
+								<end>25168</end>
+								<masterclipid>PRSC1 EXTRA SHOT.mp4</masterclipid>
+								<logginginfo>
+									<scene />
+									<shottake />
+									<lognote />
+									<good>FALSE</good>
+								</logginginfo>
+								<labels>
+									<label2 />
+								</labels>
+								<comments>
+									<mastercomment1 />
+									<mastercomment2 />
+									<mastercomment3 />
+									<mastercomment4 />
+								</comments>
+								<file id="PRSC1 EXTRA SHOT" />
+								<filter>
+									<effect>
+										<name>Audio Levels</name>
+										<effectid>audiolevels</effectid>
+										<effectcategory>audiolevels</effectcategory>
+										<effecttype>audiolevels</effecttype>
+										<mediatype>audio</mediatype>
+										<parameter>
+											<name>Level</name>
+											<parameterid>level</parameterid>
+											<valuemin>0</valuemin>
+											<valuemax>3,98109</valuemax>
+											<value>1</value>
+										</parameter>
+									</effect>
+								</filter>
+								<filter>
+									<effect>
+										<name>Audio Pan</name>
+										<effectid>audiopan</effectid>
+										<effectcategory>audiopan</effectcategory>
+										<effecttype>audiopan</effecttype>
+										<mediatype>audio</mediatype>
+										<parameter>
+											<name>Pan</name>
+											<parameterid>pan</parameterid>
+											<valuemin>-1</valuemin>
+											<valuemax>1</valuemax>
+											<value>-1</value>
+										</parameter>
+									</effect>
+								</filter>
+								<sourcetrack>
+									<mediatype>audio</mediatype>
+									<trackindex>1</trackindex>
+								</sourcetrack>
+								<link>
+									<linkclipref>PRSC1 EXTRA SHOT.mp4805307616</linkclipref>
+								</link>
+								<link>
+									<linkclipref>PRSC1 EXTRA SHOT.mp4536872161</linkclipref>
+								</link>
+								<link>
+									<linkclipref>PRSC1 EXTRA SHOT.mp45368721611</linkclipref>
+								</link>
+								<link>
+									<linkclipref>PRSC1 EXTRA SHOT.mp4536872162</linkclipref>
+								</link>
+								<link>
+									<linkclipref>PRSC1 EXTRA SHOT.mp45368721621</linkclipref>
+								</link>
+							</clipitem>
+							<clipitem id="PRSC1 Close Up SLIDE IN Diktator.mp4536872165">
+								<name>PRSC1 Close Up SLIDE IN Diktator.mp4</name>
+								<duration>835</duration>
+								<rate>
+									<ntsc>TRUE</ntsc>
+									<timebase>24</timebase>
+								</rate>
+								<in>0</in>
+								<out>835</out>
+								<start>25169</start>
+								<end>26005</end>
+								<masterclipid>PRSC1 Close Up SLIDE IN Diktator.mp4</masterclipid>
+								<logginginfo>
+									<scene />
+									<shottake />
+									<lognote />
+									<good>FALSE</good>
+								</logginginfo>
+								<labels>
+									<label2 />
+								</labels>
+								<comments>
+									<mastercomment1 />
+									<mastercomment2 />
+									<mastercomment3 />
+									<mastercomment4 />
+								</comments>
+								<file id="PRSC1 Close Up SLIDE IN Diktator" />
+								<filter>
+									<effect>
+										<name>Audio Levels</name>
+										<effectid>audiolevels</effectid>
+										<effectcategory>audiolevels</effectcategory>
+										<effecttype>audiolevels</effecttype>
+										<mediatype>audio</mediatype>
+										<parameter>
+											<name>Level</name>
+											<parameterid>level</parameterid>
+											<valuemin>0</valuemin>
+											<valuemax>3,98109</valuemax>
+											<value>1</value>
+										</parameter>
+									</effect>
+								</filter>
+								<filter>
+									<effect>
+										<name>Audio Pan</name>
+										<effectid>audiopan</effectid>
+										<effectcategory>audiopan</effectcategory>
+										<effecttype>audiopan</effecttype>
+										<mediatype>audio</mediatype>
+										<parameter>
+											<name>Pan</name>
+											<parameterid>pan</parameterid>
+											<valuemin>-1</valuemin>
+											<valuemax>1</valuemax>
+											<value>-1</value>
+										</parameter>
+									</effect>
+								</filter>
+								<sourcetrack>
+									<mediatype>audio</mediatype>
+									<trackindex>1</trackindex>
+								</sourcetrack>
+								<link>
+									<linkclipref>PRSC1 Close Up SLIDE IN Diktator.mp4805307619</linkclipref>
+								</link>
+								<link>
+									<linkclipref>PRSC1 Close Up SLIDE IN Diktator.mp4536872164</linkclipref>
+								</link>
+								<link>
+									<linkclipref>PRSC1 Close Up SLIDE IN Diktator.mp45368721641</linkclipref>
+								</link>
+								<link>
+									<linkclipref>PRSC1 Close Up SLIDE IN Diktator.mp4536872165</linkclipref>
+								</link>
+								<link>
+									<linkclipref>PRSC1 Close Up SLIDE IN Diktator.mp45368721651</linkclipref>
+								</link>
+							</clipitem>
+							<clipitem id="PRSC1 CLOSE UP - Slide out Diktator.mp4536872168">
+								<name>PRSC1 CLOSE UP - Slide out Diktator.mp4</name>
+								<duration>817</duration>
+								<rate>
+									<ntsc>TRUE</ntsc>
+									<timebase>24</timebase>
+								</rate>
+								<in>0</in>
+								<out>817</out>
+								<start>26005</start>
+								<end>26822</end>
+								<masterclipid>PRSC1 CLOSE UP - Slide out Diktator.mp4</masterclipid>
+								<logginginfo>
+									<scene />
+									<shottake />
+									<lognote />
+									<good>FALSE</good>
+								</logginginfo>
+								<labels>
+									<label2 />
+								</labels>
+								<comments>
+									<mastercomment1 />
+									<mastercomment2 />
+									<mastercomment3 />
+									<mastercomment4 />
+								</comments>
+								<file id="PRSC1 CLOSE UP - Slide out Diktator" />
+								<filter>
+									<effect>
+										<name>Audio Levels</name>
+										<effectid>audiolevels</effectid>
+										<effectcategory>audiolevels</effectcategory>
+										<effecttype>audiolevels</effecttype>
+										<mediatype>audio</mediatype>
+										<parameter>
+											<name>Level</name>
+											<parameterid>level</parameterid>
+											<valuemin>0</valuemin>
+											<valuemax>3,98109</valuemax>
+											<value>1</value>
+										</parameter>
+									</effect>
+								</filter>
+								<filter>
+									<effect>
+										<name>Audio Pan</name>
+										<effectid>audiopan</effectid>
+										<effectcategory>audiopan</effectcategory>
+										<effecttype>audiopan</effecttype>
+										<mediatype>audio</mediatype>
+										<parameter>
+											<name>Pan</name>
+											<parameterid>pan</parameterid>
+											<valuemin>-1</valuemin>
+											<valuemax>1</valuemax>
+											<value>-1</value>
+										</parameter>
+									</effect>
+								</filter>
+								<sourcetrack>
+									<mediatype>audio</mediatype>
+									<trackindex>1</trackindex>
+								</sourcetrack>
+								<link>
+									<linkclipref>PRSC1 CLOSE UP - Slide out Diktator.mp4805307622</linkclipref>
+								</link>
+								<link>
+									<linkclipref>PRSC1 CLOSE UP - Slide out Diktator.mp4536872167</linkclipref>
+								</link>
+								<link>
+									<linkclipref>PRSC1 CLOSE UP - Slide out Diktator.mp45368721671</linkclipref>
+								</link>
+								<link>
+									<linkclipref>PRSC1 CLOSE UP - Slide out Diktator.mp4536872168</linkclipref>
+								</link>
+								<link>
+									<linkclipref>PRSC1 CLOSE UP - Slide out Diktator.mp45368721681</linkclipref>
+								</link>
+							</clipitem>
+						</track>
+						<track>
+							<clipitem id="PRSC1 Medium Two-Shot SLIDE IN.mp45368721381">
+								<name>PRSC1 Medium Two-Shot SLIDE IN.mp4</name>
+								<duration>2486</duration>
+								<rate>
+									<ntsc>TRUE</ntsc>
+									<timebase>24</timebase>
+								</rate>
+								<in>0</in>
+								<out>2486</out>
+								<start>0</start>
+								<end>2486</end>
+								<masterclipid>PRSC1 Medium Two-Shot SLIDE IN.mp4</masterclipid>
+								<logginginfo>
+									<scene />
+									<shottake />
+									<lognote />
+									<good>FALSE</good>
+								</logginginfo>
+								<labels>
+									<label2 />
+								</labels>
+								<comments>
+									<mastercomment1 />
+									<mastercomment2 />
+									<mastercomment3 />
+									<mastercomment4 />
+								</comments>
+								<file id="PRSC1 Medium Two-Shot SLIDE IN" />
+								<filter>
+									<effect>
+										<name>Audio Levels</name>
+										<effectid>audiolevels</effectid>
+										<effectcategory>audiolevels</effectcategory>
+										<effecttype>audiolevels</effecttype>
+										<mediatype>audio</mediatype>
+										<parameter>
+											<name>Level</name>
+											<parameterid>level</parameterid>
+											<valuemin>0</valuemin>
+											<valuemax>3,98109</valuemax>
+											<value>1</value>
+										</parameter>
+									</effect>
+								</filter>
+								<filter>
+									<effect>
+										<name>Audio Pan</name>
+										<effectid>audiopan</effectid>
+										<effectcategory>audiopan</effectcategory>
+										<effecttype>audiopan</effecttype>
+										<mediatype>audio</mediatype>
+										<parameter>
+											<name>Pan</name>
+											<parameterid>pan</parameterid>
+											<valuemin>-1</valuemin>
+											<valuemax>1</valuemax>
+											<value>1</value>
+										</parameter>
+									</effect>
+								</filter>
+								<sourcetrack>
+									<mediatype>audio</mediatype>
+									<trackindex>2</trackindex>
+								</sourcetrack>
+								<link>
+									<linkclipref>PRSC1 Medium Two-Shot SLIDE IN.mp4805307592</linkclipref>
+								</link>
+								<link>
+									<linkclipref>PRSC1 Medium Two-Shot SLIDE IN.mp4536872137</linkclipref>
+								</link>
+								<link>
+									<linkclipref>PRSC1 Medium Two-Shot SLIDE IN.mp45368721371</linkclipref>
+								</link>
+								<link>
+									<linkclipref>PRSC1 Medium Two-Shot SLIDE IN.mp4536872138</linkclipref>
+								</link>
+								<link>
+									<linkclipref>PRSC1 Medium Two-Shot SLIDE IN.mp45368721381</linkclipref>
+								</link>
+							</clipitem>
+							<clipitem id="PRSC1 FullShot (FRONT SIDE) SLIDE IN.mp45368721411">
+								<name>PRSC1 FullShot (FRONT SIDE) SLIDE IN.mp4</name>
+								<duration>3091</duration>
+								<rate>
+									<ntsc>TRUE</ntsc>
+									<timebase>24</timebase>
+								</rate>
+								<in>0</in>
+								<out>3091</out>
+								<start>2487</start>
+								<end>5578</end>
+								<masterclipid>PRSC1 FullShot (FRONT SIDE) SLIDE IN.mp4</masterclipid>
+								<logginginfo>
+									<scene />
+									<shottake />
+									<lognote />
+									<good>FALSE</good>
+								</logginginfo>
+								<labels>
+									<label2 />
+								</labels>
+								<comments>
+									<mastercomment1 />
+									<mastercomment2 />
+									<mastercomment3 />
+									<mastercomment4 />
+								</comments>
+								<file id="PRSC1 FullShot (FRONT SIDE) SLIDE IN" />
+								<filter>
+									<effect>
+										<name>Audio Levels</name>
+										<effectid>audiolevels</effectid>
+										<effectcategory>audiolevels</effectcategory>
+										<effecttype>audiolevels</effecttype>
+										<mediatype>audio</mediatype>
+										<parameter>
+											<name>Level</name>
+											<parameterid>level</parameterid>
+											<valuemin>0</valuemin>
+											<valuemax>3,98109</valuemax>
+											<value>1</value>
+										</parameter>
+									</effect>
+								</filter>
+								<filter>
+									<effect>
+										<name>Audio Pan</name>
+										<effectid>audiopan</effectid>
+										<effectcategory>audiopan</effectcategory>
+										<effecttype>audiopan</effecttype>
+										<mediatype>audio</mediatype>
+										<parameter>
+											<name>Pan</name>
+											<parameterid>pan</parameterid>
+											<valuemin>-1</valuemin>
+											<valuemax>1</valuemax>
+											<value>1</value>
+										</parameter>
+									</effect>
+								</filter>
+								<sourcetrack>
+									<mediatype>audio</mediatype>
+									<trackindex>2</trackindex>
+								</sourcetrack>
+								<link>
+									<linkclipref>PRSC1 FullShot (FRONT SIDE) SLIDE IN.mp4805307595</linkclipref>
+								</link>
+								<link>
+									<linkclipref>PRSC1 FullShot (FRONT SIDE) SLIDE IN.mp4536872140</linkclipref>
+								</link>
+								<link>
+									<linkclipref>PRSC1 FullShot (FRONT SIDE) SLIDE IN.mp45368721401</linkclipref>
+								</link>
+								<link>
+									<linkclipref>PRSC1 FullShot (FRONT SIDE) SLIDE IN.mp4536872141</linkclipref>
+								</link>
+								<link>
+									<linkclipref>PRSC1 FullShot (FRONT SIDE) SLIDE IN.mp45368721411</linkclipref>
+								</link>
+							</clipitem>
+							<clipitem id="PRSC1 REVERSE TWO SHOT FULL SHOT.mp45368721441">
+								<name>PRSC1 REVERSE TWO SHOT FULL SHOT.mp4</name>
+								<duration>3367</duration>
+								<rate>
+									<ntsc>TRUE</ntsc>
+									<timebase>24</timebase>
+								</rate>
+								<in>0</in>
+								<out>3367</out>
+								<start>5578</start>
+								<end>8946</end>
+								<masterclipid>PRSC1 REVERSE TWO SHOT FULL SHOT.mp4</masterclipid>
+								<logginginfo>
+									<scene />
+									<shottake />
+									<lognote />
+									<good>FALSE</good>
+								</logginginfo>
+								<labels>
+									<label2 />
+								</labels>
+								<comments>
+									<mastercomment1 />
+									<mastercomment2 />
+									<mastercomment3 />
+									<mastercomment4 />
+								</comments>
+								<file id="PRSC1 REVERSE TWO SHOT FULL SHOT" />
+								<filter>
+									<effect>
+										<name>Audio Levels</name>
+										<effectid>audiolevels</effectid>
+										<effectcategory>audiolevels</effectcategory>
+										<effecttype>audiolevels</effecttype>
+										<mediatype>audio</mediatype>
+										<parameter>
+											<name>Level</name>
+											<parameterid>level</parameterid>
+											<valuemin>0</valuemin>
+											<valuemax>3,98109</valuemax>
+											<value>1</value>
+										</parameter>
+									</effect>
+								</filter>
+								<filter>
+									<effect>
+										<name>Audio Pan</name>
+										<effectid>audiopan</effectid>
+										<effectcategory>audiopan</effectcategory>
+										<effecttype>audiopan</effecttype>
+										<mediatype>audio</mediatype>
+										<parameter>
+											<name>Pan</name>
+											<parameterid>pan</parameterid>
+											<valuemin>-1</valuemin>
+											<valuemax>1</valuemax>
+											<value>1</value>
+										</parameter>
+									</effect>
+								</filter>
+								<sourcetrack>
+									<mediatype>audio</mediatype>
+									<trackindex>2</trackindex>
+								</sourcetrack>
+								<link>
+									<linkclipref>PRSC1 REVERSE TWO SHOT FULL SHOT.mp4805307598</linkclipref>
+								</link>
+								<link>
+									<linkclipref>PRSC1 REVERSE TWO SHOT FULL SHOT.mp4536872143</linkclipref>
+								</link>
+								<link>
+									<linkclipref>PRSC1 REVERSE TWO SHOT FULL SHOT.mp45368721431</linkclipref>
+								</link>
+								<link>
+									<linkclipref>PRSC1 REVERSE TWO SHOT FULL SHOT.mp4536872144</linkclipref>
+								</link>
+								<link>
+									<linkclipref>PRSC1 REVERSE TWO SHOT FULL SHOT.mp45368721441</linkclipref>
+								</link>
+							</clipitem>
+							<clipitem id="PRSC1 MEDIUM TWO-SHOT SLIDE IN REVERSE.mp45368721471">
+								<name>PRSC1 MEDIUM TWO-SHOT SLIDE IN REVERSE.mp4</name>
+								<duration>5294</duration>
+								<rate>
+									<ntsc>TRUE</ntsc>
+									<timebase>24</timebase>
+								</rate>
+								<in>0</in>
+								<out>5294</out>
+								<start>8947</start>
+								<end>14241</end>
+								<masterclipid>PRSC1 MEDIUM TWO-SHOT SLIDE IN REVERSE.mp4</masterclipid>
+								<logginginfo>
+									<scene />
+									<shottake />
+									<lognote />
+									<good>FALSE</good>
+								</logginginfo>
+								<labels>
+									<label2 />
+								</labels>
+								<comments>
+									<mastercomment1 />
+									<mastercomment2 />
+									<mastercomment3 />
+									<mastercomment4 />
+								</comments>
+								<file id="PRSC1 MEDIUM TWO-SHOT SLIDE IN REVERSE" />
+								<filter>
+									<effect>
+										<name>Audio Levels</name>
+										<effectid>audiolevels</effectid>
+										<effectcategory>audiolevels</effectcategory>
+										<effecttype>audiolevels</effecttype>
+										<mediatype>audio</mediatype>
+										<parameter>
+											<name>Level</name>
+											<parameterid>level</parameterid>
+											<valuemin>0</valuemin>
+											<valuemax>3,98109</valuemax>
+											<value>1</value>
+										</parameter>
+									</effect>
+								</filter>
+								<filter>
+									<effect>
+										<name>Audio Pan</name>
+										<effectid>audiopan</effectid>
+										<effectcategory>audiopan</effectcategory>
+										<effecttype>audiopan</effecttype>
+										<mediatype>audio</mediatype>
+										<parameter>
+											<name>Pan</name>
+											<parameterid>pan</parameterid>
+											<valuemin>-1</valuemin>
+											<valuemax>1</valuemax>
+											<value>1</value>
+										</parameter>
+									</effect>
+								</filter>
+								<sourcetrack>
+									<mediatype>audio</mediatype>
+									<trackindex>2</trackindex>
+								</sourcetrack>
+								<link>
+									<linkclipref>PRSC1 MEDIUM TWO-SHOT SLIDE IN REVERSE.mp4805307601</linkclipref>
+								</link>
+								<link>
+									<linkclipref>PRSC1 MEDIUM TWO-SHOT SLIDE IN REVERSE.mp4536872146</linkclipref>
+								</link>
+								<link>
+									<linkclipref>PRSC1 MEDIUM TWO-SHOT SLIDE IN REVERSE.mp45368721461</linkclipref>
+								</link>
+								<link>
+									<linkclipref>PRSC1 MEDIUM TWO-SHOT SLIDE IN REVERSE.mp4536872147</linkclipref>
+								</link>
+								<link>
+									<linkclipref>PRSC1 MEDIUM TWO-SHOT SLIDE IN REVERSE.mp45368721471</linkclipref>
+								</link>
+							</clipitem>
+							<clipitem id="PRSC1 Medium CLOSE-UP TWO SHOT.mp45368721501">
+								<name>PRSC1 Medium CLOSE-UP TWO SHOT.mp4</name>
+								<duration>5802</duration>
+								<rate>
+									<ntsc>TRUE</ntsc>
+									<timebase>24</timebase>
+								</rate>
+								<in>0</in>
+								<out>5802</out>
+								<start>14242</start>
+								<end>20044</end>
+								<masterclipid>PRSC1 Medium CLOSE-UP TWO SHOT.mp4</masterclipid>
+								<logginginfo>
+									<scene />
+									<shottake />
+									<lognote />
+									<good>FALSE</good>
+								</logginginfo>
+								<labels>
+									<label2 />
+								</labels>
+								<comments>
+									<mastercomment1 />
+									<mastercomment2 />
+									<mastercomment3 />
+									<mastercomment4 />
+								</comments>
+								<file id="PRSC1 Medium CLOSE-UP TWO SHOT" />
+								<filter>
+									<effect>
+										<name>Audio Levels</name>
+										<effectid>audiolevels</effectid>
+										<effectcategory>audiolevels</effectcategory>
+										<effecttype>audiolevels</effecttype>
+										<mediatype>audio</mediatype>
+										<parameter>
+											<name>Level</name>
+											<parameterid>level</parameterid>
+											<valuemin>0</valuemin>
+											<valuemax>3,98109</valuemax>
+											<value>1</value>
+										</parameter>
+									</effect>
+								</filter>
+								<filter>
+									<effect>
+										<name>Audio Pan</name>
+										<effectid>audiopan</effectid>
+										<effectcategory>audiopan</effectcategory>
+										<effecttype>audiopan</effecttype>
+										<mediatype>audio</mediatype>
+										<parameter>
+											<name>Pan</name>
+											<parameterid>pan</parameterid>
+											<valuemin>-1</valuemin>
+											<valuemax>1</valuemax>
+											<value>1</value>
+										</parameter>
+									</effect>
+								</filter>
+								<sourcetrack>
+									<mediatype>audio</mediatype>
+									<trackindex>2</trackindex>
+								</sourcetrack>
+								<link>
+									<linkclipref>PRSC1 Medium CLOSE-UP TWO SHOT.mp4805307604</linkclipref>
+								</link>
+								<link>
+									<linkclipref>PRSC1 Medium CLOSE-UP TWO SHOT.mp4536872149</linkclipref>
+								</link>
+								<link>
+									<linkclipref>PRSC1 Medium CLOSE-UP TWO SHOT.mp45368721491</linkclipref>
+								</link>
+								<link>
+									<linkclipref>PRSC1 Medium CLOSE-UP TWO SHOT.mp4536872150</linkclipref>
+								</link>
+								<link>
+									<linkclipref>PRSC1 Medium CLOSE-UP TWO SHOT.mp45368721501</linkclipref>
+								</link>
+							</clipitem>
+							<clipitem id="PRSC1 FULL SHOT TO MCU SLIDE IN.mp45368721561">
+								<name>PRSC1 FULL SHOT TO MCU SLIDE IN.mp4</name>
+								<duration>1423</duration>
+								<rate>
+									<ntsc>TRUE</ntsc>
+									<timebase>24</timebase>
+								</rate>
+								<in>0</in>
+								<out>1423</out>
+								<start>20044</start>
+								<end>21467</end>
+								<masterclipid>PRSC1 FULL SHOT TO MCU SLIDE IN.mp4</masterclipid>
+								<logginginfo>
+									<scene />
+									<shottake />
+									<lognote />
+									<good>FALSE</good>
+								</logginginfo>
+								<labels>
+									<label2 />
+								</labels>
+								<comments>
+									<mastercomment1 />
+									<mastercomment2 />
+									<mastercomment3 />
+									<mastercomment4 />
+								</comments>
+								<file id="PRSC1 FULL SHOT TO MCU SLIDE IN" />
+								<filter>
+									<effect>
+										<name>Audio Levels</name>
+										<effectid>audiolevels</effectid>
+										<effectcategory>audiolevels</effectcategory>
+										<effecttype>audiolevels</effecttype>
+										<mediatype>audio</mediatype>
+										<parameter>
+											<name>Level</name>
+											<parameterid>level</parameterid>
+											<valuemin>0</valuemin>
+											<valuemax>3,98109</valuemax>
+											<value>1</value>
+										</parameter>
+									</effect>
+								</filter>
+								<filter>
+									<effect>
+										<name>Audio Pan</name>
+										<effectid>audiopan</effectid>
+										<effectcategory>audiopan</effectcategory>
+										<effecttype>audiopan</effecttype>
+										<mediatype>audio</mediatype>
+										<parameter>
+											<name>Pan</name>
+											<parameterid>pan</parameterid>
+											<valuemin>-1</valuemin>
+											<valuemax>1</valuemax>
+											<value>1</value>
+										</parameter>
+									</effect>
+								</filter>
+								<sourcetrack>
+									<mediatype>audio</mediatype>
+									<trackindex>2</trackindex>
+								</sourcetrack>
+								<link>
+									<linkclipref>PRSC1 FULL SHOT TO MCU SLIDE IN.mp4805307610</linkclipref>
+								</link>
+								<link>
+									<linkclipref>PRSC1 FULL SHOT TO MCU SLIDE IN.mp4536872155</linkclipref>
+								</link>
+								<link>
+									<linkclipref>PRSC1 FULL SHOT TO MCU SLIDE IN.mp45368721551</linkclipref>
+								</link>
+								<link>
+									<linkclipref>PRSC1 FULL SHOT TO MCU SLIDE IN.mp4536872156</linkclipref>
+								</link>
+								<link>
+									<linkclipref>PRSC1 FULL SHOT TO MCU SLIDE IN.mp45368721561</linkclipref>
+								</link>
+							</clipitem>
+							<clipitem id="PRSC1 SINGLE SHOT + PAN .mp45368721591">
+								<name>PRSC1 SINGLE SHOT + PAN .mp4</name>
+								<duration>2377</duration>
+								<rate>
+									<ntsc>TRUE</ntsc>
+									<timebase>24</timebase>
+								</rate>
+								<in>0</in>
+								<out>2377</out>
+								<start>21468</start>
+								<end>23845</end>
+								<masterclipid>PRSC1 SINGLE SHOT + PAN .mp4</masterclipid>
+								<logginginfo>
+									<scene />
+									<shottake />
+									<lognote />
+									<good>FALSE</good>
+								</logginginfo>
+								<labels>
+									<label2 />
+								</labels>
+								<comments>
+									<mastercomment1 />
+									<mastercomment2 />
+									<mastercomment3 />
+									<mastercomment4 />
+								</comments>
+								<file id="PRSC1 SINGLE SHOT + PAN " />
+								<filter>
+									<effect>
+										<name>Audio Levels</name>
+										<effectid>audiolevels</effectid>
+										<effectcategory>audiolevels</effectcategory>
+										<effecttype>audiolevels</effecttype>
+										<mediatype>audio</mediatype>
+										<parameter>
+											<name>Level</name>
+											<parameterid>level</parameterid>
+											<valuemin>0</valuemin>
+											<valuemax>3,98109</valuemax>
+											<value>1</value>
+										</parameter>
+									</effect>
+								</filter>
+								<filter>
+									<effect>
+										<name>Audio Pan</name>
+										<effectid>audiopan</effectid>
+										<effectcategory>audiopan</effectcategory>
+										<effecttype>audiopan</effecttype>
+										<mediatype>audio</mediatype>
+										<parameter>
+											<name>Pan</name>
+											<parameterid>pan</parameterid>
+											<valuemin>-1</valuemin>
+											<valuemax>1</valuemax>
+											<value>1</value>
+										</parameter>
+									</effect>
+								</filter>
+								<sourcetrack>
+									<mediatype>audio</mediatype>
+									<trackindex>2</trackindex>
+								</sourcetrack>
+								<link>
+									<linkclipref>PRSC1 SINGLE SHOT + PAN .mp4805307613</linkclipref>
+								</link>
+								<link>
+									<linkclipref>PRSC1 SINGLE SHOT + PAN .mp4536872158</linkclipref>
+								</link>
+								<link>
+									<linkclipref>PRSC1 SINGLE SHOT + PAN .mp45368721581</linkclipref>
+								</link>
+								<link>
+									<linkclipref>PRSC1 SINGLE SHOT + PAN .mp4536872159</linkclipref>
+								</link>
+								<link>
+									<linkclipref>PRSC1 SINGLE SHOT + PAN .mp45368721591</linkclipref>
+								</link>
+							</clipitem>
+							<clipitem id="PRSC1 EXTRA SHOT.mp45368721621">
+								<name>PRSC1 EXTRA SHOT.mp4</name>
+								<duration>1322</duration>
+								<rate>
+									<ntsc>TRUE</ntsc>
+									<timebase>24</timebase>
+								</rate>
+								<in>0</in>
+								<out>1322</out>
+								<start>23846</start>
+								<end>25168</end>
+								<masterclipid>PRSC1 EXTRA SHOT.mp4</masterclipid>
+								<logginginfo>
+									<scene />
+									<shottake />
+									<lognote />
+									<good>FALSE</good>
+								</logginginfo>
+								<labels>
+									<label2 />
+								</labels>
+								<comments>
+									<mastercomment1 />
+									<mastercomment2 />
+									<mastercomment3 />
+									<mastercomment4 />
+								</comments>
+								<file id="PRSC1 EXTRA SHOT" />
+								<filter>
+									<effect>
+										<name>Audio Levels</name>
+										<effectid>audiolevels</effectid>
+										<effectcategory>audiolevels</effectcategory>
+										<effecttype>audiolevels</effecttype>
+										<mediatype>audio</mediatype>
+										<parameter>
+											<name>Level</name>
+											<parameterid>level</parameterid>
+											<valuemin>0</valuemin>
+											<valuemax>3,98109</valuemax>
+											<value>1</value>
+										</parameter>
+									</effect>
+								</filter>
+								<filter>
+									<effect>
+										<name>Audio Pan</name>
+										<effectid>audiopan</effectid>
+										<effectcategory>audiopan</effectcategory>
+										<effecttype>audiopan</effecttype>
+										<mediatype>audio</mediatype>
+										<parameter>
+											<name>Pan</name>
+											<parameterid>pan</parameterid>
+											<valuemin>-1</valuemin>
+											<valuemax>1</valuemax>
+											<value>1</value>
+										</parameter>
+									</effect>
+								</filter>
+								<sourcetrack>
+									<mediatype>audio</mediatype>
+									<trackindex>2</trackindex>
+								</sourcetrack>
+								<link>
+									<linkclipref>PRSC1 EXTRA SHOT.mp4805307616</linkclipref>
+								</link>
+								<link>
+									<linkclipref>PRSC1 EXTRA SHOT.mp4536872161</linkclipref>
+								</link>
+								<link>
+									<linkclipref>PRSC1 EXTRA SHOT.mp45368721611</linkclipref>
+								</link>
+								<link>
+									<linkclipref>PRSC1 EXTRA SHOT.mp4536872162</linkclipref>
+								</link>
+								<link>
+									<linkclipref>PRSC1 EXTRA SHOT.mp45368721621</linkclipref>
+								</link>
+							</clipitem>
+							<clipitem id="PRSC1 Close Up SLIDE IN Diktator.mp45368721651">
+								<name>PRSC1 Close Up SLIDE IN Diktator.mp4</name>
+								<duration>835</duration>
+								<rate>
+									<ntsc>TRUE</ntsc>
+									<timebase>24</timebase>
+								</rate>
+								<in>0</in>
+								<out>835</out>
+								<start>25169</start>
+								<end>26005</end>
+								<masterclipid>PRSC1 Close Up SLIDE IN Diktator.mp4</masterclipid>
+								<logginginfo>
+									<scene />
+									<shottake />
+									<lognote />
+									<good>FALSE</good>
+								</logginginfo>
+								<labels>
+									<label2 />
+								</labels>
+								<comments>
+									<mastercomment1 />
+									<mastercomment2 />
+									<mastercomment3 />
+									<mastercomment4 />
+								</comments>
+								<file id="PRSC1 Close Up SLIDE IN Diktator" />
+								<filter>
+									<effect>
+										<name>Audio Levels</name>
+										<effectid>audiolevels</effectid>
+										<effectcategory>audiolevels</effectcategory>
+										<effecttype>audiolevels</effecttype>
+										<mediatype>audio</mediatype>
+										<parameter>
+											<name>Level</name>
+											<parameterid>level</parameterid>
+											<valuemin>0</valuemin>
+											<valuemax>3,98109</valuemax>
+											<value>1</value>
+										</parameter>
+									</effect>
+								</filter>
+								<filter>
+									<effect>
+										<name>Audio Pan</name>
+										<effectid>audiopan</effectid>
+										<effectcategory>audiopan</effectcategory>
+										<effecttype>audiopan</effecttype>
+										<mediatype>audio</mediatype>
+										<parameter>
+											<name>Pan</name>
+											<parameterid>pan</parameterid>
+											<valuemin>-1</valuemin>
+											<valuemax>1</valuemax>
+											<value>1</value>
+										</parameter>
+									</effect>
+								</filter>
+								<sourcetrack>
+									<mediatype>audio</mediatype>
+									<trackindex>2</trackindex>
+								</sourcetrack>
+								<link>
+									<linkclipref>PRSC1 Close Up SLIDE IN Diktator.mp4805307619</linkclipref>
+								</link>
+								<link>
+									<linkclipref>PRSC1 Close Up SLIDE IN Diktator.mp4536872164</linkclipref>
+								</link>
+								<link>
+									<linkclipref>PRSC1 Close Up SLIDE IN Diktator.mp45368721641</linkclipref>
+								</link>
+								<link>
+									<linkclipref>PRSC1 Close Up SLIDE IN Diktator.mp4536872165</linkclipref>
+								</link>
+								<link>
+									<linkclipref>PRSC1 Close Up SLIDE IN Diktator.mp45368721651</linkclipref>
+								</link>
+							</clipitem>
+							<clipitem id="PRSC1 CLOSE UP - Slide out Diktator.mp45368721681">
+								<name>PRSC1 CLOSE UP - Slide out Diktator.mp4</name>
+								<duration>817</duration>
+								<rate>
+									<ntsc>TRUE</ntsc>
+									<timebase>24</timebase>
+								</rate>
+								<in>0</in>
+								<out>817</out>
+								<start>26005</start>
+								<end>26822</end>
+								<masterclipid>PRSC1 CLOSE UP - Slide out Diktator.mp4</masterclipid>
+								<logginginfo>
+									<scene />
+									<shottake />
+									<lognote />
+									<good>FALSE</good>
+								</logginginfo>
+								<labels>
+									<label2 />
+								</labels>
+								<comments>
+									<mastercomment1 />
+									<mastercomment2 />
+									<mastercomment3 />
+									<mastercomment4 />
+								</comments>
+								<file id="PRSC1 CLOSE UP - Slide out Diktator" />
+								<filter>
+									<effect>
+										<name>Audio Levels</name>
+										<effectid>audiolevels</effectid>
+										<effectcategory>audiolevels</effectcategory>
+										<effecttype>audiolevels</effecttype>
+										<mediatype>audio</mediatype>
+										<parameter>
+											<name>Level</name>
+											<parameterid>level</parameterid>
+											<valuemin>0</valuemin>
+											<valuemax>3,98109</valuemax>
+											<value>1</value>
+										</parameter>
+									</effect>
+								</filter>
+								<filter>
+									<effect>
+										<name>Audio Pan</name>
+										<effectid>audiopan</effectid>
+										<effectcategory>audiopan</effectcategory>
+										<effecttype>audiopan</effecttype>
+										<mediatype>audio</mediatype>
+										<parameter>
+											<name>Pan</name>
+											<parameterid>pan</parameterid>
+											<valuemin>-1</valuemin>
+											<valuemax>1</valuemax>
+											<value>1</value>
+										</parameter>
+									</effect>
+								</filter>
+								<sourcetrack>
+									<mediatype>audio</mediatype>
+									<trackindex>2</trackindex>
+								</sourcetrack>
+								<link>
+									<linkclipref>PRSC1 CLOSE UP - Slide out Diktator.mp4805307622</linkclipref>
+								</link>
+								<link>
+									<linkclipref>PRSC1 CLOSE UP - Slide out Diktator.mp4536872167</linkclipref>
+								</link>
+								<link>
+									<linkclipref>PRSC1 CLOSE UP - Slide out Diktator.mp45368721671</linkclipref>
+								</link>
+								<link>
+									<linkclipref>PRSC1 CLOSE UP - Slide out Diktator.mp4536872168</linkclipref>
+								</link>
+								<link>
+									<linkclipref>PRSC1 CLOSE UP - Slide out Diktator.mp45368721681</linkclipref>
+								</link>
+							</clipitem>
+						</track>
+						<track>
+							<clipitem id="PRSC1 Medium Two-Shot SLIDE IN.mp4536872137">
+								<name>PRSC1 Medium Two-Shot SLIDE IN.mp4</name>
+								<duration>2486</duration>
+								<rate>
+									<ntsc>TRUE</ntsc>
+									<timebase>24</timebase>
+								</rate>
+								<in>0</in>
+								<out>2486</out>
+								<start>0</start>
+								<end>2486</end>
+								<masterclipid>PRSC1 Medium Two-Shot SLIDE IN.mp4</masterclipid>
+								<logginginfo>
+									<scene />
+									<shottake />
+									<lognote />
+									<good>FALSE</good>
+								</logginginfo>
+								<labels>
+									<label2 />
+								</labels>
+								<comments>
+									<mastercomment1 />
+									<mastercomment2 />
+									<mastercomment3 />
+									<mastercomment4 />
+								</comments>
+								<file id="PRSC1 Medium Two-Shot SLIDE IN" />
+								<filter>
+									<effect>
+										<name>Audio Levels</name>
+										<effectid>audiolevels</effectid>
+										<effectcategory>audiolevels</effectcategory>
+										<effecttype>audiolevels</effecttype>
+										<mediatype>audio</mediatype>
+										<parameter>
+											<name>Level</name>
+											<parameterid>level</parameterid>
+											<valuemin>0</valuemin>
+											<valuemax>3,98109</valuemax>
+											<value>1</value>
+										</parameter>
+									</effect>
+								</filter>
+								<filter>
+									<effect>
+										<name>Audio Pan</name>
+										<effectid>audiopan</effectid>
+										<effectcategory>audiopan</effectcategory>
+										<effecttype>audiopan</effecttype>
+										<mediatype>audio</mediatype>
+										<parameter>
+											<name>Pan</name>
+											<parameterid>pan</parameterid>
+											<valuemin>-1</valuemin>
+											<valuemax>1</valuemax>
+											<value>-1</value>
+										</parameter>
+									</effect>
+								</filter>
+								<sourcetrack>
+									<mediatype>audio</mediatype>
+									<trackindex>1</trackindex>
+								</sourcetrack>
+								<link>
+									<linkclipref>PRSC1 Medium Two-Shot SLIDE IN.mp4805307592</linkclipref>
+								</link>
+								<link>
+									<linkclipref>PRSC1 Medium Two-Shot SLIDE IN.mp4536872137</linkclipref>
+								</link>
+								<link>
+									<linkclipref>PRSC1 Medium Two-Shot SLIDE IN.mp45368721371</linkclipref>
+								</link>
+								<link>
+									<linkclipref>PRSC1 Medium Two-Shot SLIDE IN.mp4536872138</linkclipref>
+								</link>
+								<link>
+									<linkclipref>PRSC1 Medium Two-Shot SLIDE IN.mp45368721381</linkclipref>
+								</link>
+							</clipitem>
+							<clipitem id="PRSC1 FullShot (FRONT SIDE) SLIDE IN.mp4536872140">
+								<name>PRSC1 FullShot (FRONT SIDE) SLIDE IN.mp4</name>
+								<duration>3091</duration>
+								<rate>
+									<ntsc>TRUE</ntsc>
+									<timebase>24</timebase>
+								</rate>
+								<in>0</in>
+								<out>3091</out>
+								<start>2487</start>
+								<end>5578</end>
+								<masterclipid>PRSC1 FullShot (FRONT SIDE) SLIDE IN.mp4</masterclipid>
+								<logginginfo>
+									<scene />
+									<shottake />
+									<lognote />
+									<good>FALSE</good>
+								</logginginfo>
+								<labels>
+									<label2 />
+								</labels>
+								<comments>
+									<mastercomment1 />
+									<mastercomment2 />
+									<mastercomment3 />
+									<mastercomment4 />
+								</comments>
+								<file id="PRSC1 FullShot (FRONT SIDE) SLIDE IN" />
+								<filter>
+									<effect>
+										<name>Audio Levels</name>
+										<effectid>audiolevels</effectid>
+										<effectcategory>audiolevels</effectcategory>
+										<effecttype>audiolevels</effecttype>
+										<mediatype>audio</mediatype>
+										<parameter>
+											<name>Level</name>
+											<parameterid>level</parameterid>
+											<valuemin>0</valuemin>
+											<valuemax>3,98109</valuemax>
+											<value>1</value>
+										</parameter>
+									</effect>
+								</filter>
+								<filter>
+									<effect>
+										<name>Audio Pan</name>
+										<effectid>audiopan</effectid>
+										<effectcategory>audiopan</effectcategory>
+										<effecttype>audiopan</effecttype>
+										<mediatype>audio</mediatype>
+										<parameter>
+											<name>Pan</name>
+											<parameterid>pan</parameterid>
+											<valuemin>-1</valuemin>
+											<valuemax>1</valuemax>
+											<value>-1</value>
+										</parameter>
+									</effect>
+								</filter>
+								<sourcetrack>
+									<mediatype>audio</mediatype>
+									<trackindex>1</trackindex>
+								</sourcetrack>
+								<link>
+									<linkclipref>PRSC1 FullShot (FRONT SIDE) SLIDE IN.mp4805307595</linkclipref>
+								</link>
+								<link>
+									<linkclipref>PRSC1 FullShot (FRONT SIDE) SLIDE IN.mp4536872140</linkclipref>
+								</link>
+								<link>
+									<linkclipref>PRSC1 FullShot (FRONT SIDE) SLIDE IN.mp45368721401</linkclipref>
+								</link>
+								<link>
+									<linkclipref>PRSC1 FullShot (FRONT SIDE) SLIDE IN.mp4536872141</linkclipref>
+								</link>
+								<link>
+									<linkclipref>PRSC1 FullShot (FRONT SIDE) SLIDE IN.mp45368721411</linkclipref>
+								</link>
+							</clipitem>
+							<clipitem id="PRSC1 REVERSE TWO SHOT FULL SHOT.mp4536872143">
+								<name>PRSC1 REVERSE TWO SHOT FULL SHOT.mp4</name>
+								<duration>3367</duration>
+								<rate>
+									<ntsc>TRUE</ntsc>
+									<timebase>24</timebase>
+								</rate>
+								<in>0</in>
+								<out>3367</out>
+								<start>5578</start>
+								<end>8946</end>
+								<masterclipid>PRSC1 REVERSE TWO SHOT FULL SHOT.mp4</masterclipid>
+								<logginginfo>
+									<scene />
+									<shottake />
+									<lognote />
+									<good>FALSE</good>
+								</logginginfo>
+								<labels>
+									<label2 />
+								</labels>
+								<comments>
+									<mastercomment1 />
+									<mastercomment2 />
+									<mastercomment3 />
+									<mastercomment4 />
+								</comments>
+								<file id="PRSC1 REVERSE TWO SHOT FULL SHOT" />
+								<filter>
+									<effect>
+										<name>Audio Levels</name>
+										<effectid>audiolevels</effectid>
+										<effectcategory>audiolevels</effectcategory>
+										<effecttype>audiolevels</effecttype>
+										<mediatype>audio</mediatype>
+										<parameter>
+											<name>Level</name>
+											<parameterid>level</parameterid>
+											<valuemin>0</valuemin>
+											<valuemax>3,98109</valuemax>
+											<value>1</value>
+										</parameter>
+									</effect>
+								</filter>
+								<filter>
+									<effect>
+										<name>Audio Pan</name>
+										<effectid>audiopan</effectid>
+										<effectcategory>audiopan</effectcategory>
+										<effecttype>audiopan</effecttype>
+										<mediatype>audio</mediatype>
+										<parameter>
+											<name>Pan</name>
+											<parameterid>pan</parameterid>
+											<valuemin>-1</valuemin>
+											<valuemax>1</valuemax>
+											<value>-1</value>
+										</parameter>
+									</effect>
+								</filter>
+								<sourcetrack>
+									<mediatype>audio</mediatype>
+									<trackindex>1</trackindex>
+								</sourcetrack>
+								<link>
+									<linkclipref>PRSC1 REVERSE TWO SHOT FULL SHOT.mp4805307598</linkclipref>
+								</link>
+								<link>
+									<linkclipref>PRSC1 REVERSE TWO SHOT FULL SHOT.mp4536872143</linkclipref>
+								</link>
+								<link>
+									<linkclipref>PRSC1 REVERSE TWO SHOT FULL SHOT.mp45368721431</linkclipref>
+								</link>
+								<link>
+									<linkclipref>PRSC1 REVERSE TWO SHOT FULL SHOT.mp4536872144</linkclipref>
+								</link>
+								<link>
+									<linkclipref>PRSC1 REVERSE TWO SHOT FULL SHOT.mp45368721441</linkclipref>
+								</link>
+							</clipitem>
+							<clipitem id="PRSC1 MEDIUM TWO-SHOT SLIDE IN REVERSE.mp4536872146">
+								<name>PRSC1 MEDIUM TWO-SHOT SLIDE IN REVERSE.mp4</name>
+								<duration>5294</duration>
+								<rate>
+									<ntsc>TRUE</ntsc>
+									<timebase>24</timebase>
+								</rate>
+								<in>0</in>
+								<out>5294</out>
+								<start>8947</start>
+								<end>14241</end>
+								<masterclipid>PRSC1 MEDIUM TWO-SHOT SLIDE IN REVERSE.mp4</masterclipid>
+								<logginginfo>
+									<scene />
+									<shottake />
+									<lognote />
+									<good>FALSE</good>
+								</logginginfo>
+								<labels>
+									<label2 />
+								</labels>
+								<comments>
+									<mastercomment1 />
+									<mastercomment2 />
+									<mastercomment3 />
+									<mastercomment4 />
+								</comments>
+								<file id="PRSC1 MEDIUM TWO-SHOT SLIDE IN REVERSE" />
+								<filter>
+									<effect>
+										<name>Audio Levels</name>
+										<effectid>audiolevels</effectid>
+										<effectcategory>audiolevels</effectcategory>
+										<effecttype>audiolevels</effecttype>
+										<mediatype>audio</mediatype>
+										<parameter>
+											<name>Level</name>
+											<parameterid>level</parameterid>
+											<valuemin>0</valuemin>
+											<valuemax>3,98109</valuemax>
+											<value>1</value>
+										</parameter>
+									</effect>
+								</filter>
+								<filter>
+									<effect>
+										<name>Audio Pan</name>
+										<effectid>audiopan</effectid>
+										<effectcategory>audiopan</effectcategory>
+										<effecttype>audiopan</effecttype>
+										<mediatype>audio</mediatype>
+										<parameter>
+											<name>Pan</name>
+											<parameterid>pan</parameterid>
+											<valuemin>-1</valuemin>
+											<valuemax>1</valuemax>
+											<value>-1</value>
+										</parameter>
+									</effect>
+								</filter>
+								<sourcetrack>
+									<mediatype>audio</mediatype>
+									<trackindex>1</trackindex>
+								</sourcetrack>
+								<link>
+									<linkclipref>PRSC1 MEDIUM TWO-SHOT SLIDE IN REVERSE.mp4805307601</linkclipref>
+								</link>
+								<link>
+									<linkclipref>PRSC1 MEDIUM TWO-SHOT SLIDE IN REVERSE.mp4536872146</linkclipref>
+								</link>
+								<link>
+									<linkclipref>PRSC1 MEDIUM TWO-SHOT SLIDE IN REVERSE.mp45368721461</linkclipref>
+								</link>
+								<link>
+									<linkclipref>PRSC1 MEDIUM TWO-SHOT SLIDE IN REVERSE.mp4536872147</linkclipref>
+								</link>
+								<link>
+									<linkclipref>PRSC1 MEDIUM TWO-SHOT SLIDE IN REVERSE.mp45368721471</linkclipref>
+								</link>
+							</clipitem>
+							<clipitem id="PRSC1 Medium CLOSE-UP TWO SHOT.mp4536872149">
+								<name>PRSC1 Medium CLOSE-UP TWO SHOT.mp4</name>
+								<duration>5802</duration>
+								<rate>
+									<ntsc>TRUE</ntsc>
+									<timebase>24</timebase>
+								</rate>
+								<in>0</in>
+								<out>5802</out>
+								<start>14242</start>
+								<end>20044</end>
+								<masterclipid>PRSC1 Medium CLOSE-UP TWO SHOT.mp4</masterclipid>
+								<logginginfo>
+									<scene />
+									<shottake />
+									<lognote />
+									<good>FALSE</good>
+								</logginginfo>
+								<labels>
+									<label2 />
+								</labels>
+								<comments>
+									<mastercomment1 />
+									<mastercomment2 />
+									<mastercomment3 />
+									<mastercomment4 />
+								</comments>
+								<file id="PRSC1 Medium CLOSE-UP TWO SHOT" />
+								<filter>
+									<effect>
+										<name>Audio Levels</name>
+										<effectid>audiolevels</effectid>
+										<effectcategory>audiolevels</effectcategory>
+										<effecttype>audiolevels</effecttype>
+										<mediatype>audio</mediatype>
+										<parameter>
+											<name>Level</name>
+											<parameterid>level</parameterid>
+											<valuemin>0</valuemin>
+											<valuemax>3,98109</valuemax>
+											<value>1</value>
+										</parameter>
+									</effect>
+								</filter>
+								<filter>
+									<effect>
+										<name>Audio Pan</name>
+										<effectid>audiopan</effectid>
+										<effectcategory>audiopan</effectcategory>
+										<effecttype>audiopan</effecttype>
+										<mediatype>audio</mediatype>
+										<parameter>
+											<name>Pan</name>
+											<parameterid>pan</parameterid>
+											<valuemin>-1</valuemin>
+											<valuemax>1</valuemax>
+											<value>-1</value>
+										</parameter>
+									</effect>
+								</filter>
+								<sourcetrack>
+									<mediatype>audio</mediatype>
+									<trackindex>1</trackindex>
+								</sourcetrack>
+								<link>
+									<linkclipref>PRSC1 Medium CLOSE-UP TWO SHOT.mp4805307604</linkclipref>
+								</link>
+								<link>
+									<linkclipref>PRSC1 Medium CLOSE-UP TWO SHOT.mp4536872149</linkclipref>
+								</link>
+								<link>
+									<linkclipref>PRSC1 Medium CLOSE-UP TWO SHOT.mp45368721491</linkclipref>
+								</link>
+								<link>
+									<linkclipref>PRSC1 Medium CLOSE-UP TWO SHOT.mp4536872150</linkclipref>
+								</link>
+								<link>
+									<linkclipref>PRSC1 Medium CLOSE-UP TWO SHOT.mp45368721501</linkclipref>
+								</link>
+							</clipitem>
+							<clipitem id="PRSC1 FULL SHOT TO MCU SLIDE IN.mp4536872155">
+								<name>PRSC1 FULL SHOT TO MCU SLIDE IN.mp4</name>
+								<duration>1423</duration>
+								<rate>
+									<ntsc>TRUE</ntsc>
+									<timebase>24</timebase>
+								</rate>
+								<in>0</in>
+								<out>1423</out>
+								<start>20044</start>
+								<end>21467</end>
+								<masterclipid>PRSC1 FULL SHOT TO MCU SLIDE IN.mp4</masterclipid>
+								<logginginfo>
+									<scene />
+									<shottake />
+									<lognote />
+									<good>FALSE</good>
+								</logginginfo>
+								<labels>
+									<label2 />
+								</labels>
+								<comments>
+									<mastercomment1 />
+									<mastercomment2 />
+									<mastercomment3 />
+									<mastercomment4 />
+								</comments>
+								<file id="PRSC1 FULL SHOT TO MCU SLIDE IN" />
+								<filter>
+									<effect>
+										<name>Audio Levels</name>
+										<effectid>audiolevels</effectid>
+										<effectcategory>audiolevels</effectcategory>
+										<effecttype>audiolevels</effecttype>
+										<mediatype>audio</mediatype>
+										<parameter>
+											<name>Level</name>
+											<parameterid>level</parameterid>
+											<valuemin>0</valuemin>
+											<valuemax>3,98109</valuemax>
+											<value>1</value>
+										</parameter>
+									</effect>
+								</filter>
+								<filter>
+									<effect>
+										<name>Audio Pan</name>
+										<effectid>audiopan</effectid>
+										<effectcategory>audiopan</effectcategory>
+										<effecttype>audiopan</effecttype>
+										<mediatype>audio</mediatype>
+										<parameter>
+											<name>Pan</name>
+											<parameterid>pan</parameterid>
+											<valuemin>-1</valuemin>
+											<valuemax>1</valuemax>
+											<value>-1</value>
+										</parameter>
+									</effect>
+								</filter>
+								<sourcetrack>
+									<mediatype>audio</mediatype>
+									<trackindex>1</trackindex>
+								</sourcetrack>
+								<link>
+									<linkclipref>PRSC1 FULL SHOT TO MCU SLIDE IN.mp4805307610</linkclipref>
+								</link>
+								<link>
+									<linkclipref>PRSC1 FULL SHOT TO MCU SLIDE IN.mp4536872155</linkclipref>
+								</link>
+								<link>
+									<linkclipref>PRSC1 FULL SHOT TO MCU SLIDE IN.mp45368721551</linkclipref>
+								</link>
+								<link>
+									<linkclipref>PRSC1 FULL SHOT TO MCU SLIDE IN.mp4536872156</linkclipref>
+								</link>
+								<link>
+									<linkclipref>PRSC1 FULL SHOT TO MCU SLIDE IN.mp45368721561</linkclipref>
+								</link>
+							</clipitem>
+							<clipitem id="PRSC1 SINGLE SHOT + PAN .mp4536872158">
+								<name>PRSC1 SINGLE SHOT + PAN .mp4</name>
+								<duration>2377</duration>
+								<rate>
+									<ntsc>TRUE</ntsc>
+									<timebase>24</timebase>
+								</rate>
+								<in>0</in>
+								<out>2377</out>
+								<start>21468</start>
+								<end>23845</end>
+								<masterclipid>PRSC1 SINGLE SHOT + PAN .mp4</masterclipid>
+								<logginginfo>
+									<scene />
+									<shottake />
+									<lognote />
+									<good>FALSE</good>
+								</logginginfo>
+								<labels>
+									<label2 />
+								</labels>
+								<comments>
+									<mastercomment1 />
+									<mastercomment2 />
+									<mastercomment3 />
+									<mastercomment4 />
+								</comments>
+								<file id="PRSC1 SINGLE SHOT + PAN " />
+								<filter>
+									<effect>
+										<name>Audio Levels</name>
+										<effectid>audiolevels</effectid>
+										<effectcategory>audiolevels</effectcategory>
+										<effecttype>audiolevels</effecttype>
+										<mediatype>audio</mediatype>
+										<parameter>
+											<name>Level</name>
+											<parameterid>level</parameterid>
+											<valuemin>0</valuemin>
+											<valuemax>3,98109</valuemax>
+											<value>1</value>
+										</parameter>
+									</effect>
+								</filter>
+								<filter>
+									<effect>
+										<name>Audio Pan</name>
+										<effectid>audiopan</effectid>
+										<effectcategory>audiopan</effectcategory>
+										<effecttype>audiopan</effecttype>
+										<mediatype>audio</mediatype>
+										<parameter>
+											<name>Pan</name>
+											<parameterid>pan</parameterid>
+											<valuemin>-1</valuemin>
+											<valuemax>1</valuemax>
+											<value>-1</value>
+										</parameter>
+									</effect>
+								</filter>
+								<sourcetrack>
+									<mediatype>audio</mediatype>
+									<trackindex>1</trackindex>
+								</sourcetrack>
+								<link>
+									<linkclipref>PRSC1 SINGLE SHOT + PAN .mp4805307613</linkclipref>
+								</link>
+								<link>
+									<linkclipref>PRSC1 SINGLE SHOT + PAN .mp4536872158</linkclipref>
+								</link>
+								<link>
+									<linkclipref>PRSC1 SINGLE SHOT + PAN .mp45368721581</linkclipref>
+								</link>
+								<link>
+									<linkclipref>PRSC1 SINGLE SHOT + PAN .mp4536872159</linkclipref>
+								</link>
+								<link>
+									<linkclipref>PRSC1 SINGLE SHOT + PAN .mp45368721591</linkclipref>
+								</link>
+							</clipitem>
+							<clipitem id="PRSC1 EXTRA SHOT.mp4536872161">
+								<name>PRSC1 EXTRA SHOT.mp4</name>
+								<duration>1322</duration>
+								<rate>
+									<ntsc>TRUE</ntsc>
+									<timebase>24</timebase>
+								</rate>
+								<in>0</in>
+								<out>1322</out>
+								<start>23846</start>
+								<end>25168</end>
+								<masterclipid>PRSC1 EXTRA SHOT.mp4</masterclipid>
+								<logginginfo>
+									<scene />
+									<shottake />
+									<lognote />
+									<good>FALSE</good>
+								</logginginfo>
+								<labels>
+									<label2 />
+								</labels>
+								<comments>
+									<mastercomment1 />
+									<mastercomment2 />
+									<mastercomment3 />
+									<mastercomment4 />
+								</comments>
+								<file id="PRSC1 EXTRA SHOT" />
+								<filter>
+									<effect>
+										<name>Audio Levels</name>
+										<effectid>audiolevels</effectid>
+										<effectcategory>audiolevels</effectcategory>
+										<effecttype>audiolevels</effecttype>
+										<mediatype>audio</mediatype>
+										<parameter>
+											<name>Level</name>
+											<parameterid>level</parameterid>
+											<valuemin>0</valuemin>
+											<valuemax>3,98109</valuemax>
+											<value>1</value>
+										</parameter>
+									</effect>
+								</filter>
+								<filter>
+									<effect>
+										<name>Audio Pan</name>
+										<effectid>audiopan</effectid>
+										<effectcategory>audiopan</effectcategory>
+										<effecttype>audiopan</effecttype>
+										<mediatype>audio</mediatype>
+										<parameter>
+											<name>Pan</name>
+											<parameterid>pan</parameterid>
+											<valuemin>-1</valuemin>
+											<valuemax>1</valuemax>
+											<value>-1</value>
+										</parameter>
+									</effect>
+								</filter>
+								<sourcetrack>
+									<mediatype>audio</mediatype>
+									<trackindex>1</trackindex>
+								</sourcetrack>
+								<link>
+									<linkclipref>PRSC1 EXTRA SHOT.mp4805307616</linkclipref>
+								</link>
+								<link>
+									<linkclipref>PRSC1 EXTRA SHOT.mp4536872161</linkclipref>
+								</link>
+								<link>
+									<linkclipref>PRSC1 EXTRA SHOT.mp45368721611</linkclipref>
+								</link>
+								<link>
+									<linkclipref>PRSC1 EXTRA SHOT.mp4536872162</linkclipref>
+								</link>
+								<link>
+									<linkclipref>PRSC1 EXTRA SHOT.mp45368721621</linkclipref>
+								</link>
+							</clipitem>
+							<clipitem id="PRSC1 Close Up SLIDE IN Diktator.mp4536872164">
+								<name>PRSC1 Close Up SLIDE IN Diktator.mp4</name>
+								<duration>835</duration>
+								<rate>
+									<ntsc>TRUE</ntsc>
+									<timebase>24</timebase>
+								</rate>
+								<in>0</in>
+								<out>835</out>
+								<start>25169</start>
+								<end>26005</end>
+								<masterclipid>PRSC1 Close Up SLIDE IN Diktator.mp4</masterclipid>
+								<logginginfo>
+									<scene />
+									<shottake />
+									<lognote />
+									<good>FALSE</good>
+								</logginginfo>
+								<labels>
+									<label2 />
+								</labels>
+								<comments>
+									<mastercomment1 />
+									<mastercomment2 />
+									<mastercomment3 />
+									<mastercomment4 />
+								</comments>
+								<file id="PRSC1 Close Up SLIDE IN Diktator" />
+								<filter>
+									<effect>
+										<name>Audio Levels</name>
+										<effectid>audiolevels</effectid>
+										<effectcategory>audiolevels</effectcategory>
+										<effecttype>audiolevels</effecttype>
+										<mediatype>audio</mediatype>
+										<parameter>
+											<name>Level</name>
+											<parameterid>level</parameterid>
+											<valuemin>0</valuemin>
+											<valuemax>3,98109</valuemax>
+											<value>1</value>
+										</parameter>
+									</effect>
+								</filter>
+								<filter>
+									<effect>
+										<name>Audio Pan</name>
+										<effectid>audiopan</effectid>
+										<effectcategory>audiopan</effectcategory>
+										<effecttype>audiopan</effecttype>
+										<mediatype>audio</mediatype>
+										<parameter>
+											<name>Pan</name>
+											<parameterid>pan</parameterid>
+											<valuemin>-1</valuemin>
+											<valuemax>1</valuemax>
+											<value>-1</value>
+										</parameter>
+									</effect>
+								</filter>
+								<sourcetrack>
+									<mediatype>audio</mediatype>
+									<trackindex>1</trackindex>
+								</sourcetrack>
+								<link>
+									<linkclipref>PRSC1 Close Up SLIDE IN Diktator.mp4805307619</linkclipref>
+								</link>
+								<link>
+									<linkclipref>PRSC1 Close Up SLIDE IN Diktator.mp4536872164</linkclipref>
+								</link>
+								<link>
+									<linkclipref>PRSC1 Close Up SLIDE IN Diktator.mp45368721641</linkclipref>
+								</link>
+								<link>
+									<linkclipref>PRSC1 Close Up SLIDE IN Diktator.mp4536872165</linkclipref>
+								</link>
+								<link>
+									<linkclipref>PRSC1 Close Up SLIDE IN Diktator.mp45368721651</linkclipref>
+								</link>
+							</clipitem>
+							<clipitem id="PRSC1 CLOSE UP - Slide out Diktator.mp4536872167">
+								<name>PRSC1 CLOSE UP - Slide out Diktator.mp4</name>
+								<duration>817</duration>
+								<rate>
+									<ntsc>TRUE</ntsc>
+									<timebase>24</timebase>
+								</rate>
+								<in>0</in>
+								<out>817</out>
+								<start>26005</start>
+								<end>26822</end>
+								<masterclipid>PRSC1 CLOSE UP - Slide out Diktator.mp4</masterclipid>
+								<logginginfo>
+									<scene />
+									<shottake />
+									<lognote />
+									<good>FALSE</good>
+								</logginginfo>
+								<labels>
+									<label2 />
+								</labels>
+								<comments>
+									<mastercomment1 />
+									<mastercomment2 />
+									<mastercomment3 />
+									<mastercomment4 />
+								</comments>
+								<file id="PRSC1 CLOSE UP - Slide out Diktator" />
+								<filter>
+									<effect>
+										<name>Audio Levels</name>
+										<effectid>audiolevels</effectid>
+										<effectcategory>audiolevels</effectcategory>
+										<effecttype>audiolevels</effecttype>
+										<mediatype>audio</mediatype>
+										<parameter>
+											<name>Level</name>
+											<parameterid>level</parameterid>
+											<valuemin>0</valuemin>
+											<valuemax>3,98109</valuemax>
+											<value>1</value>
+										</parameter>
+									</effect>
+								</filter>
+								<filter>
+									<effect>
+										<name>Audio Pan</name>
+										<effectid>audiopan</effectid>
+										<effectcategory>audiopan</effectcategory>
+										<effecttype>audiopan</effecttype>
+										<mediatype>audio</mediatype>
+										<parameter>
+											<name>Pan</name>
+											<parameterid>pan</parameterid>
+											<valuemin>-1</valuemin>
+											<valuemax>1</valuemax>
+											<value>-1</value>
+										</parameter>
+									</effect>
+								</filter>
+								<sourcetrack>
+									<mediatype>audio</mediatype>
+									<trackindex>1</trackindex>
+								</sourcetrack>
+								<link>
+									<linkclipref>PRSC1 CLOSE UP - Slide out Diktator.mp4805307622</linkclipref>
+								</link>
+								<link>
+									<linkclipref>PRSC1 CLOSE UP - Slide out Diktator.mp4536872167</linkclipref>
+								</link>
+								<link>
+									<linkclipref>PRSC1 CLOSE UP - Slide out Diktator.mp45368721671</linkclipref>
+								</link>
+								<link>
+									<linkclipref>PRSC1 CLOSE UP - Slide out Diktator.mp4536872168</linkclipref>
+								</link>
+								<link>
+									<linkclipref>PRSC1 CLOSE UP - Slide out Diktator.mp45368721681</linkclipref>
+								</link>
+							</clipitem>
+						</track>
+						<track>
+							<clipitem id="PRSC1 Medium Two-Shot SLIDE IN.mp45368721371">
+								<name>PRSC1 Medium Two-Shot SLIDE IN.mp4</name>
+								<duration>2486</duration>
+								<rate>
+									<ntsc>TRUE</ntsc>
+									<timebase>24</timebase>
+								</rate>
+								<in>0</in>
+								<out>2486</out>
+								<start>0</start>
+								<end>2486</end>
+								<masterclipid>PRSC1 Medium Two-Shot SLIDE IN.mp4</masterclipid>
+								<logginginfo>
+									<scene />
+									<shottake />
+									<lognote />
+									<good>FALSE</good>
+								</logginginfo>
+								<labels>
+									<label2 />
+								</labels>
+								<comments>
+									<mastercomment1 />
+									<mastercomment2 />
+									<mastercomment3 />
+									<mastercomment4 />
+								</comments>
+								<file id="PRSC1 Medium Two-Shot SLIDE IN" />
+								<filter>
+									<effect>
+										<name>Audio Levels</name>
+										<effectid>audiolevels</effectid>
+										<effectcategory>audiolevels</effectcategory>
+										<effecttype>audiolevels</effecttype>
+										<mediatype>audio</mediatype>
+										<parameter>
+											<name>Level</name>
+											<parameterid>level</parameterid>
+											<valuemin>0</valuemin>
+											<valuemax>3,98109</valuemax>
+											<value>1</value>
+										</parameter>
+									</effect>
+								</filter>
+								<filter>
+									<effect>
+										<name>Audio Pan</name>
+										<effectid>audiopan</effectid>
+										<effectcategory>audiopan</effectcategory>
+										<effecttype>audiopan</effecttype>
+										<mediatype>audio</mediatype>
+										<parameter>
+											<name>Pan</name>
+											<parameterid>pan</parameterid>
+											<valuemin>-1</valuemin>
+											<valuemax>1</valuemax>
+											<value>1</value>
+										</parameter>
+									</effect>
+								</filter>
+								<sourcetrack>
+									<mediatype>audio</mediatype>
+									<trackindex>2</trackindex>
+								</sourcetrack>
+								<link>
+									<linkclipref>PRSC1 Medium Two-Shot SLIDE IN.mp4805307592</linkclipref>
+								</link>
+								<link>
+									<linkclipref>PRSC1 Medium Two-Shot SLIDE IN.mp4536872137</linkclipref>
+								</link>
+								<link>
+									<linkclipref>PRSC1 Medium Two-Shot SLIDE IN.mp45368721371</linkclipref>
+								</link>
+								<link>
+									<linkclipref>PRSC1 Medium Two-Shot SLIDE IN.mp4536872138</linkclipref>
+								</link>
+								<link>
+									<linkclipref>PRSC1 Medium Two-Shot SLIDE IN.mp45368721381</linkclipref>
+								</link>
+							</clipitem>
+							<clipitem id="PRSC1 FullShot (FRONT SIDE) SLIDE IN.mp45368721401">
+								<name>PRSC1 FullShot (FRONT SIDE) SLIDE IN.mp4</name>
+								<duration>3091</duration>
+								<rate>
+									<ntsc>TRUE</ntsc>
+									<timebase>24</timebase>
+								</rate>
+								<in>0</in>
+								<out>3091</out>
+								<start>2487</start>
+								<end>5578</end>
+								<masterclipid>PRSC1 FullShot (FRONT SIDE) SLIDE IN.mp4</masterclipid>
+								<logginginfo>
+									<scene />
+									<shottake />
+									<lognote />
+									<good>FALSE</good>
+								</logginginfo>
+								<labels>
+									<label2 />
+								</labels>
+								<comments>
+									<mastercomment1 />
+									<mastercomment2 />
+									<mastercomment3 />
+									<mastercomment4 />
+								</comments>
+								<file id="PRSC1 FullShot (FRONT SIDE) SLIDE IN" />
+								<filter>
+									<effect>
+										<name>Audio Levels</name>
+										<effectid>audiolevels</effectid>
+										<effectcategory>audiolevels</effectcategory>
+										<effecttype>audiolevels</effecttype>
+										<mediatype>audio</mediatype>
+										<parameter>
+											<name>Level</name>
+											<parameterid>level</parameterid>
+											<valuemin>0</valuemin>
+											<valuemax>3,98109</valuemax>
+											<value>1</value>
+										</parameter>
+									</effect>
+								</filter>
+								<filter>
+									<effect>
+										<name>Audio Pan</name>
+										<effectid>audiopan</effectid>
+										<effectcategory>audiopan</effectcategory>
+										<effecttype>audiopan</effecttype>
+										<mediatype>audio</mediatype>
+										<parameter>
+											<name>Pan</name>
+											<parameterid>pan</parameterid>
+											<valuemin>-1</valuemin>
+											<valuemax>1</valuemax>
+											<value>1</value>
+										</parameter>
+									</effect>
+								</filter>
+								<sourcetrack>
+									<mediatype>audio</mediatype>
+									<trackindex>2</trackindex>
+								</sourcetrack>
+								<link>
+									<linkclipref>PRSC1 FullShot (FRONT SIDE) SLIDE IN.mp4805307595</linkclipref>
+								</link>
+								<link>
+									<linkclipref>PRSC1 FullShot (FRONT SIDE) SLIDE IN.mp4536872140</linkclipref>
+								</link>
+								<link>
+									<linkclipref>PRSC1 FullShot (FRONT SIDE) SLIDE IN.mp45368721401</linkclipref>
+								</link>
+								<link>
+									<linkclipref>PRSC1 FullShot (FRONT SIDE) SLIDE IN.mp4536872141</linkclipref>
+								</link>
+								<link>
+									<linkclipref>PRSC1 FullShot (FRONT SIDE) SLIDE IN.mp45368721411</linkclipref>
+								</link>
+							</clipitem>
+							<clipitem id="PRSC1 REVERSE TWO SHOT FULL SHOT.mp45368721431">
+								<name>PRSC1 REVERSE TWO SHOT FULL SHOT.mp4</name>
+								<duration>3367</duration>
+								<rate>
+									<ntsc>TRUE</ntsc>
+									<timebase>24</timebase>
+								</rate>
+								<in>0</in>
+								<out>3367</out>
+								<start>5578</start>
+								<end>8946</end>
+								<masterclipid>PRSC1 REVERSE TWO SHOT FULL SHOT.mp4</masterclipid>
+								<logginginfo>
+									<scene />
+									<shottake />
+									<lognote />
+									<good>FALSE</good>
+								</logginginfo>
+								<labels>
+									<label2 />
+								</labels>
+								<comments>
+									<mastercomment1 />
+									<mastercomment2 />
+									<mastercomment3 />
+									<mastercomment4 />
+								</comments>
+								<file id="PRSC1 REVERSE TWO SHOT FULL SHOT" />
+								<filter>
+									<effect>
+										<name>Audio Levels</name>
+										<effectid>audiolevels</effectid>
+										<effectcategory>audiolevels</effectcategory>
+										<effecttype>audiolevels</effecttype>
+										<mediatype>audio</mediatype>
+										<parameter>
+											<name>Level</name>
+											<parameterid>level</parameterid>
+											<valuemin>0</valuemin>
+											<valuemax>3,98109</valuemax>
+											<value>1</value>
+										</parameter>
+									</effect>
+								</filter>
+								<filter>
+									<effect>
+										<name>Audio Pan</name>
+										<effectid>audiopan</effectid>
+										<effectcategory>audiopan</effectcategory>
+										<effecttype>audiopan</effecttype>
+										<mediatype>audio</mediatype>
+										<parameter>
+											<name>Pan</name>
+											<parameterid>pan</parameterid>
+											<valuemin>-1</valuemin>
+											<valuemax>1</valuemax>
+											<value>1</value>
+										</parameter>
+									</effect>
+								</filter>
+								<sourcetrack>
+									<mediatype>audio</mediatype>
+									<trackindex>2</trackindex>
+								</sourcetrack>
+								<link>
+									<linkclipref>PRSC1 REVERSE TWO SHOT FULL SHOT.mp4805307598</linkclipref>
+								</link>
+								<link>
+									<linkclipref>PRSC1 REVERSE TWO SHOT FULL SHOT.mp4536872143</linkclipref>
+								</link>
+								<link>
+									<linkclipref>PRSC1 REVERSE TWO SHOT FULL SHOT.mp45368721431</linkclipref>
+								</link>
+								<link>
+									<linkclipref>PRSC1 REVERSE TWO SHOT FULL SHOT.mp4536872144</linkclipref>
+								</link>
+								<link>
+									<linkclipref>PRSC1 REVERSE TWO SHOT FULL SHOT.mp45368721441</linkclipref>
+								</link>
+							</clipitem>
+							<clipitem id="PRSC1 MEDIUM TWO-SHOT SLIDE IN REVERSE.mp45368721461">
+								<name>PRSC1 MEDIUM TWO-SHOT SLIDE IN REVERSE.mp4</name>
+								<duration>5294</duration>
+								<rate>
+									<ntsc>TRUE</ntsc>
+									<timebase>24</timebase>
+								</rate>
+								<in>0</in>
+								<out>5294</out>
+								<start>8947</start>
+								<end>14241</end>
+								<masterclipid>PRSC1 MEDIUM TWO-SHOT SLIDE IN REVERSE.mp4</masterclipid>
+								<logginginfo>
+									<scene />
+									<shottake />
+									<lognote />
+									<good>FALSE</good>
+								</logginginfo>
+								<labels>
+									<label2 />
+								</labels>
+								<comments>
+									<mastercomment1 />
+									<mastercomment2 />
+									<mastercomment3 />
+									<mastercomment4 />
+								</comments>
+								<file id="PRSC1 MEDIUM TWO-SHOT SLIDE IN REVERSE" />
+								<filter>
+									<effect>
+										<name>Audio Levels</name>
+										<effectid>audiolevels</effectid>
+										<effectcategory>audiolevels</effectcategory>
+										<effecttype>audiolevels</effecttype>
+										<mediatype>audio</mediatype>
+										<parameter>
+											<name>Level</name>
+											<parameterid>level</parameterid>
+											<valuemin>0</valuemin>
+											<valuemax>3,98109</valuemax>
+											<value>1</value>
+										</parameter>
+									</effect>
+								</filter>
+								<filter>
+									<effect>
+										<name>Audio Pan</name>
+										<effectid>audiopan</effectid>
+										<effectcategory>audiopan</effectcategory>
+										<effecttype>audiopan</effecttype>
+										<mediatype>audio</mediatype>
+										<parameter>
+											<name>Pan</name>
+											<parameterid>pan</parameterid>
+											<valuemin>-1</valuemin>
+											<valuemax>1</valuemax>
+											<value>1</value>
+										</parameter>
+									</effect>
+								</filter>
+								<sourcetrack>
+									<mediatype>audio</mediatype>
+									<trackindex>2</trackindex>
+								</sourcetrack>
+								<link>
+									<linkclipref>PRSC1 MEDIUM TWO-SHOT SLIDE IN REVERSE.mp4805307601</linkclipref>
+								</link>
+								<link>
+									<linkclipref>PRSC1 MEDIUM TWO-SHOT SLIDE IN REVERSE.mp4536872146</linkclipref>
+								</link>
+								<link>
+									<linkclipref>PRSC1 MEDIUM TWO-SHOT SLIDE IN REVERSE.mp45368721461</linkclipref>
+								</link>
+								<link>
+									<linkclipref>PRSC1 MEDIUM TWO-SHOT SLIDE IN REVERSE.mp4536872147</linkclipref>
+								</link>
+								<link>
+									<linkclipref>PRSC1 MEDIUM TWO-SHOT SLIDE IN REVERSE.mp45368721471</linkclipref>
+								</link>
+							</clipitem>
+							<clipitem id="PRSC1 Medium CLOSE-UP TWO SHOT.mp45368721491">
+								<name>PRSC1 Medium CLOSE-UP TWO SHOT.mp4</name>
+								<duration>5802</duration>
+								<rate>
+									<ntsc>TRUE</ntsc>
+									<timebase>24</timebase>
+								</rate>
+								<in>0</in>
+								<out>5802</out>
+								<start>14242</start>
+								<end>20044</end>
+								<masterclipid>PRSC1 Medium CLOSE-UP TWO SHOT.mp4</masterclipid>
+								<logginginfo>
+									<scene />
+									<shottake />
+									<lognote />
+									<good>FALSE</good>
+								</logginginfo>
+								<labels>
+									<label2 />
+								</labels>
+								<comments>
+									<mastercomment1 />
+									<mastercomment2 />
+									<mastercomment3 />
+									<mastercomment4 />
+								</comments>
+								<file id="PRSC1 Medium CLOSE-UP TWO SHOT" />
+								<filter>
+									<effect>
+										<name>Audio Levels</name>
+										<effectid>audiolevels</effectid>
+										<effectcategory>audiolevels</effectcategory>
+										<effecttype>audiolevels</effecttype>
+										<mediatype>audio</mediatype>
+										<parameter>
+											<name>Level</name>
+											<parameterid>level</parameterid>
+											<valuemin>0</valuemin>
+											<valuemax>3,98109</valuemax>
+											<value>1</value>
+										</parameter>
+									</effect>
+								</filter>
+								<filter>
+									<effect>
+										<name>Audio Pan</name>
+										<effectid>audiopan</effectid>
+										<effectcategory>audiopan</effectcategory>
+										<effecttype>audiopan</effecttype>
+										<mediatype>audio</mediatype>
+										<parameter>
+											<name>Pan</name>
+											<parameterid>pan</parameterid>
+											<valuemin>-1</valuemin>
+											<valuemax>1</valuemax>
+											<value>1</value>
+										</parameter>
+									</effect>
+								</filter>
+								<sourcetrack>
+									<mediatype>audio</mediatype>
+									<trackindex>2</trackindex>
+								</sourcetrack>
+								<link>
+									<linkclipref>PRSC1 Medium CLOSE-UP TWO SHOT.mp4805307604</linkclipref>
+								</link>
+								<link>
+									<linkclipref>PRSC1 Medium CLOSE-UP TWO SHOT.mp4536872149</linkclipref>
+								</link>
+								<link>
+									<linkclipref>PRSC1 Medium CLOSE-UP TWO SHOT.mp45368721491</linkclipref>
+								</link>
+								<link>
+									<linkclipref>PRSC1 Medium CLOSE-UP TWO SHOT.mp4536872150</linkclipref>
+								</link>
+								<link>
+									<linkclipref>PRSC1 Medium CLOSE-UP TWO SHOT.mp45368721501</linkclipref>
+								</link>
+							</clipitem>
+							<clipitem id="PRSC1 FULL SHOT TO MCU SLIDE IN.mp45368721551">
+								<name>PRSC1 FULL SHOT TO MCU SLIDE IN.mp4</name>
+								<duration>1423</duration>
+								<rate>
+									<ntsc>TRUE</ntsc>
+									<timebase>24</timebase>
+								</rate>
+								<in>0</in>
+								<out>1423</out>
+								<start>20044</start>
+								<end>21467</end>
+								<masterclipid>PRSC1 FULL SHOT TO MCU SLIDE IN.mp4</masterclipid>
+								<logginginfo>
+									<scene />
+									<shottake />
+									<lognote />
+									<good>FALSE</good>
+								</logginginfo>
+								<labels>
+									<label2 />
+								</labels>
+								<comments>
+									<mastercomment1 />
+									<mastercomment2 />
+									<mastercomment3 />
+									<mastercomment4 />
+								</comments>
+								<file id="PRSC1 FULL SHOT TO MCU SLIDE IN" />
+								<filter>
+									<effect>
+										<name>Audio Levels</name>
+										<effectid>audiolevels</effectid>
+										<effectcategory>audiolevels</effectcategory>
+										<effecttype>audiolevels</effecttype>
+										<mediatype>audio</mediatype>
+										<parameter>
+											<name>Level</name>
+											<parameterid>level</parameterid>
+											<valuemin>0</valuemin>
+											<valuemax>3,98109</valuemax>
+											<value>1</value>
+										</parameter>
+									</effect>
+								</filter>
+								<filter>
+									<effect>
+										<name>Audio Pan</name>
+										<effectid>audiopan</effectid>
+										<effectcategory>audiopan</effectcategory>
+										<effecttype>audiopan</effecttype>
+										<mediatype>audio</mediatype>
+										<parameter>
+											<name>Pan</name>
+											<parameterid>pan</parameterid>
+											<valuemin>-1</valuemin>
+											<valuemax>1</valuemax>
+											<value>1</value>
+										</parameter>
+									</effect>
+								</filter>
+								<sourcetrack>
+									<mediatype>audio</mediatype>
+									<trackindex>2</trackindex>
+								</sourcetrack>
+								<link>
+									<linkclipref>PRSC1 FULL SHOT TO MCU SLIDE IN.mp4805307610</linkclipref>
+								</link>
+								<link>
+									<linkclipref>PRSC1 FULL SHOT TO MCU SLIDE IN.mp4536872155</linkclipref>
+								</link>
+								<link>
+									<linkclipref>PRSC1 FULL SHOT TO MCU SLIDE IN.mp45368721551</linkclipref>
+								</link>
+								<link>
+									<linkclipref>PRSC1 FULL SHOT TO MCU SLIDE IN.mp4536872156</linkclipref>
+								</link>
+								<link>
+									<linkclipref>PRSC1 FULL SHOT TO MCU SLIDE IN.mp45368721561</linkclipref>
+								</link>
+							</clipitem>
+							<clipitem id="PRSC1 SINGLE SHOT + PAN .mp45368721581">
+								<name>PRSC1 SINGLE SHOT + PAN .mp4</name>
+								<duration>2377</duration>
+								<rate>
+									<ntsc>TRUE</ntsc>
+									<timebase>24</timebase>
+								</rate>
+								<in>0</in>
+								<out>2377</out>
+								<start>21468</start>
+								<end>23845</end>
+								<masterclipid>PRSC1 SINGLE SHOT + PAN .mp4</masterclipid>
+								<logginginfo>
+									<scene />
+									<shottake />
+									<lognote />
+									<good>FALSE</good>
+								</logginginfo>
+								<labels>
+									<label2 />
+								</labels>
+								<comments>
+									<mastercomment1 />
+									<mastercomment2 />
+									<mastercomment3 />
+									<mastercomment4 />
+								</comments>
+								<file id="PRSC1 SINGLE SHOT + PAN " />
+								<filter>
+									<effect>
+										<name>Audio Levels</name>
+										<effectid>audiolevels</effectid>
+										<effectcategory>audiolevels</effectcategory>
+										<effecttype>audiolevels</effecttype>
+										<mediatype>audio</mediatype>
+										<parameter>
+											<name>Level</name>
+											<parameterid>level</parameterid>
+											<valuemin>0</valuemin>
+											<valuemax>3,98109</valuemax>
+											<value>1</value>
+										</parameter>
+									</effect>
+								</filter>
+								<filter>
+									<effect>
+										<name>Audio Pan</name>
+										<effectid>audiopan</effectid>
+										<effectcategory>audiopan</effectcategory>
+										<effecttype>audiopan</effecttype>
+										<mediatype>audio</mediatype>
+										<parameter>
+											<name>Pan</name>
+											<parameterid>pan</parameterid>
+											<valuemin>-1</valuemin>
+											<valuemax>1</valuemax>
+											<value>1</value>
+										</parameter>
+									</effect>
+								</filter>
+								<sourcetrack>
+									<mediatype>audio</mediatype>
+									<trackindex>2</trackindex>
+								</sourcetrack>
+								<link>
+									<linkclipref>PRSC1 SINGLE SHOT + PAN .mp4805307613</linkclipref>
+								</link>
+								<link>
+									<linkclipref>PRSC1 SINGLE SHOT + PAN .mp4536872158</linkclipref>
+								</link>
+								<link>
+									<linkclipref>PRSC1 SINGLE SHOT + PAN .mp45368721581</linkclipref>
+								</link>
+								<link>
+									<linkclipref>PRSC1 SINGLE SHOT + PAN .mp4536872159</linkclipref>
+								</link>
+								<link>
+									<linkclipref>PRSC1 SINGLE SHOT + PAN .mp45368721591</linkclipref>
+								</link>
+							</clipitem>
+							<clipitem id="PRSC1 EXTRA SHOT.mp45368721611">
+								<name>PRSC1 EXTRA SHOT.mp4</name>
+								<duration>1322</duration>
+								<rate>
+									<ntsc>TRUE</ntsc>
+									<timebase>24</timebase>
+								</rate>
+								<in>0</in>
+								<out>1322</out>
+								<start>23846</start>
+								<end>25168</end>
+								<masterclipid>PRSC1 EXTRA SHOT.mp4</masterclipid>
+								<logginginfo>
+									<scene />
+									<shottake />
+									<lognote />
+									<good>FALSE</good>
+								</logginginfo>
+								<labels>
+									<label2 />
+								</labels>
+								<comments>
+									<mastercomment1 />
+									<mastercomment2 />
+									<mastercomment3 />
+									<mastercomment4 />
+								</comments>
+								<file id="PRSC1 EXTRA SHOT" />
+								<filter>
+									<effect>
+										<name>Audio Levels</name>
+										<effectid>audiolevels</effectid>
+										<effectcategory>audiolevels</effectcategory>
+										<effecttype>audiolevels</effecttype>
+										<mediatype>audio</mediatype>
+										<parameter>
+											<name>Level</name>
+											<parameterid>level</parameterid>
+											<valuemin>0</valuemin>
+											<valuemax>3,98109</valuemax>
+											<value>1</value>
+										</parameter>
+									</effect>
+								</filter>
+								<filter>
+									<effect>
+										<name>Audio Pan</name>
+										<effectid>audiopan</effectid>
+										<effectcategory>audiopan</effectcategory>
+										<effecttype>audiopan</effecttype>
+										<mediatype>audio</mediatype>
+										<parameter>
+											<name>Pan</name>
+											<parameterid>pan</parameterid>
+											<valuemin>-1</valuemin>
+											<valuemax>1</valuemax>
+											<value>1</value>
+										</parameter>
+									</effect>
+								</filter>
+								<sourcetrack>
+									<mediatype>audio</mediatype>
+									<trackindex>2</trackindex>
+								</sourcetrack>
+								<link>
+									<linkclipref>PRSC1 EXTRA SHOT.mp4805307616</linkclipref>
+								</link>
+								<link>
+									<linkclipref>PRSC1 EXTRA SHOT.mp4536872161</linkclipref>
+								</link>
+								<link>
+									<linkclipref>PRSC1 EXTRA SHOT.mp45368721611</linkclipref>
+								</link>
+								<link>
+									<linkclipref>PRSC1 EXTRA SHOT.mp4536872162</linkclipref>
+								</link>
+								<link>
+									<linkclipref>PRSC1 EXTRA SHOT.mp45368721621</linkclipref>
+								</link>
+							</clipitem>
+							<clipitem id="PRSC1 Close Up SLIDE IN Diktator.mp45368721641">
+								<name>PRSC1 Close Up SLIDE IN Diktator.mp4</name>
+								<duration>835</duration>
+								<rate>
+									<ntsc>TRUE</ntsc>
+									<timebase>24</timebase>
+								</rate>
+								<in>0</in>
+								<out>835</out>
+								<start>25169</start>
+								<end>26005</end>
+								<masterclipid>PRSC1 Close Up SLIDE IN Diktator.mp4</masterclipid>
+								<logginginfo>
+									<scene />
+									<shottake />
+									<lognote />
+									<good>FALSE</good>
+								</logginginfo>
+								<labels>
+									<label2 />
+								</labels>
+								<comments>
+									<mastercomment1 />
+									<mastercomment2 />
+									<mastercomment3 />
+									<mastercomment4 />
+								</comments>
+								<file id="PRSC1 Close Up SLIDE IN Diktator" />
+								<filter>
+									<effect>
+										<name>Audio Levels</name>
+										<effectid>audiolevels</effectid>
+										<effectcategory>audiolevels</effectcategory>
+										<effecttype>audiolevels</effecttype>
+										<mediatype>audio</mediatype>
+										<parameter>
+											<name>Level</name>
+											<parameterid>level</parameterid>
+											<valuemin>0</valuemin>
+											<valuemax>3,98109</valuemax>
+											<value>1</value>
+										</parameter>
+									</effect>
+								</filter>
+								<filter>
+									<effect>
+										<name>Audio Pan</name>
+										<effectid>audiopan</effectid>
+										<effectcategory>audiopan</effectcategory>
+										<effecttype>audiopan</effecttype>
+										<mediatype>audio</mediatype>
+										<parameter>
+											<name>Pan</name>
+											<parameterid>pan</parameterid>
+											<valuemin>-1</valuemin>
+											<valuemax>1</valuemax>
+											<value>1</value>
+										</parameter>
+									</effect>
+								</filter>
+								<sourcetrack>
+									<mediatype>audio</mediatype>
+									<trackindex>2</trackindex>
+								</sourcetrack>
+								<link>
+									<linkclipref>PRSC1 Close Up SLIDE IN Diktator.mp4805307619</linkclipref>
+								</link>
+								<link>
+									<linkclipref>PRSC1 Close Up SLIDE IN Diktator.mp4536872164</linkclipref>
+								</link>
+								<link>
+									<linkclipref>PRSC1 Close Up SLIDE IN Diktator.mp45368721641</linkclipref>
+								</link>
+								<link>
+									<linkclipref>PRSC1 Close Up SLIDE IN Diktator.mp4536872165</linkclipref>
+								</link>
+								<link>
+									<linkclipref>PRSC1 Close Up SLIDE IN Diktator.mp45368721651</linkclipref>
+								</link>
+							</clipitem>
+							<clipitem id="PRSC1 CLOSE UP - Slide out Diktator.mp45368721671">
+								<name>PRSC1 CLOSE UP - Slide out Diktator.mp4</name>
+								<duration>817</duration>
+								<rate>
+									<ntsc>TRUE</ntsc>
+									<timebase>24</timebase>
+								</rate>
+								<in>0</in>
+								<out>817</out>
+								<start>26005</start>
+								<end>26822</end>
+								<masterclipid>PRSC1 CLOSE UP - Slide out Diktator.mp4</masterclipid>
+								<logginginfo>
+									<scene />
+									<shottake />
+									<lognote />
+									<good>FALSE</good>
+								</logginginfo>
+								<labels>
+									<label2 />
+								</labels>
+								<comments>
+									<mastercomment1 />
+									<mastercomment2 />
+									<mastercomment3 />
+									<mastercomment4 />
+								</comments>
+								<file id="PRSC1 CLOSE UP - Slide out Diktator" />
+								<filter>
+									<effect>
+										<name>Audio Levels</name>
+										<effectid>audiolevels</effectid>
+										<effectcategory>audiolevels</effectcategory>
+										<effecttype>audiolevels</effecttype>
+										<mediatype>audio</mediatype>
+										<parameter>
+											<name>Level</name>
+											<parameterid>level</parameterid>
+											<valuemin>0</valuemin>
+											<valuemax>3,98109</valuemax>
+											<value>1</value>
+										</parameter>
+									</effect>
+								</filter>
+								<filter>
+									<effect>
+										<name>Audio Pan</name>
+										<effectid>audiopan</effectid>
+										<effectcategory>audiopan</effectcategory>
+										<effecttype>audiopan</effecttype>
+										<mediatype>audio</mediatype>
+										<parameter>
+											<name>Pan</name>
+											<parameterid>pan</parameterid>
+											<valuemin>-1</valuemin>
+											<valuemax>1</valuemax>
+											<value>1</value>
+										</parameter>
+									</effect>
+								</filter>
+								<sourcetrack>
+									<mediatype>audio</mediatype>
+									<trackindex>2</trackindex>
+								</sourcetrack>
+								<link>
+									<linkclipref>PRSC1 CLOSE UP - Slide out Diktator.mp4805307622</linkclipref>
+								</link>
+								<link>
+									<linkclipref>PRSC1 CLOSE UP - Slide out Diktator.mp4536872167</linkclipref>
+								</link>
+								<link>
+									<linkclipref>PRSC1 CLOSE UP - Slide out Diktator.mp45368721671</linkclipref>
+								</link>
+								<link>
+									<linkclipref>PRSC1 CLOSE UP - Slide out Diktator.mp4536872168</linkclipref>
+								</link>
+								<link>
+									<linkclipref>PRSC1 CLOSE UP - Slide out Diktator.mp45368721681</linkclipref>
+								</link>
+							</clipitem>
+						</track>
+					</audio>
+				</media>
+				<marker>
+					<name>SCENE1</name>
+					<in>0</in>
+					<out>-1</out>
+					<color>
+						<alpha>0</alpha>
+						<red>255</red>
+						<green>127</green>
+						<blue>0</blue>
+					</color>
+				</marker>
+			</sequence>
+		</children>
+	</project>
+</xmeml>

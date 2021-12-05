@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--DbAppVer="17.4.2.0009" DbPrjVer="10"-->
+<SmPTZRInputPresetList DbId="24b3f081-e668-4107-97d8-5b0db3dcc106">
+ <FieldsBlob/>
+ <PresetList>
+  <Element>
+   <SmPTZRPreset DbId="70e16568-7e16-4859-8859-c5a1fb7b394f">
+    <FieldsBlob/>
+    <Name>None</Name>
+    <ID>101</ID>
+    <IsCustom>false</IsCustom>
+    <Producer>Producer@Resolve</Producer>
+    <Presets>7b7d</Presets>
+   </SmPTZRPreset>
+  </Element>
+ </PresetList>
+</SmPTZRInputPresetList>
